@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FOMO Off</title>
+    <link>https://wing525.github.io/fomo-off-podcast/</link>
+    <language>zh-cn</language>
+    <description>《FOMO Off》是一档聚焦 AI 前沿的早间播客。每天 5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>wing</itunes:author>
+    <itunes:summary>每天5分钟，同步人工智能前线。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover.jpg"/>
+    <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>FOMO OFF｜2026-02-24｜人工智能前线 5 分钟</title>
+      <description><![CDATA[每天5分钟，同步人工智能前线。\n本期聚焦过去48小时人工智能领域关键动态。]]></description>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-02-24-ep001</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-24-ep001.mp3" length="1111392" type="audio/mpeg"/>
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:06:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>每天5分钟，同步人工智能前线。</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
