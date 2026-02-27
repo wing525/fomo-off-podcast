@@ -15,7 +15,20 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-20260226.jpg"/>
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
+    
     <item>
+      <title>2026.02.27｜OpenAI与微软同日加速“从聊天到执行”</title>
+      <description><![CDATA[每天5分钟，同步人工智能前线。今天聚焦 OpenAI、微软、Anthropic 与政务审批基准的最新进展。]]></description>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-02-27-ep002</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-27-ep002.mp3" length="707040" type="audio/mpeg"/>
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>每天5分钟，同步人工智能前线。</p>]]></content:encoded>
+    </item>
+<item>
       <title>FOMO OFF｜2026-02-24｜人工智能前线 5 分钟</title>
       <description><![CDATA[每天5分钟，同步人工智能前线。\n本期聚焦过去48小时人工智能领域关键动态。]]></description>
       <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
