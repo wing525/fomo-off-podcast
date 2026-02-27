@@ -18,7 +18,21 @@
     
     <item>
       <title>2026.02.27｜OpenAI与微软同日加速“从聊天到执行”</title>
-      <description><![CDATA[每天5分钟，同步人工智能前线。今天聚焦 OpenAI、微软、Anthropic 与政务审批基准的最新进展。]]></description>
+      <description><![CDATA[今天这期，我们重点看 5 条更新：
+1) OpenAI 与 Figma 发布代码到设计的一体化协作能力。
+2) 微软发布 Copilot Tasks 研究预览，支持一次性、定时和循环任务执行。
+3) 路透报道 OpenAI 将把伦敦打造为美国外最大研究枢纽。
+4) Anthropic 更新 Opus 3 退役承诺，继续向付费用户开放并提供 API 申请。
+5) OpenAI 与 PNNL 发布 DraftNEPABench（用于评估 AI 加速联邦环境审批文书的基准）。
+
+一句话总结：行业竞争正在从“谁回答更好”转向“谁执行更稳、流程更可控”。
+
+Sources：
+- OpenAI｜OpenAI Codex and Figma launch seamless code-to-design experience｜https://openai.com/index/figma-partnership
+- Microsoft Copilot Blog｜Copilot Tasks: From Answers to Actions｜https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/02/26/copilot-tasks-from-answers-to-actions/
+- Reuters｜OpenAI to make London its biggest research hub outside US｜https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/
+- Anthropic｜An update on our model deprecation commitments for Claude Opus 3｜https://www.anthropic.com/research/deprecation-updates-opus-3
+- OpenAI｜Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting｜https://openai.com/index/pacific-northwest-national-laboratory]]></description>
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-02-27-ep002</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-27-ep002.mp3" length="707040" type="audio/mpeg"/>
@@ -26,7 +40,7 @@
       <itunes:duration>00:05:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded><![CDATA[<p>每天5分钟，同步人工智能前线。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>今天这期，我们重点看 5 条更新：</p><p>1) OpenAI 与 Figma 发布代码到设计的一体化协作能力。</p><p>2) 微软发布 Copilot Tasks 研究预览，支持一次性、定时和循环任务执行。</p><p>3) 路透报道 OpenAI 将把伦敦打造为美国外最大研究枢纽。</p><p>4) Anthropic 更新 Opus 3 退役承诺，继续向付费用户开放并提供 API 申请。</p><p>5) OpenAI 与 PNNL 发布 DraftNEPABench（用于评估 AI 加速联邦环境审批文书的基准）。</p><p></p><p>一句话总结：行业竞争正在从“谁回答更好”转向“谁执行更稳、流程更可控”。</p><p></p><p>Sources：</p><p>- OpenAI｜OpenAI Codex and Figma launch seamless code-to-design experience｜https://openai.com/index/figma-partnership</p><p>- Microsoft Copilot Blog｜Copilot Tasks: From Answers to Actions｜https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/02/26/copilot-tasks-from-answers-to-actions/</p><p>- Reuters｜OpenAI to make London its biggest research hub outside US｜https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/</p><p>- Anthropic｜An update on our model deprecation commitments for Claude Opus 3｜https://www.anthropic.com/research/deprecation-updates-opus-3</p><p>- OpenAI｜Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting｜https://openai.com/index/pacific-northwest-national-laboratory</p>]]></content:encoded>
     </item>
 <item>
       <title>FOMO OFF｜2026-02-24｜人工智能前线 5 分钟</title>
