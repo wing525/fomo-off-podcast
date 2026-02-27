@@ -7,10 +7,10 @@
     <title>FOMO Off</title>
     <link>https://wing525.github.io/fomo-off-podcast/</link>
     <language>zh-cn</language>
-    <description>《FOMO Off》是一档聚焦 AI 前沿的早间播客。每天 5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。</description>
+    <description>《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。</description>
     <itunes:type>episodic</itunes:type>
     <itunes:author>wing</itunes:author>
-    <itunes:summary>每天5分钟，同步人工智能前线。</itunes:summary>
+    <itunes:summary>《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-20260226.jpg"/>
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml"/>
