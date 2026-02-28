@@ -16,7 +16,20 @@
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     
+    
     <item>
+      <title>2026.02.28｜OpenAI用户规模逼近10亿，AI基础设施进入重投入期</title>
+      <description><![CDATA[今天这期，我们重点看 4 条更新：OpenAI 用户与融资规模、AWS 强化微调实践、NVIDIA 与礼来 AI Factory、Hugging Face MoE 工程解读。]]></description>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-02-28-ep003</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-28-ep003.mp3" length="751392" type="audio/mpeg"/>
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:05:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>今天这期，我们重点看 4 条更新：OpenAI 用户与融资规模、AWS 强化微调实践、NVIDIA 与礼来 AI Factory、Hugging Face MoE 工程解读。</p>]]></content:encoded>
+    </item>
+<item>
       <title>2026.02.27｜OpenAI与微软同日加速“从聊天到执行”</title>
       <description><![CDATA[今天这期，我们重点看 5 条更新：
 1) OpenAI 与 Figma 发布代码到设计的一体化协作能力。
