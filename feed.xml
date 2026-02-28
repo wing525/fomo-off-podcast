@@ -19,15 +19,31 @@
     
     <item>
       <title>2026.02.28｜OpenAI用户规模逼近10亿，AI基础设施进入重投入期</title>
-      <description><![CDATA[今天这期，我们重点看 4 条更新：OpenAI 用户与融资规模、AWS 强化微调实践、NVIDIA 与礼来 AI Factory、Hugging Face MoE 工程解读。]]></description>
+      <description><![CDATA[今天这期，我们重点看 4 条更新：
+1) OpenAI 披露 ChatGPT 周活 9 亿、订阅 5000 万，并宣布新一轮 1100 亿美元融资。
+2) AWS 发布 Amazon Nova 强化微调实践（用反馈信号持续优化模型行为）。
+3) NVIDIA 与礼来上线 LillyPod，推进医药场景 AI Factory（算力、数据、工程一体化）。
+4) Hugging Face 更新 MoE 工程解读（混合专家架构，提升容量同时控制计算成本）。
+
+一句话总结：AI 竞争正从“模型能力展示”升级为“用户规模、资本规模、算力规模和工程规模”并行竞速。
+
+Sources：
+- TechCrunch｜ChatGPT reaches 900M weekly active users｜https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/
+- The Verge｜OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank｜https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment
+- AWS Machine Learning Blog｜Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback｜https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/
+- NVIDIA Blog｜Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development｜https://blogs.nvidia.com/blog/lilly-ai-factory-live/
+- Hugging Face Blog｜Mixture of Experts (MoEs) in Transformers｜https://huggingface.co/blog/moe-transformers
+
+节目简介：
+《FOMO OFF》是一档中文 AI 早间播客：每天 5 分钟，优先追踪 48 小时内关键动态，用“事实先行、影响随后”的方式，帮你快速完成 AI 行业信息同步。]]></description>
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-02-28-ep003</guid>
-      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-28-ep003.mp3" length="751392" type="audio/mpeg"/>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-28-ep003.mp3" length="1259280" type="audio/mpeg"/>
       <itunes:author>wing</itunes:author>
       <itunes:duration>00:05:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded><![CDATA[<p>今天这期，我们重点看 4 条更新：OpenAI 用户与融资规模、AWS 强化微调实践、NVIDIA 与礼来 AI Factory、Hugging Face MoE 工程解读。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>今天这期，我们重点看 4 条更新：</p><p>1) OpenAI 披露 ChatGPT 周活 9 亿、订阅 5000 万，并宣布新一轮 1100 亿美元融资。</p><p>2) AWS 发布 Amazon Nova 强化微调实践（用反馈信号持续优化模型行为）。</p><p>3) NVIDIA 与礼来上线 LillyPod，推进医药场景 AI Factory（算力、数据、工程一体化）。</p><p>4) Hugging Face 更新 MoE 工程解读（混合专家架构，提升容量同时控制计算成本）。</p><p></p><p>一句话总结：AI 竞争正从“模型能力展示”升级为“用户规模、资本规模、算力规模和工程规模”并行竞速。</p><p></p><p>Sources：</p><p>- TechCrunch｜ChatGPT reaches 900M weekly active users｜https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/</p><p>- The Verge｜OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank｜https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment</p><p>- AWS Machine Learning Blog｜Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback｜https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/</p><p>- NVIDIA Blog｜Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development｜https://blogs.nvidia.com/blog/lilly-ai-factory-live/</p><p>- Hugging Face Blog｜Mixture of Experts (MoEs) in Transformers｜https://huggingface.co/blog/moe-transformers</p><p></p><p>节目简介：</p><p>《FOMO OFF》是一档中文 AI 早间播客：每天 5 分钟，优先追踪 48 小时内关键动态，用“事实先行、影响随后”的方式，帮你快速完成 AI 行业信息同步。</p>]]></content:encoded>
     </item>
 <item>
       <title>2026.02.27｜OpenAI与微软同日加速“从聊天到执行”</title>
