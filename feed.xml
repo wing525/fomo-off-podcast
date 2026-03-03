@@ -19,7 +19,44 @@
     
     
     
+    
     <item>
+      <title>2026.03.03｜AI 从“能用”走向“可治理与可用性”之争</title>
+      <description><![CDATA[要点
+- Claude 在 3 月 2 日出现多轮异常，凸显 AI 服务稳定性成为核心竞争维度。
+- 科技从业者联署反对“供应链风险”标签，AI 政策博弈继续升级。
+- iPhone 17e 将 Apple Intelligence 下探到 599 美元价位，端侧 AI 覆盖面扩大。
+- 14.ai 融资并推进 AI-native 客服交付，企业采购从“买软件”走向“买结果”。
+
+一句话总结
+- AI 进入“可用性 + 可治理 + 可规模分发”并行竞争阶段，单点模型优势已不足以决定胜负。
+
+Sources
+- status.claude.com｜Claude Status
+https://status.claude.com/
+- TechCrunch｜Anthropic’s Claude reports widespread outage
+https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/
+- TechCrunch｜Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk
+https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/
+- Apple Newsroom｜Apple introduces iPhone 17e
+https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/
+- TechCrunch｜Apple bakes in AI smarts into its new $599 iPhone 17e
+https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/
+- TechCrunch｜14.ai is replacing customer support teams at startups
+https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/
+
+节目简介
+《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。]]></description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-03-ep006</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-03-ep006.mp3" length="1048464" type="audio/mpeg"/>
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>要点</p><p>- Claude 在 3 月 2 日出现多轮异常，凸显 AI 服务稳定性成为核心竞争维度。</p><p>- 科技从业者联署反对“供应链风险”标签，AI 政策博弈继续升级。</p><p>- iPhone 17e 将 Apple Intelligence 下探到 599 美元价位，端侧 AI 覆盖面扩大。</p><p>- 14.ai 融资并推进 AI-native 客服交付，企业采购从“买软件”走向“买结果”。</p><p></p><p>一句话总结</p><p>- AI 进入“可用性 + 可治理 + 可规模分发”并行竞争阶段，单点模型优势已不足以决定胜负。</p><p></p><p>Sources</p><p>- status.claude.com｜Claude Status</p><p>https://status.claude.com/</p><p>- TechCrunch｜Anthropic’s Claude reports widespread outage</p><p>https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/</p><p>- TechCrunch｜Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk</p><p>https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/</p><p>- Apple Newsroom｜Apple introduces iPhone 17e</p><p>https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/</p><p>- TechCrunch｜Apple bakes in AI smarts into its new $599 iPhone 17e</p><p>https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/</p><p>- TechCrunch｜14.ai is replacing customer support teams at startups</p><p>https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/</p><p></p><p>节目简介</p><p>《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。</p>]]></content:encoded>
+    </item>
+<item>
       <title>2026.03.02｜监管与军工边界继续收紧，AI 正在进入“可部署时代”</title>
       <description><![CDATA[要点
 - 澳大利亚拟将 AI 时代监管外扩至应用商店与搜索入口。
