@@ -20,7 +20,40 @@
     
     
     
+    
     <item>
+      <title>2026.03.04｜端侧AI与AI-RAN同步提速：苹果双Mac上新，三星推进商用网络AI</title>
+      <description><![CDATA[要点
+- Apple 同日更新 MacBook Pro 与 MacBook Air，两条产品线都在强化端侧 AI。
+- Samsung 与 AMD、NVIDIA 的连续动作，显示 AI-RAN 从验证走向商用。
+- AI-RAN 的核心价值是：在同样网络资源下，提升性能并降低成本。
+- 终端与网络两端同时升级，AI 竞争从模型能力扩展到设备默认能力与网络承载效率。
+
+一句话总结
+- AI 竞争正在从“模型参数”升级为“端侧算力普及 + 网络智能化落地”的双线赛跑。
+
+Sources
+1) Apple introduces MacBook Pro with all‑new M5 Pro and M5 Max (2026-03-03)
+https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
+2) Apple introduces the new MacBook Air with M5 (2026-03-03)
+https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/
+3) Samsung and AMD Reinforce Strategic Collaboration (2026-03-02)
+https://news.samsung.com/global/samsung-and-amd-reinforce-strategic-collaboration-to-advance-ai-powered-network-innovations-for-commercial-deployments
+4) Samsung Takes Next Stride Toward AI-Native Software-Driven Networks With NVIDIA (2026-03-01)
+https://news.samsung.com/global/samsung-takes-next-stride-toward-ai-native-software-driven-networks-with-nvidia
+
+节目简介
+《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。]]></description>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-04-ep007</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-04-ep007.mp3" length="1753508" type="audio/mpeg"/>
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[<p>要点</p><p>- Apple 同日更新 MacBook Pro 与 MacBook Air，两条产品线都在强化端侧 AI。</p><p>- Samsung 与 AMD、NVIDIA 的连续动作，显示 AI-RAN 从验证走向商用。</p><p>- AI-RAN 的核心价值是：在同样网络资源下，提升性能并降低成本。</p><p>- 终端与网络两端同时升级，AI 竞争从模型能力扩展到设备默认能力与网络承载效率。</p><p></p><p>一句话总结</p><p>- AI 竞争正在从“模型参数”升级为“端侧算力普及 + 网络智能化落地”的双线赛跑。</p><p></p><p>Sources</p><p>1) Apple introduces MacBook Pro with all‑new M5 Pro and M5 Max (2026-03-03)</p><p>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</p><p>2) Apple introduces the new MacBook Air with M5 (2026-03-03)</p><p>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</p><p>3) Samsung and AMD Reinforce Strategic Collaboration (2026-03-02)</p><p>https://news.samsung.com/global/samsung-and-amd-reinforce-strategic-collaboration-to-advance-ai-powered-network-innovations-for-commercial-deployments</p><p>4) Samsung Takes Next Stride Toward AI-Native Software-Driven Networks With NVIDIA (2026-03-01)</p><p>https://news.samsung.com/global/samsung-takes-next-stride-toward-ai-native-software-driven-networks-with-nvidia</p><p></p><p>节目简介</p><p>《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。</p>]]></content:encoded>
+    </item>
+<item>
       <title>2026.03.03｜AI 从“能用”走向“可治理与可用性”之争</title>
       <description><![CDATA[要点
 - Claude 在 3 月 2 日出现多轮异常，凸显 AI 服务稳定性成为核心竞争维度。
