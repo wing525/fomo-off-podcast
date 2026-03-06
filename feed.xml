@@ -12,7 +12,32 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-20260226.jpg" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item>
+    <item><title>2026.03.06｜GPT-5.4 发布，模型能力与产业约束同步升级</title><description>### 要点
+- OpenAI 于 3 月 5 日发布 GPT-5.4，旗舰模型完成新一轮迭代。
+- 美国被曝考虑更大范围芯片出口管制，全球算力供给不确定性上升。
+- Hugging Face 发布 Modular Diffusers，扩散模型开发流程向模块化转型。
+- Cursor 被曝推出新型 agentic coding 工具，AI 编程从补全走向任务闭环。
+- AWS 被曝上线医疗场景 AI Agent 平台，垂直行业落地继续深入。
+
+### Sources
+- OpenAI: Introducing GPT-5.4  
+  https://openai.com/index/introducing-gpt-5-4
+- TechCrunch: US reportedly considering sweeping new chip export controls  
+  https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/
+- Hugging Face: Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines  
+  https://huggingface.co/blog/modular-diffusers
+- TechCrunch: Cursor is rolling out a new kind of agentic coding tool  
+  https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/
+- TechCrunch: AWS launches a new AI agent platform specifically for healthcare  
+  https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/
+
+### 节目简介
+《FOMO Off》是一档聚焦 AI 前沿的早间播客，每天几分钟，帮你快速抓住值得关注的关键动态。我们坚持先事实、后影响，尽量用更低噪音的信息密度，帮你降低信息焦虑。
+
+以上就是今天的全部内容，我们明天见。
+
+一句话总结
+- 今天的关键信号是：模型能力继续上探、开发工具持续代理化、行业落地加速，但与此同时，算力与政策变量正在成为同等重要的约束条件。</description><pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-06-ep009</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-06-ep009.mp3" length="1284768" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:34</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 于 3 月 5 日发布 GPT-5.4，旗舰模型完成新一轮迭代。&lt;/p&gt;&lt;p&gt;- 美国被曝考虑更大范围芯片出口管制，全球算力供给不确定性上升。&lt;/p&gt;&lt;p&gt;- Hugging Face 发布 Modular Diffusers，扩散模型开发流程向模块化转型。&lt;/p&gt;&lt;p&gt;- Cursor 被曝推出新型 agentic coding 工具，AI 编程从补全走向任务闭环。&lt;/p&gt;&lt;p&gt;- AWS 被曝上线医疗场景 AI Agent 平台，垂直行业落地继续深入。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing GPT-5.4  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/introducing-gpt-5-4&lt;/p&gt;&lt;p&gt;- TechCrunch: US reportedly considering sweeping new chip export controls  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/&lt;/p&gt;&lt;p&gt;- Hugging Face: Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines  &lt;/p&gt;&lt;p&gt;  https://huggingface.co/blog/modular-diffusers&lt;/p&gt;&lt;p&gt;- TechCrunch: Cursor is rolling out a new kind of agentic coding tool  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/&lt;/p&gt;&lt;p&gt;- TechCrunch: AWS launches a new AI agent platform specifically for healthcare  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦 AI 前沿的早间播客，每天几分钟，帮你快速抓住值得关注的关键动态。我们坚持先事实、后影响，尽量用更低噪音的信息密度，帮你降低信息焦虑。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 今天的关键信号是：模型能力继续上探、开发工具持续代理化、行业落地加速，但与此同时，算力与政策变量正在成为同等重要的约束条件。&lt;/p&gt;</content:encoded></item><item>
       <title>2026.03.05｜GPT-5.3 Instant 落地，AI 入口与隐私边界同步重写</title>
       <description>要点
 - OpenAI 于 3 月 3 日发布 GPT-5.3 Instant 更新，强化日常对话体验与可用性。
