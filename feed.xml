@@ -12,7 +12,32 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-20260226.jpg" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item><title>2026.03.08｜GPT-5.4发布领跑，AI产品化与基础设施同步重排</title><description>### 要点
+    <item><title>2026.03.09｜OpenAI发Codex Security，谷歌将Gemini接入马来西亚全部公立大学</title><description>### 要点
+- OpenAI 发布 Codex Security 研究预览版，AI 安全工具进入早期产品化阶段。
+- Gemini for Education 已覆盖马来西亚全部公立大学，教育场景从试点走向系统化部署。
+- OpenAI 披露 Descript 多语言配音案例，内容生产进入跨语言规模化阶段。
+- WhatsApp 将在巴西开放第三方 AI 聊天机器人，平台生态更开放也更考验治理。
+- OpenAI 高管因国防合作争议离职，组织价值取向影响人才与信任。
+- Agent Safehouse 受到关注，本地 Agent 的“默认安全”需求上升。
+
+### Sources
+- OpenAI: Codex Security: now in research preview  
+  https://openai.com/index/codex-security-now-in-research-preview
+- Google Blog: Enabling Gemini for Education across all Malaysian public universities  
+  https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/
+- OpenAI: How Descript enables multilingual video dubbing at scale  
+  https://openai.com/index/descript
+- TechCrunch: After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil  
+  https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/
+- TechCrunch: OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal  
+  https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/
+- Agent Safehouse: macOS-native sandboxing for local agents  
+  https://agent-safehouse.dev/
+
+### 节目简介
+《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-09-ep012-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-09-ep012-v1.mp3" length="1211472" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:22</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 发布 Codex Security 研究预览版，AI 安全工具进入早期产品化阶段。&lt;/p&gt;&lt;p&gt;- Gemini for Education 已覆盖马来西亚全部公立大学，教育场景从试点走向系统化部署。&lt;/p&gt;&lt;p&gt;- OpenAI 披露 Descript 多语言配音案例，内容生产进入跨语言规模化阶段。&lt;/p&gt;&lt;p&gt;- WhatsApp 将在巴西开放第三方 AI 聊天机器人，平台生态更开放也更考验治理。&lt;/p&gt;&lt;p&gt;- OpenAI 高管因国防合作争议离职，组织价值取向影响人才与信任。&lt;/p&gt;&lt;p&gt;- Agent Safehouse 受到关注，本地 Agent 的“默认安全”需求上升。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Codex Security: now in research preview  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/codex-security-now-in-research-preview&lt;/p&gt;&lt;p&gt;- Google Blog: Enabling Gemini for Education across all Malaysian public universities  &lt;/p&gt;&lt;p&gt;  https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/&lt;/p&gt;&lt;p&gt;- OpenAI: How Descript enables multilingual video dubbing at scale  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/descript&lt;/p&gt;&lt;p&gt;- TechCrunch: After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/&lt;/p&gt;&lt;p&gt;- TechCrunch: OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/&lt;/p&gt;&lt;p&gt;- Agent Safehouse: macOS-native sandboxing for local agents  &lt;/p&gt;&lt;p&gt;  https://agent-safehouse.dev/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.08｜GPT-5.4发布领跑，AI产品化与基础设施同步重排</title><description>### 要点
 - OpenAI 发布 GPT-5.4，模型能力基线继续上移。
 - Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。
 - OpenAI 推出 ChatGPT for Excel 与金融数据集成，办公场景加速智能化。
