@@ -12,7 +12,29 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-20260226.jpg" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item><title>2026.03.09｜OpenAI发Codex Security，谷歌将Gemini接入马来西亚全部公立大学</title><description>### 要点
+    <item><title>2026.03.10｜OpenAI 收购 Promptfoo，AI 安全与协作生态同步升温</title><description>### 要点
+- OpenAI 宣布收购 Promptfoo，AI 安全评测能力进一步前置。
+- Anthropic 推出 Claude Code Review 预览，AI 编程助手向审查环节延伸。
+- 微软在 Copilot 预览中引入 Claude Cowork，办公 AI 进入多助手协作阶段。
+- Apple 硬件节奏或与 Siri/AI 交付能力更紧密绑定。
+- Anthropic 与五角大楼争议持续发酵，创业公司对国防合作态度更谨慎。
+
+### Sources
+- OpenAI: OpenAI to acquire Promptfoo  
+  https://openai.com/index/openai-to-acquire-promptfoo/
+- The Verge: Anthropic’s latest Claude Code update is designed to find bugs for you  
+  https://www.theverge.com/ai-artificial-intelligence
+- Microsoft: Copilot Frontier Program  
+  https://adoption.microsoft.com/en-gb/copilot/frontier-program/
+- The Verge: Apple’s hardware rollouts will apparently depend on what Siri can do, and when  
+  https://www.theverge.com/ai-artificial-intelligence
+- TechCrunch: Will the Pentagon’s Anthropic controversy scare startups away from defense work?  
+  https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/
+
+### 节目简介
+《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-10-ep013-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-10-ep013-v1.mp3" length="1057248" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:56</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 宣布收购 Promptfoo，AI 安全评测能力进一步前置。&lt;/p&gt;&lt;p&gt;- Anthropic 推出 Claude Code Review 预览，AI 编程助手向审查环节延伸。&lt;/p&gt;&lt;p&gt;- 微软在 Copilot 预览中引入 Claude Cowork，办公 AI 进入多助手协作阶段。&lt;/p&gt;&lt;p&gt;- Apple 硬件节奏或与 Siri/AI 交付能力更紧密绑定。&lt;/p&gt;&lt;p&gt;- Anthropic 与五角大楼争议持续发酵，创业公司对国防合作态度更谨慎。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: OpenAI to acquire Promptfoo  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/openai-to-acquire-promptfoo/&lt;/p&gt;&lt;p&gt;- The Verge: Anthropic’s latest Claude Code update is designed to find bugs for you  &lt;/p&gt;&lt;p&gt;  https://www.theverge.com/ai-artificial-intelligence&lt;/p&gt;&lt;p&gt;- Microsoft: Copilot Frontier Program  &lt;/p&gt;&lt;p&gt;  https://adoption.microsoft.com/en-gb/copilot/frontier-program/&lt;/p&gt;&lt;p&gt;- The Verge: Apple’s hardware rollouts will apparently depend on what Siri can do, and when  &lt;/p&gt;&lt;p&gt;  https://www.theverge.com/ai-artificial-intelligence&lt;/p&gt;&lt;p&gt;- TechCrunch: Will the Pentagon’s Anthropic controversy scare startups away from defense work?  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.09｜OpenAI发Codex Security，谷歌将Gemini接入马来西亚全部公立大学</title><description>### 要点
 - OpenAI 发布 Codex Security 研究预览版，AI 安全工具进入早期产品化阶段。
 - Gemini for Education 已覆盖马来西亚全部公立大学，教育场景从试点走向系统化部署。
 - OpenAI 披露 Descript 多语言配音案例，内容生产进入跨语言规模化阶段。
