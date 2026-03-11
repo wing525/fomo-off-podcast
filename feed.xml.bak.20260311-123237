@@ -15,61 +15,7 @@
     <ns0:explicit>false</ns0:explicit>
     <ns0:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <ns1:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    
     <item>
-      <title>2026.03.11｜Readhn、Lumen、Rampart：开发者智能体从可用到可控</title>
-      <description>本期要点
-- Readhn 把 Hacker News 检索、质量信号与解释合并到一个 MCP 服务，适合做选题前置层。
-- Lumen 用视觉上下文驱动浏览器智能体执行，降低网页自动化对 DOM 规则的依赖。
-- Rampart 为编码智能体提供运行时策略防火墙，把高风险动作拦截在执行边界内。
-- Assemble 用多角色波次并行机制组织复杂任务，提升中大型需求的推进效率。
-- SwiftUI-Agent-Skill 将苹果端 UI 开发动作模板化，减少重复提示与样板代码编写。
-
-今日工具
-- Readhn：面向开发者智能体的 HN MCP 服务，附带可解释信号拆解。https://github.com/xodn348/readhn
-- Lumen：vision-first 浏览器智能体框架，支持状态回放和会话恢复。https://github.com/omxyz/lumen
-- Rampart：AI 智能体防火墙，聚焦危险行为拦截与策略收紧。https://rampart.sh/
-- Assemble：Claude Code 多角色并行编排技能。https://github.com/LakshmiSravyaVedantham/assemble
-- SwiftUI-Agent-Skill：SwiftUI 开发专用智能体技能包。https://github.com/twostraws/SwiftUI-Agent-Skill
-
-一句话总结
-- 今天的关键信号是：开发者智能体能力正在从“能做事”迈向“可控、可复用、可规模化接入工作流”。
-
-节目简介
-一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。
-
-如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
-
-工具链接见上方，可直接点击访问。</description>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">lobster-2026-03-11-ep014-v1</guid>
-      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-11-lobster-ep014-v1.mp3" length="3668396" type="audio/mpeg" />
-      <ns0:author>wing</ns0:author>
-      <ns0:duration>00:03:49</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <ns0:episodeType>full</ns0:episodeType>
-      <ns2:encoded>
-&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Readhn 把 Hacker News 检索、质量信号与解释合并到一个 MCP 服务，适合做选题前置层。&lt;/li&gt;
-  &lt;li&gt;Lumen 用视觉上下文驱动浏览器智能体执行，降低网页自动化对 DOM 规则的依赖。&lt;/li&gt;
-  &lt;li&gt;Rampart 为编码智能体提供运行时策略防火墙，把高风险动作拦截在执行边界内。&lt;/li&gt;
-  &lt;li&gt;Assemble 用多角色波次并行机制组织复杂任务，提升中大型需求的推进效率。&lt;/li&gt;
-  &lt;li&gt;SwiftUI-Agent-Skill 将苹果端 UI 开发动作模板化，减少重复提示与样板代码编写。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Readhn&lt;/strong&gt;：面向开发者智能体的 HN MCP 服务，附带可解释信号拆解。&lt;a href=&quot;https://github.com/xodn348/readhn&quot;&gt;工具链接&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lumen&lt;/strong&gt;：vision-first 浏览器智能体框架，支持状态回放和会话恢复。&lt;a href=&quot;https://github.com/omxyz/lumen&quot;&gt;工具链接&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Rampart&lt;/strong&gt;：AI 智能体防火墙，聚焦危险行为拦截与策略收紧。&lt;a href=&quot;https://rampart.sh/&quot;&gt;工具链接&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Assemble&lt;/strong&gt;：Claude Code 多角色并行编排技能。&lt;a href=&quot;https://github.com/LakshmiSravyaVedantham/assemble&quot;&gt;工具链接&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;SwiftUI-Agent-Skill&lt;/strong&gt;：SwiftUI 开发专用智能体技能包。&lt;a href=&quot;https://github.com/twostraws/SwiftUI-Agent-Skill&quot;&gt;工具链接&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;一句话总结&lt;/strong&gt;&lt;br/&gt;今天的关键信号是：开发者智能体能力正在从“能做事”迈向“可控、可复用、可规模化接入工作流”。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。&lt;br/&gt;&lt;br/&gt;如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;
-&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</ns2:encoded>
-    </item>
-<item>
       <title>2026.03.10｜OpenAI 收购 Promptfoo，AI 安全与协作生态同步升温</title>
       <description>### 要点
 - OpenAI 宣布收购 Promptfoo，AI 安全评测能力进一步前置。
