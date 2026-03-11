@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:ns2="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>龙虾AI工具速报</title>
     <link>https://wing525.github.io/fomo-off-podcast/</link>
@@ -7,44 +7,17 @@
     <description>一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。
 
 如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。</description>
-    <itunes:type>episodic</itunes:type>
-    <itunes:author>wing</itunes:author>
-    <itunes:summary>一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。
+    <ns0:type>episodic</ns0:type>
+    <ns0:author>wing</ns0:author>
+    <ns0:summary>一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。
 
-如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
-    <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-
-    <item><title>2026.03.11｜Readhn、Lumen、Rampart：开发者智能体从可用到可控</title><description>### 要点
-- OpenAI 于 2026-03-09 宣布将收购 Promptfoo，用于加强 AI Agent 安全能力。
-- OpenAI 于 2026-03-10 发布 ChatGPT 新功能，用交互式可视化辅助数学与科学学习。
-- TechCrunch 于 2026-03-09 报道 Anthropic 发布代码审查工具以应对 AI 生成代码增长。
-- TechCrunch 于 2026-03-10 报道 Google 将新 Gemini 能力扩展到 Docs、Sheets、Slides 与 Drive。
-- TechCrunch 于 2026-03-10 报道 YouTube 扩大 AI 深度伪造检测覆盖到政界和媒体人士。
-- RunAnywhere 团队于 2026-03-10 在 Hacker News 发布 YC W26 项目，主打 Apple Silicon 上更快 AI 推理。
-
-### Sources
-- OpenAI to acquire Promptfoo  
-  https://openai.com/index/openai-to-acquire-promptfoo
-- New ways to learn math and science in ChatGPT  
-  https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt
-- Anthropic launches code review tool to check flood of AI-generated code  
-  https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/
-- Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive  
-  https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/
-- YouTube expands AI deepfake detection to politicians, government officials, and journalists  
-  https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/
-- Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon  
-  https://github.com/RunanywhereAI/rcli
-
-### 一句话总结
-- 今天的主线是：AI 工具链正在从“可用”走向“可控”，信息摄取、网页执行、智能体护栏与多角色协作都在进入工程化阶段。
-
-### 节目简介
-《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
-
-以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-11-ep014-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-11-lobster-ep014-v1.mp3" length="3668396" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:49</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 于 2026-03-09 宣布将收购 Promptfoo，用于加强 AI Agent 安全能力。&lt;/p&gt;&lt;p&gt;- OpenAI 于 2026-03-10 发布 ChatGPT 新功能，用交互式可视化辅助数学与科学学习。&lt;/p&gt;&lt;p&gt;- TechCrunch 于 2026-03-09 报道 Anthropic 发布代码审查工具以应对 AI 生成代码增长。&lt;/p&gt;&lt;p&gt;- TechCrunch 于 2026-03-10 报道 Google 将新 Gemini 能力扩展到 Docs、Sheets、Slides 与 Drive。&lt;/p&gt;&lt;p&gt;- TechCrunch 于 2026-03-10 报道 YouTube 扩大 AI 深度伪造检测覆盖到政界和媒体人士。&lt;/p&gt;&lt;p&gt;- RunAnywhere 团队于 2026-03-10 在 Hacker News 发布 YC W26 项目，主打 Apple Silicon 上更快 AI 推理。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI to acquire Promptfoo  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/openai-to-acquire-promptfoo&lt;/p&gt;&lt;p&gt;- New ways to learn math and science in ChatGPT  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt&lt;/p&gt;&lt;p&gt;- Anthropic launches code review tool to check flood of AI-generated code  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/&lt;/p&gt;&lt;p&gt;- Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/&lt;/p&gt;&lt;p&gt;- YouTube expands AI deepfake detection to politicians, government officials, and journalists  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/&lt;/p&gt;&lt;p&gt;- Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon  &lt;/p&gt;&lt;p&gt;  https://github.com/RunanywhereAI/rcli&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 工具链正在从“可用”走向“可控”，信息摄取、网页执行、智能体护栏与多角色协作都在进入工程化阶段。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.10｜OpenAI 收购 Promptfoo，AI 安全与协作生态同步升温</title><description>### 要点
+如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。</ns0:summary>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
+    <ns1:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026.03.10｜OpenAI 收购 Promptfoo，AI 安全与协作生态同步升温</title>
+      <description>### 要点
 - OpenAI 宣布收购 Promptfoo，AI 安全评测能力进一步前置。
 - Anthropic 推出 Claude Code Review 预览，AI 编程助手向审查环节延伸。
 - 微软在 Copilot 预览中引入 Claude Cowork，办公 AI 进入多助手协作阶段。
@@ -66,7 +39,19 @@
 ### 节目简介
 《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-10-ep013-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-10-ep013-v1.mp3" length="1057248" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:56</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 宣布收购 Promptfoo，AI 安全评测能力进一步前置。&lt;/p&gt;&lt;p&gt;- Anthropic 推出 Claude Code Review 预览，AI 编程助手向审查环节延伸。&lt;/p&gt;&lt;p&gt;- 微软在 Copilot 预览中引入 Claude Cowork，办公 AI 进入多助手协作阶段。&lt;/p&gt;&lt;p&gt;- Apple 硬件节奏或与 Siri/AI 交付能力更紧密绑定。&lt;/p&gt;&lt;p&gt;- Anthropic 与五角大楼争议持续发酵，创业公司对国防合作态度更谨慎。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: OpenAI to acquire Promptfoo  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/openai-to-acquire-promptfoo/&lt;/p&gt;&lt;p&gt;- The Verge: Anthropic’s latest Claude Code update is designed to find bugs for you  &lt;/p&gt;&lt;p&gt;  https://www.theverge.com/ai-artificial-intelligence&lt;/p&gt;&lt;p&gt;- Microsoft: Copilot Frontier Program  &lt;/p&gt;&lt;p&gt;  https://adoption.microsoft.com/en-gb/copilot/frontier-program/&lt;/p&gt;&lt;p&gt;- The Verge: Apple’s hardware rollouts will apparently depend on what Siri can do, and when  &lt;/p&gt;&lt;p&gt;  https://www.theverge.com/ai-artificial-intelligence&lt;/p&gt;&lt;p&gt;- TechCrunch: Will the Pentagon’s Anthropic controversy scare startups away from defense work?  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.09｜OpenAI发Codex Security，谷歌将Gemini接入马来西亚全部公立大学</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-10-ep013-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-10-ep013-v1.mp3" length="1057248" type="audio/mpeg" />
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:02:56</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 宣布收购 Promptfoo，AI 安全评测能力进一步前置。&lt;/p&gt;&lt;p&gt;- Anthropic 推出 Claude Code Review 预览，AI 编程助手向审查环节延伸。&lt;/p&gt;&lt;p&gt;- 微软在 Copilot 预览中引入 Claude Cowork，办公 AI 进入多助手协作阶段。&lt;/p&gt;&lt;p&gt;- Apple 硬件节奏或与 Siri/AI 交付能力更紧密绑定。&lt;/p&gt;&lt;p&gt;- Anthropic 与五角大楼争议持续发酵，创业公司对国防合作态度更谨慎。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: OpenAI to acquire Promptfoo  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/openai-to-acquire-promptfoo/&lt;/p&gt;&lt;p&gt;- The Verge: Anthropic’s latest Claude Code update is designed to find bugs for you  &lt;/p&gt;&lt;p&gt;  https://www.theverge.com/ai-artificial-intelligence&lt;/p&gt;&lt;p&gt;- Microsoft: Copilot Frontier Program  &lt;/p&gt;&lt;p&gt;  https://adoption.microsoft.com/en-gb/copilot/frontier-program/&lt;/p&gt;&lt;p&gt;- The Verge: Apple’s hardware rollouts will apparently depend on what Siri can do, and when  &lt;/p&gt;&lt;p&gt;  https://www.theverge.com/ai-artificial-intelligence&lt;/p&gt;&lt;p&gt;- TechCrunch: Will the Pentagon’s Anthropic controversy scare startups away from defense work?  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</ns2:encoded>
+    </item>
+    <item>
+      <title>2026.03.09｜OpenAI发Codex Security，谷歌将Gemini接入马来西亚全部公立大学</title>
+      <description>### 要点
 - OpenAI 发布 Codex Security 研究预览版，AI 安全工具进入早期产品化阶段。
 - Gemini for Education 已覆盖马来西亚全部公立大学，教育场景从试点走向系统化部署。
 - OpenAI 披露 Descript 多语言配音案例，内容生产进入跨语言规模化阶段。
@@ -91,7 +76,19 @@
 ### 节目简介
 《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-09-ep012-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-09-ep012-v1.mp3" length="1211472" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:22</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 发布 Codex Security 研究预览版，AI 安全工具进入早期产品化阶段。&lt;/p&gt;&lt;p&gt;- Gemini for Education 已覆盖马来西亚全部公立大学，教育场景从试点走向系统化部署。&lt;/p&gt;&lt;p&gt;- OpenAI 披露 Descript 多语言配音案例，内容生产进入跨语言规模化阶段。&lt;/p&gt;&lt;p&gt;- WhatsApp 将在巴西开放第三方 AI 聊天机器人，平台生态更开放也更考验治理。&lt;/p&gt;&lt;p&gt;- OpenAI 高管因国防合作争议离职，组织价值取向影响人才与信任。&lt;/p&gt;&lt;p&gt;- Agent Safehouse 受到关注，本地 Agent 的“默认安全”需求上升。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Codex Security: now in research preview  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/codex-security-now-in-research-preview&lt;/p&gt;&lt;p&gt;- Google Blog: Enabling Gemini for Education across all Malaysian public universities  &lt;/p&gt;&lt;p&gt;  https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/&lt;/p&gt;&lt;p&gt;- OpenAI: How Descript enables multilingual video dubbing at scale  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/descript&lt;/p&gt;&lt;p&gt;- TechCrunch: After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/&lt;/p&gt;&lt;p&gt;- TechCrunch: OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/&lt;/p&gt;&lt;p&gt;- Agent Safehouse: macOS-native sandboxing for local agents  &lt;/p&gt;&lt;p&gt;  https://agent-safehouse.dev/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.08｜GPT-5.4发布领跑，AI产品化与基础设施同步重排</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-09-ep012-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-09-ep012-v1.mp3" length="1211472" type="audio/mpeg" />
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:03:22</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 发布 Codex Security 研究预览版，AI 安全工具进入早期产品化阶段。&lt;/p&gt;&lt;p&gt;- Gemini for Education 已覆盖马来西亚全部公立大学，教育场景从试点走向系统化部署。&lt;/p&gt;&lt;p&gt;- OpenAI 披露 Descript 多语言配音案例，内容生产进入跨语言规模化阶段。&lt;/p&gt;&lt;p&gt;- WhatsApp 将在巴西开放第三方 AI 聊天机器人，平台生态更开放也更考验治理。&lt;/p&gt;&lt;p&gt;- OpenAI 高管因国防合作争议离职，组织价值取向影响人才与信任。&lt;/p&gt;&lt;p&gt;- Agent Safehouse 受到关注，本地 Agent 的“默认安全”需求上升。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Codex Security: now in research preview  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/codex-security-now-in-research-preview&lt;/p&gt;&lt;p&gt;- Google Blog: Enabling Gemini for Education across all Malaysian public universities  &lt;/p&gt;&lt;p&gt;  https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/&lt;/p&gt;&lt;p&gt;- OpenAI: How Descript enables multilingual video dubbing at scale  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/descript&lt;/p&gt;&lt;p&gt;- TechCrunch: After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/&lt;/p&gt;&lt;p&gt;- TechCrunch: OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/&lt;/p&gt;&lt;p&gt;- Agent Safehouse: macOS-native sandboxing for local agents  &lt;/p&gt;&lt;p&gt;  https://agent-safehouse.dev/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</ns2:encoded>
+    </item>
+    <item>
+      <title>2026.03.08｜GPT-5.4发布领跑，AI产品化与基础设施同步重排</title>
+      <description>### 要点
 - OpenAI 发布 GPT-5.4，模型能力基线继续上移。
 - Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。
 - OpenAI 推出 ChatGPT for Excel 与金融数据集成，办公场景加速智能化。
@@ -116,7 +113,19 @@
 ### 节目简介
 《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-08-ep011-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-08-ep011-v1.mp3" length="1054224" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:56</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 发布 GPT-5.4，模型能力基线继续上移。&lt;/p&gt;&lt;p&gt;- Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。&lt;/p&gt;&lt;p&gt;- OpenAI 推出 ChatGPT for Excel 与金融数据集成，办公场景加速智能化。&lt;/p&gt;&lt;p&gt;- AWS 上线医疗 AI Agent 平台，垂直行业落地提速。&lt;/p&gt;&lt;p&gt;- Claude 两周发现 Firefox 22 个漏洞，AI 安全产出进入可量化阶段。&lt;/p&gt;&lt;p&gt;- GLiNER2 引发关注，信息抽取能力向低成本工程化推进。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing GPT-5.4  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/introducing-gpt-5-4&lt;/p&gt;&lt;p&gt;- Bloomberg: Oracle and OpenAI End Plans to Expand Flagship Data Center  &lt;/p&gt;&lt;p&gt;  https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing ChatGPT for Excel and new financial data integrations  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/chatgpt-for-excel&lt;/p&gt;&lt;p&gt;- TechCrunch: AWS launches a new AI agent platform specifically for healthcare  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/&lt;/p&gt;&lt;p&gt;- TechCrunch: Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/&lt;/p&gt;&lt;p&gt;- GitHub: GLiNER2: Unified Schema-Based Information Extraction  &lt;/p&gt;&lt;p&gt;  https://github.com/fastino-ai/GLiNER2&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.07｜OpenAI突发变动：数据中心扩张叫停，Claude两周挖出22个漏洞</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-08-ep011-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-08-ep011-v1.mp3" length="1054224" type="audio/mpeg" />
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:02:56</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 发布 GPT-5.4，模型能力基线继续上移。&lt;/p&gt;&lt;p&gt;- Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。&lt;/p&gt;&lt;p&gt;- OpenAI 推出 ChatGPT for Excel 与金融数据集成，办公场景加速智能化。&lt;/p&gt;&lt;p&gt;- AWS 上线医疗 AI Agent 平台，垂直行业落地提速。&lt;/p&gt;&lt;p&gt;- Claude 两周发现 Firefox 22 个漏洞，AI 安全产出进入可量化阶段。&lt;/p&gt;&lt;p&gt;- GLiNER2 引发关注，信息抽取能力向低成本工程化推进。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing GPT-5.4  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/introducing-gpt-5-4&lt;/p&gt;&lt;p&gt;- Bloomberg: Oracle and OpenAI End Plans to Expand Flagship Data Center  &lt;/p&gt;&lt;p&gt;  https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing ChatGPT for Excel and new financial data integrations  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/chatgpt-for-excel&lt;/p&gt;&lt;p&gt;- TechCrunch: AWS launches a new AI agent platform specifically for healthcare  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/&lt;/p&gt;&lt;p&gt;- TechCrunch: Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/&lt;/p&gt;&lt;p&gt;- GitHub: GLiNER2: Unified Schema-Based Information Extraction  &lt;/p&gt;&lt;p&gt;  https://github.com/fastino-ai/GLiNER2&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</ns2:encoded>
+    </item>
+    <item>
+      <title>2026.03.07｜OpenAI突发变动：数据中心扩张叫停，Claude两周挖出22个漏洞</title>
+      <description>### 要点
 - Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。
 - 三大云厂商称 Claude 仍向非国防客户可用，企业迁移压力短期缓和。
 - Claude 两周发现 Firefox 22 个漏洞，AI 安全研发进入可量化阶段。
@@ -141,7 +150,19 @@
 ### 节目简介
 《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-07-ep010-v4</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-07-ep010-v4.mp3" length="941040" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:37</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。&lt;/p&gt;&lt;p&gt;- 三大云厂商称 Claude 仍向非国防客户可用，企业迁移压力短期缓和。&lt;/p&gt;&lt;p&gt;- Claude 两周发现 Firefox 22 个漏洞，AI 安全研发进入可量化阶段。&lt;/p&gt;&lt;p&gt;- Google 开源 SpeciesNet，AI 公共价值场景持续扩展。&lt;/p&gt;&lt;p&gt;- 五角大楼 AI 监控合法性争议升温，治理能力成为部署关键。&lt;/p&gt;&lt;p&gt;- 谷歌新命令行工具连接 Workspace 数据，AI 内嵌工作流趋势增强。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Bloomberg: Oracle and OpenAI End Plans to Expand Flagship Data Center  &lt;/p&gt;&lt;p&gt;  https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center&lt;/p&gt;&lt;p&gt;- TechCrunch: Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/&lt;/p&gt;&lt;p&gt;- TechCrunch: Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/&lt;/p&gt;&lt;p&gt;- Google Blog: How our open-source AI model SpeciesNet is helping to promote wildlife conservation  &lt;/p&gt;&lt;p&gt;  https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/&lt;/p&gt;&lt;p&gt;- MIT Technology Review: Is the Pentagon allowed to surveil Americans with AI?  &lt;/p&gt;&lt;p&gt;  https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/&lt;/p&gt;&lt;p&gt;- Ars Technica: Google's new command-line tool can plug OpenClaw into your Workspace data  &lt;/p&gt;&lt;p&gt;  https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.06｜GPT-5.4 发布，模型能力与产业约束同步升级</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-07-ep010-v4</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-07-ep010-v4.mp3" length="941040" type="audio/mpeg" />
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:02:37</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Bloomberg 报道 Oracle 与 OpenAI 终止旗舰数据中心扩张计划。&lt;/p&gt;&lt;p&gt;- 三大云厂商称 Claude 仍向非国防客户可用，企业迁移压力短期缓和。&lt;/p&gt;&lt;p&gt;- Claude 两周发现 Firefox 22 个漏洞，AI 安全研发进入可量化阶段。&lt;/p&gt;&lt;p&gt;- Google 开源 SpeciesNet，AI 公共价值场景持续扩展。&lt;/p&gt;&lt;p&gt;- 五角大楼 AI 监控合法性争议升温，治理能力成为部署关键。&lt;/p&gt;&lt;p&gt;- 谷歌新命令行工具连接 Workspace 数据，AI 内嵌工作流趋势增强。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Bloomberg: Oracle and OpenAI End Plans to Expand Flagship Data Center  &lt;/p&gt;&lt;p&gt;  https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center&lt;/p&gt;&lt;p&gt;- TechCrunch: Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/&lt;/p&gt;&lt;p&gt;- TechCrunch: Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/&lt;/p&gt;&lt;p&gt;- Google Blog: How our open-source AI model SpeciesNet is helping to promote wildlife conservation  &lt;/p&gt;&lt;p&gt;  https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/&lt;/p&gt;&lt;p&gt;- MIT Technology Review: Is the Pentagon allowed to surveil Americans with AI?  &lt;/p&gt;&lt;p&gt;  https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/&lt;/p&gt;&lt;p&gt;- Ars Technica: Google's new command-line tool can plug OpenClaw into your Workspace data  &lt;/p&gt;&lt;p&gt;  https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</ns2:encoded>
+    </item>
+    <item>
+      <title>2026.03.06｜GPT-5.4 发布，模型能力与产业约束同步升级</title>
+      <description>### 要点
 - OpenAI 于 3 月 5 日发布 GPT-5.4，旗舰模型完成新一轮迭代。
 - 美国被曝考虑更大范围芯片出口管制，全球算力供给不确定性上升。
 - Hugging Face 发布 Modular Diffusers，扩散模型开发流程向模块化转型。
@@ -166,7 +187,17 @@
 以上就是今天的全部内容，我们明天见。
 
 一句话总结
-- 今天的关键信号是：模型能力继续上探、开发工具持续代理化、行业落地加速，但与此同时，算力与政策变量正在成为同等重要的约束条件。</description><pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">fomooff-2026-03-06-ep009</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-06-ep009.mp3" length="1284768" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:34</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 于 3 月 5 日发布 GPT-5.4，旗舰模型完成新一轮迭代。&lt;/p&gt;&lt;p&gt;- 美国被曝考虑更大范围芯片出口管制，全球算力供给不确定性上升。&lt;/p&gt;&lt;p&gt;- Hugging Face 发布 Modular Diffusers，扩散模型开发流程向模块化转型。&lt;/p&gt;&lt;p&gt;- Cursor 被曝推出新型 agentic coding 工具，AI 编程从补全走向任务闭环。&lt;/p&gt;&lt;p&gt;- AWS 被曝上线医疗场景 AI Agent 平台，垂直行业落地继续深入。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing GPT-5.4  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/introducing-gpt-5-4&lt;/p&gt;&lt;p&gt;- TechCrunch: US reportedly considering sweeping new chip export controls  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/&lt;/p&gt;&lt;p&gt;- Hugging Face: Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines  &lt;/p&gt;&lt;p&gt;  https://huggingface.co/blog/modular-diffusers&lt;/p&gt;&lt;p&gt;- TechCrunch: Cursor is rolling out a new kind of agentic coding tool  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/&lt;/p&gt;&lt;p&gt;- TechCrunch: AWS launches a new AI agent platform specifically for healthcare  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦 AI 前沿的早间播客，每天几分钟，帮你快速抓住值得关注的关键动态。我们坚持先事实、后影响，尽量用更低噪音的信息密度，帮你降低信息焦虑。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 今天的关键信号是：模型能力继续上探、开发工具持续代理化、行业落地加速，但与此同时，算力与政策变量正在成为同等重要的约束条件。&lt;/p&gt;</content:encoded></item><item>
+- 今天的关键信号是：模型能力继续上探、开发工具持续代理化、行业落地加速，但与此同时，算力与政策变量正在成为同等重要的约束条件。</description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">fomooff-2026-03-06-ep009</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-06-ep009.mp3" length="1284768" type="audio/mpeg" />
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:03:34</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- OpenAI 于 3 月 5 日发布 GPT-5.4，旗舰模型完成新一轮迭代。&lt;/p&gt;&lt;p&gt;- 美国被曝考虑更大范围芯片出口管制，全球算力供给不确定性上升。&lt;/p&gt;&lt;p&gt;- Hugging Face 发布 Modular Diffusers，扩散模型开发流程向模块化转型。&lt;/p&gt;&lt;p&gt;- Cursor 被曝推出新型 agentic coding 工具，AI 编程从补全走向任务闭环。&lt;/p&gt;&lt;p&gt;- AWS 被曝上线医疗场景 AI Agent 平台，垂直行业落地继续深入。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- OpenAI: Introducing GPT-5.4  &lt;/p&gt;&lt;p&gt;  https://openai.com/index/introducing-gpt-5-4&lt;/p&gt;&lt;p&gt;- TechCrunch: US reportedly considering sweeping new chip export controls  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/&lt;/p&gt;&lt;p&gt;- Hugging Face: Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines  &lt;/p&gt;&lt;p&gt;  https://huggingface.co/blog/modular-diffusers&lt;/p&gt;&lt;p&gt;- TechCrunch: Cursor is rolling out a new kind of agentic coding tool  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/&lt;/p&gt;&lt;p&gt;- TechCrunch: AWS launches a new AI agent platform specifically for healthcare  &lt;/p&gt;&lt;p&gt;  https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦 AI 前沿的早间播客，每天几分钟，帮你快速抓住值得关注的关键动态。我们坚持先事实、后影响，尽量用更低噪音的信息密度，帮你降低信息焦虑。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 今天的关键信号是：模型能力继续上探、开发工具持续代理化、行业落地加速，但与此同时，算力与政策变量正在成为同等重要的约束条件。&lt;/p&gt;</ns2:encoded>
+    </item>
+    <item>
       <title>2026.03.05｜GPT-5.3 Instant 落地，AI 入口与隐私边界同步重写</title>
       <description>要点
 - OpenAI 于 3 月 3 日发布 GPT-5.3 Instant 更新，强化日常对话体验与可用性。
@@ -195,19 +226,12 @@ https://openai.com/index/understanding-ai-and-learning-outcomes
       <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-03-05-ep008</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-05-ep008.mp3" length="1456992" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:04:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- OpenAI 于 3 月 3 日发布 GPT-5.3 Instant 更新，强化日常对话体验与可用性。&lt;/p&gt;&lt;p&gt;- Google 将 Gemini Canvas 在 Search 的 AI Mode 面向美国用户全量开放，搜索与创作流程进一步融合。&lt;/p&gt;&lt;p&gt;- Claude Code 上线语音模式，代码协作交互从键入向口述扩展。&lt;/p&gt;&lt;p&gt;- 研究显示 LLM 可规模化识别化名用户，匿名保护面临新一轮挑战。&lt;/p&gt;&lt;p&gt;- OpenAI 发布 AI 与学习效果研究，教育 AI 竞争转向“可验证结果”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- AI 产品一边加速进入真实工作入口，一边把隐私与学习成效这两类“长期问题”推到台前，竞争焦点转向更可控、更可验证的落地能力。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- OpenAI｜GPT-5.3 Instant: Smoother, more useful everyday conversations&lt;/p&gt;&lt;p&gt;https://openai.com/index/gpt-5-3-instant&lt;/p&gt;&lt;p&gt;- TechCrunch｜Google Search rolls out Gemini’s Canvas in AI Mode to all US users&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Claude Code rolls out a voice mode capability&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/&lt;/p&gt;&lt;p&gt;- Ars Technica｜LLMs can unmask pseudonymous users at scale with surprising accuracy&lt;/p&gt;&lt;p&gt;https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/&lt;/p&gt;&lt;p&gt;- OpenAI｜Understanding AI and learning outcomes&lt;/p&gt;&lt;p&gt;https://openai.com/index/understanding-ai-and-learning-outcomes&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:04:02</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- OpenAI 于 3 月 3 日发布 GPT-5.3 Instant 更新，强化日常对话体验与可用性。&lt;/p&gt;&lt;p&gt;- Google 将 Gemini Canvas 在 Search 的 AI Mode 面向美国用户全量开放，搜索与创作流程进一步融合。&lt;/p&gt;&lt;p&gt;- Claude Code 上线语音模式，代码协作交互从键入向口述扩展。&lt;/p&gt;&lt;p&gt;- 研究显示 LLM 可规模化识别化名用户，匿名保护面临新一轮挑战。&lt;/p&gt;&lt;p&gt;- OpenAI 发布 AI 与学习效果研究，教育 AI 竞争转向“可验证结果”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- AI 产品一边加速进入真实工作入口，一边把隐私与学习成效这两类“长期问题”推到台前，竞争焦点转向更可控、更可验证的落地能力。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- OpenAI｜GPT-5.3 Instant: Smoother, more useful everyday conversations&lt;/p&gt;&lt;p&gt;https://openai.com/index/gpt-5-3-instant&lt;/p&gt;&lt;p&gt;- TechCrunch｜Google Search rolls out Gemini’s Canvas in AI Mode to all US users&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Claude Code rolls out a voice mode capability&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/&lt;/p&gt;&lt;p&gt;- Ars Technica｜LLMs can unmask pseudonymous users at scale with surprising accuracy&lt;/p&gt;&lt;p&gt;https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/&lt;/p&gt;&lt;p&gt;- OpenAI｜Understanding AI and learning outcomes&lt;/p&gt;&lt;p&gt;https://openai.com/index/understanding-ai-and-learning-outcomes&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;</ns2:encoded>
     </item>
-
-    
-    
-    
-    
-    
-    
     <item>
       <title>2026.03.03｜AI 从“能用”走向“可治理与可用性”之争</title>
       <description>要点
@@ -238,13 +262,13 @@ https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replac
       <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-03-03-ep006</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-03-ep006.mp3" length="1048464" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:05:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- Claude 在 3 月 2 日出现多轮异常，凸显 AI 服务稳定性成为核心竞争维度。&lt;/p&gt;&lt;p&gt;- 科技从业者联署反对“供应链风险”标签，AI 政策博弈继续升级。&lt;/p&gt;&lt;p&gt;- iPhone 17e 将 Apple Intelligence 下探到 599 美元价位，端侧 AI 覆盖面扩大。&lt;/p&gt;&lt;p&gt;- 14.ai 融资并推进 AI-native 客服交付，企业采购从“买软件”走向“买结果”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- AI 进入“可用性 + 可治理 + 可规模分发”并行竞争阶段，单点模型优势已不足以决定胜负。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- status.claude.com｜Claude Status&lt;/p&gt;&lt;p&gt;https://status.claude.com/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Anthropic’s Claude reports widespread outage&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/&lt;/p&gt;&lt;p&gt;- Apple Newsroom｜Apple introduces iPhone 17e&lt;/p&gt;&lt;p&gt;https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Apple bakes in AI smarts into its new $599 iPhone 17e&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/&lt;/p&gt;&lt;p&gt;- TechCrunch｜14.ai is replacing customer support teams at startups&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:05:10</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- Claude 在 3 月 2 日出现多轮异常，凸显 AI 服务稳定性成为核心竞争维度。&lt;/p&gt;&lt;p&gt;- 科技从业者联署反对“供应链风险”标签，AI 政策博弈继续升级。&lt;/p&gt;&lt;p&gt;- iPhone 17e 将 Apple Intelligence 下探到 599 美元价位，端侧 AI 覆盖面扩大。&lt;/p&gt;&lt;p&gt;- 14.ai 融资并推进 AI-native 客服交付，企业采购从“买软件”走向“买结果”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- AI 进入“可用性 + 可治理 + 可规模分发”并行竞争阶段，单点模型优势已不足以决定胜负。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- status.claude.com｜Claude Status&lt;/p&gt;&lt;p&gt;https://status.claude.com/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Anthropic’s Claude reports widespread outage&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/&lt;/p&gt;&lt;p&gt;- Apple Newsroom｜Apple introduces iPhone 17e&lt;/p&gt;&lt;p&gt;https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Apple bakes in AI smarts into its new $599 iPhone 17e&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/&lt;/p&gt;&lt;p&gt;- TechCrunch｜14.ai is replacing customer support teams at startups&lt;/p&gt;&lt;p&gt;https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;</ns2:encoded>
     </item>
-<item>
+    <item>
       <title>2026.03.02｜监管与军工边界继续收紧，AI 正在进入“可部署时代”</title>
       <description>要点
 - 澳大利亚拟将 AI 时代监管外扩至应用商店与搜索入口。
@@ -270,13 +294,13 @@ https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZ
       <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-03-02-ep005</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-02-ep005.mp3" length="637344" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:04:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- 澳大利亚拟将 AI 时代监管外扩至应用商店与搜索入口。&lt;/p&gt;&lt;p&gt;- 英伟达联合电信伙伴推进 AI-native 6G 基础设施。&lt;/p&gt;&lt;p&gt;- OpenAI 与美国防部合作落地，军工 AI 从争议走向执行。&lt;/p&gt;&lt;p&gt;- Anthropic 与国防谈判受阻，头部公司路线分化加剧。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 过去 48 小时最重要的变化是：AI 正在从“能力竞赛”进入“可部署、可审计、可接入关键基础设施”的执行竞赛。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- Reuters（2026-03-02）：Exclusive: Australia says it may go after app stores, search engines in AI age crackdown&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmFtZXNkU280MHdHTG5QWXhzZW5zblVaeS1TeVJfSFl1TkVvVmxsVnRZWEhmSVpoU0pSNHNzUVg0UFZrYVV4NDdyY29mQVhJcUpaNjRUTk90Wm9ZQ0haYUlWT2RZb2RrWTh2RUxBTXNFUFFSeWx1RWVqaGd3b2l5VlRfcGFiT0YwbUJkTEQ5TkJJOFFHZWhDNWo1cnVLYUU5b0hySmNacUdrajBKcXNKWHhRVUxHMU04UzFfbFpVWTV5Yi01OU01Ukt5eVc?oc=5&lt;/p&gt;&lt;p&gt;- NVIDIA Newsroom（2026-03-01）：NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXE1aHkxX1RRYUFhZFdkZldvVE10U1l3WEpPWkhuMDlLZ3dVZ016LTZFRFJGcmxXVEpWdF9ZQjVldkJfeUhQem5ObjVXb1plN0xZODJZeE13SHd1Z3NEVlFLQS1HOF9FcWtHdnV4ZFJfVFByY0x6ZWs5R2ZlRWp2eTh0blZMdTUzUjFuNmhrUmRYSHVnV01SdUZjWGl0RG0wY3FuYU1hZEdtRmlJRlM5MFFjNzk2SmlvbWNTUWw3SkF1MWs?oc=5&lt;/p&gt;&lt;p&gt;- The New York Times（2026-02-28）：OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkJpRnh4c3VNR1dXaW9DSTFSVHpYQXVneS1IN1pGcTI2OUVkZm9zLXN2cy04bGFuT19QRnNkQnkwOVNmUWxKUm9MbVdYQTBUMGI0U2t0RUxoT3lGUERLclY0cTdoRUVXNEtZY3pIRnVkcU90ZU1xb3pfVG5aZTJ4Slh5ZGszQQ?oc=5&lt;/p&gt;&lt;p&gt;- The New York Times（2026-03-01）：How Talks Between Anthropic and the Defense Dept. Fell Apart&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZtYzBzSmJwUERObVRENWlyOUhfTkNndHE5YjFBY0FCd0MxZWp4NXA2YlhOSGs2c2J6VHFSem9tT2p5Z2hNeFZNT1IxLUJwenZSMTJObmdhd3EzSWJPZWtyOVd0ZXBzdWdKMFNrVnRSblQ5MGdab2I3azRxYw?oc=5&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:04:40</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- 澳大利亚拟将 AI 时代监管外扩至应用商店与搜索入口。&lt;/p&gt;&lt;p&gt;- 英伟达联合电信伙伴推进 AI-native 6G 基础设施。&lt;/p&gt;&lt;p&gt;- OpenAI 与美国防部合作落地，军工 AI 从争议走向执行。&lt;/p&gt;&lt;p&gt;- Anthropic 与国防谈判受阻，头部公司路线分化加剧。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 过去 48 小时最重要的变化是：AI 正在从“能力竞赛”进入“可部署、可审计、可接入关键基础设施”的执行竞赛。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- Reuters（2026-03-02）：Exclusive: Australia says it may go after app stores, search engines in AI age crackdown&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmFtZXNkU280MHdHTG5QWXhzZW5zblVaeS1TeVJfSFl1TkVvVmxsVnRZWEhmSVpoU0pSNHNzUVg0UFZrYVV4NDdyY29mQVhJcUpaNjRUTk90Wm9ZQ0haYUlWT2RZb2RrWTh2RUxBTXNFUFFSeWx1RWVqaGd3b2l5VlRfcGFiT0YwbUJkTEQ5TkJJOFFHZWhDNWo1cnVLYUU5b0hySmNacUdrajBKcXNKWHhRVUxHMU04UzFfbFpVWTV5Yi01OU01Ukt5eVc?oc=5&lt;/p&gt;&lt;p&gt;- NVIDIA Newsroom（2026-03-01）：NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLXE1aHkxX1RRYUFhZFdkZldvVE10U1l3WEpPWkhuMDlLZ3dVZ016LTZFRFJGcmxXVEpWdF9ZQjVldkJfeUhQem5ObjVXb1plN0xZODJZeE13SHd1Z3NEVlFLQS1HOF9FcWtHdnV4ZFJfVFByY0x6ZWs5R2ZlRWp2eTh0blZMdTUzUjFuNmhrUmRYSHVnV01SdUZjWGl0RG0wY3FuYU1hZEdtRmlJRlM5MFFjNzk2SmlvbWNTUWw3SkF1MWs?oc=5&lt;/p&gt;&lt;p&gt;- The New York Times（2026-02-28）：OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMihgFBVV95cUxNUkJpRnh4c3VNR1dXaW9DSTFSVHpYQXVneS1IN1pGcTI2OUVkZm9zLXN2cy04bGFuT19QRnNkQnkwOVNmUWxKUm9MbVdYQTBUMGI0U2t0RUxoT3lGUERLclY0cTdoRUVXNEtZY3pIRnVkcU90ZU1xb3pfVG5aZTJ4Slh5ZGszQQ?oc=5&lt;/p&gt;&lt;p&gt;- The New York Times（2026-03-01）：How Talks Between Anthropic and the Defense Dept. Fell Apart&lt;/p&gt;&lt;p&gt;https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWJ2QmVudEFJN1dOLVpBdXYwSEZtYzBzSmJwUERObVRENWlyOUhfTkNndHE5YjFBY0FCd0MxZWp4NXA2YlhOSGs2c2J6VHFSem9tT2p5Z2hNeFZNT1IxLUJwenZSMTJObmdhd3EzSWJPZWtyOVd0ZXBzdWdKMFNrVnRSblQ5MGdab2I3azRxYw?oc=5&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介&lt;/p&gt;&lt;p&gt;《FOMO Off》是一档聚焦AI 前沿的早间播客，每天5 分钟，帮你快速看清 AI 领域的关键动态。我们筛选核心信息，减少噪音，降低信息焦虑，让你不被 FOMO 推着走。节目由主理人联合 OpenClaw 协同完成，坚持“机器提效＋人工把关”。在所有产品争夺你注意力的时代，我们希望替你守住它。&lt;/p&gt;</ns2:encoded>
     </item>
-<item>
+    <item>
       <title>2026.03.01｜五角大楼将 Anthropic 列为“供应链风险”，AI军用边界冲突升级</title>
       <description>要点
 - 五角大楼将 Anthropic 列为“供应链风险”，争议从合同走向采购与政策层面。
@@ -296,13 +320,13 @@ Sources
       <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-03-01-ep004</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-01-ep004.mp3" length="799200" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:05:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- 五角大楼将 Anthropic 列为“供应链风险”，争议从合同走向采购与政策层面。&lt;/p&gt;&lt;p&gt;- OpenAI 宣布与五角大楼合作并强调技术防护，行业路线分化加深。&lt;/p&gt;&lt;p&gt;- Claude 与 ChatGPT 在分发侧继续放大头部效应。&lt;/p&gt;&lt;p&gt;- 竞争焦点正在从模型能力延伸到治理框架与可部署边界。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 过去 48 小时，AI 行业主线从“能力竞赛”切换到“边界与治理竞赛”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- The Verge｜Defense secretary Pete Hegseth designates Anthropic a supply chain risk｜https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff&lt;/p&gt;&lt;p&gt;- The Verge｜Trump orders federal agencies to drop Anthropic’s AI｜https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod&lt;/p&gt;&lt;p&gt;- TechCrunch｜OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’｜https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute｜https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/&lt;/p&gt;&lt;p&gt;- TechCrunch｜ChatGPT reaches 900M weekly active users｜https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:05:20</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;要点&lt;/p&gt;&lt;p&gt;- 五角大楼将 Anthropic 列为“供应链风险”，争议从合同走向采购与政策层面。&lt;/p&gt;&lt;p&gt;- OpenAI 宣布与五角大楼合作并强调技术防护，行业路线分化加深。&lt;/p&gt;&lt;p&gt;- Claude 与 ChatGPT 在分发侧继续放大头部效应。&lt;/p&gt;&lt;p&gt;- 竞争焦点正在从模型能力延伸到治理框架与可部署边界。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结&lt;/p&gt;&lt;p&gt;- 过去 48 小时，AI 行业主线从“能力竞赛”切换到“边界与治理竞赛”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources&lt;/p&gt;&lt;p&gt;- The Verge｜Defense secretary Pete Hegseth designates Anthropic a supply chain risk｜https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff&lt;/p&gt;&lt;p&gt;- The Verge｜Trump orders federal agencies to drop Anthropic’s AI｜https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod&lt;/p&gt;&lt;p&gt;- TechCrunch｜OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’｜https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/&lt;/p&gt;&lt;p&gt;- TechCrunch｜Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute｜https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/&lt;/p&gt;&lt;p&gt;- TechCrunch｜ChatGPT reaches 900M weekly active users｜https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/&lt;/p&gt;</ns2:encoded>
     </item>
-<item>
+    <item>
       <title>2026.02.28｜OpenAI用户规模逼近10亿，AI基础设施进入重投入期</title>
       <description>今天这期，我们重点看 4 条更新：
 1) OpenAI 披露 ChatGPT 周活 9 亿、订阅 5000 万，并宣布新一轮 1100 亿美元融资。
@@ -324,13 +348,13 @@ Sources：
       <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-02-28-ep003</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-28-ep003.mp3" length="1259280" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:05:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;今天这期，我们重点看 4 条更新：&lt;/p&gt;&lt;p&gt;1) OpenAI 披露 ChatGPT 周活 9 亿、订阅 5000 万，并宣布新一轮 1100 亿美元融资。&lt;/p&gt;&lt;p&gt;2) AWS 发布 Amazon Nova 强化微调实践（用反馈信号持续优化模型行为）。&lt;/p&gt;&lt;p&gt;3) NVIDIA 与礼来上线 LillyPod，推进医药场景 AI Factory（算力、数据、工程一体化）。&lt;/p&gt;&lt;p&gt;4) Hugging Face 更新 MoE 工程解读（混合专家架构，提升容量同时控制计算成本）。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结：AI 竞争正从“模型能力展示”升级为“用户规模、资本规模、算力规模和工程规模”并行竞速。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources：&lt;/p&gt;&lt;p&gt;- TechCrunch｜ChatGPT reaches 900M weekly active users｜https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/&lt;/p&gt;&lt;p&gt;- The Verge｜OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank｜https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment&lt;/p&gt;&lt;p&gt;- AWS Machine Learning Blog｜Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback｜https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/&lt;/p&gt;&lt;p&gt;- NVIDIA Blog｜Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development｜https://blogs.nvidia.com/blog/lilly-ai-factory-live/&lt;/p&gt;&lt;p&gt;- Hugging Face Blog｜Mixture of Experts (MoEs) in Transformers｜https://huggingface.co/blog/moe-transformers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介：&lt;/p&gt;&lt;p&gt;《FOMO OFF》是一档中文 AI 早间播客：每天 5 分钟，优先追踪 48 小时内关键动态，用“事实先行、影响随后”的方式，帮你快速完成 AI 行业信息同步。&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:05:30</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;今天这期，我们重点看 4 条更新：&lt;/p&gt;&lt;p&gt;1) OpenAI 披露 ChatGPT 周活 9 亿、订阅 5000 万，并宣布新一轮 1100 亿美元融资。&lt;/p&gt;&lt;p&gt;2) AWS 发布 Amazon Nova 强化微调实践（用反馈信号持续优化模型行为）。&lt;/p&gt;&lt;p&gt;3) NVIDIA 与礼来上线 LillyPod，推进医药场景 AI Factory（算力、数据、工程一体化）。&lt;/p&gt;&lt;p&gt;4) Hugging Face 更新 MoE 工程解读（混合专家架构，提升容量同时控制计算成本）。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结：AI 竞争正从“模型能力展示”升级为“用户规模、资本规模、算力规模和工程规模”并行竞速。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources：&lt;/p&gt;&lt;p&gt;- TechCrunch｜ChatGPT reaches 900M weekly active users｜https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/&lt;/p&gt;&lt;p&gt;- The Verge｜OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank｜https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment&lt;/p&gt;&lt;p&gt;- AWS Machine Learning Blog｜Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback｜https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/&lt;/p&gt;&lt;p&gt;- NVIDIA Blog｜Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development｜https://blogs.nvidia.com/blog/lilly-ai-factory-live/&lt;/p&gt;&lt;p&gt;- Hugging Face Blog｜Mixture of Experts (MoEs) in Transformers｜https://huggingface.co/blog/moe-transformers&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;节目简介：&lt;/p&gt;&lt;p&gt;《FOMO OFF》是一档中文 AI 早间播客：每天 5 分钟，优先追踪 48 小时内关键动态，用“事实先行、影响随后”的方式，帮你快速完成 AI 行业信息同步。&lt;/p&gt;</ns2:encoded>
     </item>
-<item>
+    <item>
       <title>2026.02.27｜OpenAI与微软同日加速“从聊天到执行”</title>
       <description>今天这期，我们重点看 5 条更新：
 1) OpenAI 与 Figma 发布代码到设计的一体化协作能力。
@@ -350,23 +374,24 @@ Sources：
       <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-02-27-ep002</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-27-ep002.mp3" length="707040" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:05:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;今天这期，我们重点看 5 条更新：&lt;/p&gt;&lt;p&gt;1) OpenAI 与 Figma 发布代码到设计的一体化协作能力。&lt;/p&gt;&lt;p&gt;2) 微软发布 Copilot Tasks 研究预览，支持一次性、定时和循环任务执行。&lt;/p&gt;&lt;p&gt;3) 路透报道 OpenAI 将把伦敦打造为美国外最大研究枢纽。&lt;/p&gt;&lt;p&gt;4) Anthropic 更新 Opus 3 退役承诺，继续向付费用户开放并提供 API 申请。&lt;/p&gt;&lt;p&gt;5) OpenAI 与 PNNL 发布 DraftNEPABench（用于评估 AI 加速联邦环境审批文书的基准）。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结：行业竞争正在从“谁回答更好”转向“谁执行更稳、流程更可控”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources：&lt;/p&gt;&lt;p&gt;- OpenAI｜OpenAI Codex and Figma launch seamless code-to-design experience｜https://openai.com/index/figma-partnership&lt;/p&gt;&lt;p&gt;- Microsoft Copilot Blog｜Copilot Tasks: From Answers to Actions｜https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/02/26/copilot-tasks-from-answers-to-actions/&lt;/p&gt;&lt;p&gt;- Reuters｜OpenAI to make London its biggest research hub outside US｜https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/&lt;/p&gt;&lt;p&gt;- Anthropic｜An update on our model deprecation commitments for Claude Opus 3｜https://www.anthropic.com/research/deprecation-updates-opus-3&lt;/p&gt;&lt;p&gt;- OpenAI｜Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting｜https://openai.com/index/pacific-northwest-national-laboratory&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:05:40</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;今天这期，我们重点看 5 条更新：&lt;/p&gt;&lt;p&gt;1) OpenAI 与 Figma 发布代码到设计的一体化协作能力。&lt;/p&gt;&lt;p&gt;2) 微软发布 Copilot Tasks 研究预览，支持一次性、定时和循环任务执行。&lt;/p&gt;&lt;p&gt;3) 路透报道 OpenAI 将把伦敦打造为美国外最大研究枢纽。&lt;/p&gt;&lt;p&gt;4) Anthropic 更新 Opus 3 退役承诺，继续向付费用户开放并提供 API 申请。&lt;/p&gt;&lt;p&gt;5) OpenAI 与 PNNL 发布 DraftNEPABench（用于评估 AI 加速联邦环境审批文书的基准）。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;一句话总结：行业竞争正在从“谁回答更好”转向“谁执行更稳、流程更可控”。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Sources：&lt;/p&gt;&lt;p&gt;- OpenAI｜OpenAI Codex and Figma launch seamless code-to-design experience｜https://openai.com/index/figma-partnership&lt;/p&gt;&lt;p&gt;- Microsoft Copilot Blog｜Copilot Tasks: From Answers to Actions｜https://www.microsoft.com/en-us/microsoft-copilot/blog/2026/02/26/copilot-tasks-from-answers-to-actions/&lt;/p&gt;&lt;p&gt;- Reuters｜OpenAI to make London its biggest research hub outside US｜https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/&lt;/p&gt;&lt;p&gt;- Anthropic｜An update on our model deprecation commitments for Claude Opus 3｜https://www.anthropic.com/research/deprecation-updates-opus-3&lt;/p&gt;&lt;p&gt;- OpenAI｜Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting｜https://openai.com/index/pacific-northwest-national-laboratory&lt;/p&gt;</ns2:encoded>
     </item>
-<item>
+    <item>
       <title>FOMO OFF｜2026-02-24｜人工智能前线 5 分钟</title>
       <description>每天5分钟，同步人工智能前线。\n本期聚焦过去48小时人工智能领域关键动态。</description>
       <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">fomooff-2026-02-24-ep001</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-02-24-ep001.mp3" length="1111392" type="audio/mpeg" />
-      <itunes:author>wing</itunes:author>
-      <itunes:duration>00:06:30</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;每天5分钟，同步人工智能前线。&lt;/p&gt;</content:encoded>
+      <ns0:author>wing</ns0:author>
+      <ns0:duration>00:06:30</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+      <ns0:episodeType>full</ns0:episodeType>
+      <ns2:encoded>&lt;p&gt;每天5分钟，同步人工智能前线。&lt;/p&gt;</ns2:encoded>
     </item>
-  <itunes:subtitle>每天5分钟，帮你发现今天最值得试的AI工具。</itunes:subtitle></channel>
+    <ns0:subtitle>每天5分钟，帮你发现今天最值得试的AI工具。</ns0:subtitle>
+  </channel>
 </rss>
