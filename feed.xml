@@ -16,6 +16,48 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.03.12｜智能体执行、安全防护、行业落地：AI 从能力展示走向可用系统</title>
+      <description>### 本期要点
+- 本期聚焦可直接上手的 AI 开发工具与工作流组件。
+- 重点解释每个项目在实际流程里的位置与替代价值。
+- 优先选择可验证、可复现、可落地的项目。
+
+### 今日工具
+- From model to agent: Equipping the Responses API with a computer environment
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- Designing AI agents to resist prompt injection
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- Rakuten fixes issues twice as fast with Codex
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- Microsoft’s Copilot Health can connect to your medical records and wearables
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- How NVIDIA AI-Q Reached #1 on DeepResearch Bench I and II
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+
+一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。
+
+### 节目简介
+一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
+
+工具链接见上方，可直接点击访问。</description>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-03-12-c75a81d6</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-12-lobster-c75a81d6.mp3" length="3385388" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;本期聚焦可直接上手的 AI 开发工具与工作流组件。&lt;/li&gt;&lt;li&gt;重点解释每个项目在实际流程里的位置与替代价值。&lt;/li&gt;&lt;li&gt;优先选择可验证、可复现、可落地的项目。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;From model to agent: Equipping the Responses API with a computer environment&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Designing AI agents to resist prompt injection&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Rakuten fixes issues twice as fast with Codex&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Microsoft’s Copilot Health can connect to your medical records and wearables&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;/li&gt;&lt;li&gt;&lt;strong&gt;How NVIDIA AI-Q Reached #1 on DeepResearch Bench I and II&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.03.11｜Readhn、Lumen、Rampart：开发者智能体从可用到可控</title>
       <description>本期要点
 - Readhn 把 Hacker News 检索、质量信号与解释合并到一个 MCP 服务，适合做选题前置层。
