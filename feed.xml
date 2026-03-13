@@ -15,7 +15,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <item><title>2026.03.13｜InsForge、OpenRAG、OneCLI：开发者工作流从拼装走向一体化</title><description>### 要点
+- InsForge/InsForge：相比同批候选，它更直接替代“手工配后端环境”的重体力流程，写稿价值更偏实操效率提升。
+- langflow-ai/openrag：比其他候选更具“开箱即用”属性，能让听众最短路径验证RAG工程闭环。
+- Show HN: OneCLI – Vault for AI Agents in Rust：与通用“工具效率”不同，它补的是上线前安全短板，优先级在真实生产里更高。
+- microsoft/BitNet：它代表“算力成本侧优化”，与应用层工具形成互补，内容结构更平衡。
+- Show HN: Understudy – Teach a desktop agent by demonstrating a task once：相较偏基础设施项目，它更直观展示“agent如何替代日常手工流程”，可听性更强。
+
+### Sources
+- InsForge/InsForge  
+  https://github.com/InsForge/InsForge
+- langflow-ai/openrag  
+  https://github.com/langflow-ai/openrag
+- Show HN: OneCLI – Vault for AI Agents in Rust  
+  https://github.com/onecli/onecli
+- microsoft/BitNet  
+  https://github.com/microsoft/BitNet
+- Show HN: Understudy – Teach a desktop agent by demonstrating a task once  
+  https://github.com/understudy-ai/understudy
+
+### 一句话总结
+- 今天的主线是：开发者工作流正从“工具拼装”走向“系统一体化”，执行、检索、安全和自动化层都在向可直接部署收敛。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-13-ep015-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-13-lobster-ep015-v1.mp3" length="3747116" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:54</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- InsForge/InsForge：相比同批候选，它更直接替代“手工配后端环境”的重体力流程，写稿价值更偏实操效率提升。&lt;/p&gt;&lt;p&gt;- langflow-ai/openrag：比其他候选更具“开箱即用”属性，能让听众最短路径验证RAG工程闭环。&lt;/p&gt;&lt;p&gt;- Show HN: OneCLI – Vault for AI Agents in Rust：与通用“工具效率”不同，它补的是上线前安全短板，优先级在真实生产里更高。&lt;/p&gt;&lt;p&gt;- microsoft/BitNet：它代表“算力成本侧优化”，与应用层工具形成互补，内容结构更平衡。&lt;/p&gt;&lt;p&gt;- Show HN: Understudy – Teach a desktop agent by demonstrating a task once：相较偏基础设施项目，它更直观展示“agent如何替代日常手工流程”，可听性更强。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- InsForge/InsForge  &lt;/p&gt;&lt;p&gt;  https://github.com/InsForge/InsForge&lt;/p&gt;&lt;p&gt;- langflow-ai/openrag  &lt;/p&gt;&lt;p&gt;  https://github.com/langflow-ai/openrag&lt;/p&gt;&lt;p&gt;- Show HN: OneCLI – Vault for AI Agents in Rust  &lt;/p&gt;&lt;p&gt;  https://github.com/onecli/onecli&lt;/p&gt;&lt;p&gt;- microsoft/BitNet  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/BitNet&lt;/p&gt;&lt;p&gt;- Show HN: Understudy – Teach a desktop agent by demonstrating a task once  &lt;/p&gt;&lt;p&gt;  https://github.com/understudy-ai/understudy&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者工作流正从“工具拼装”走向“系统一体化”，执行、检索、安全和自动化层都在向可直接部署收敛。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
       <title>2026.03.13｜InsForge、OpenRAG、OneCLI：开发者工作流从拼装走向一体化</title>
       <description>### 本期要点
 - 本期聚焦可直接上手的 AI 开发工具与工作流组件。
