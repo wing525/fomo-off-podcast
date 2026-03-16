@@ -16,6 +16,42 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.03.16｜fubot、agent-trace、Quell：把智能体工作流补齐到“可运行、可观测、可防护”</title>
+      <description>### 本期要点
+- 本期聚焦可直接上手的 AI 开发工具与工作流组件。
+- 重点解释每个项目在实际流程里的位置与替代价值。
+- 优先选择可验证、可复现、可落地的项目。
+
+### 今日工具
+- fubot
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- agent-trace
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- Quell
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+- playground
+  一句话概括：面向开发者的可落地能力模块。
+  链接：见本期 Sources / 仓库主页
+
+一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。
+
+### 节目简介
+一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
+
+工具链接见上方，可直接点击访问。</description>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-03-16-manual</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-16-lobster-16-manual.mp3" length="2783276" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;本期聚焦可直接上手的 AI 开发工具与工作流组件。&lt;/li&gt;&lt;li&gt;重点解释每个项目在实际流程里的位置与替代价值。&lt;/li&gt;&lt;li&gt;优先选择可验证、可复现、可落地的项目。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;fubot&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/fuyuxiang/fubot"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;agent-trace&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/Siddhant-K-code/agent-trace"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Quell&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/Sonofg0tham/Quell"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;playground&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/fabraix/playground"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.03.14｜编码重构、风险治理、增长自动化：AI进入组织深水区</title>
       <description>### 本期要点
 - 本期聚焦可直接上手的 AI 开发工具与工作流组件。
