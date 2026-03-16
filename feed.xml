@@ -30,41 +30,12 @@
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;本期聚焦可直接上手的 AI 开发工具与工作流组件。&lt;/li&gt;&lt;li&gt;重点解释每个项目在实际流程里的位置与替代价值。&lt;/li&gt;&lt;li&gt;优先选择可验证、可复现、可落地的项目。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;fubot&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/fuyuxiang/fubot"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;agent-trace&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/Siddhant-K-code/agent-trace"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Quell&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/Sonofg0tham/Quell"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;playground&lt;/strong&gt;：面向开发者的可落地能力模块。&lt;a href="https://github.com/fabraix/playground"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
+      <content:encoded></content:encoded>
     </item>
     <item>
       <title>2026.03.14｜编码重构、风险治理、增长自动化：AI进入组织深水区</title>
-      <description>### 本期要点
-- 本期聚焦可直接上手的 AI 开发工具与工作流组件。
-- 重点解释每个项目在实际流程里的位置与替代价值。
-- 优先选择可验证、可复现、可落地的项目。
-
-### 今日工具
-- xAI 重整 AI 编程产品
-  一句话概括：面向开发者的可落地能力模块。
-  链接：见本期 Sources / 仓库主页
-- AI 心理风险被提到公共安全层面
-  一句话概括：面向开发者的可落地能力模块。
-  链接：见本期 Sources / 仓库主页
-- NanoClaw 快速起势并与 Docker 合作
-  一句话概括：面向开发者的可落地能力模块。
-  链接：见本期 Sources / 仓库主页
-- Atlassian 用 AI 逻辑重配组织资源
-  一句话概括：面向开发者的可落地能力模块。
-  链接：见本期 Sources / 仓库主页
-- Meta AI 进入 Marketplace 沟通链路
-  一句话概括：面向开发者的可落地能力模块。
-  链接：见本期 Sources / 仓库主页
-- Rox AI 估值抬升至 12 亿美元
-  一句话概括：面向开发者的可落地能力模块。
-  链接：见本期 Sources / 仓库主页
-
-一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。
-
-### 节目简介
-一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
-
-工具链接见上方，可直接点击访问。</description>
+      <description>
+  </description>
       <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">lobster-2026-03-14-ep016-v1</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-14-lobster-ep016-v1.mp3" length="4468652" type="audio/mpeg" />
@@ -72,7 +43,7 @@
       <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;本期聚焦可直接上手的 AI 开发工具与工作流组件。&lt;/li&gt;&lt;li&gt;重点解释每个项目在实际流程里的位置与替代价值。&lt;/li&gt;&lt;li&gt;优先选择可验证、可复现、可落地的项目。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;xAI 重整 AI 编程产品&lt;/strong&gt;：面向开发者的可落地能力模块。（链接缺失）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;AI 心理风险被提到公共安全层面&lt;/strong&gt;：面向开发者的可落地能力模块。（链接缺失）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;NanoClaw 快速起势并与 Docker 合作&lt;/strong&gt;：面向开发者的可落地能力模块。（链接缺失）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Atlassian 用 AI 逻辑重配组织资源&lt;/strong&gt;：面向开发者的可落地能力模块。（链接缺失）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Meta AI 进入 Marketplace 沟通链路&lt;/strong&gt;：面向开发者的可落地能力模块。（链接缺失）&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Rox AI 估值抬升至 12 亿美元&lt;/strong&gt;：面向开发者的可落地能力模块。（链接缺失）&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
+      <content:encoded></content:encoded>
     </item>
     <item>
       <title>2026.03.13｜InsForge、OpenRAG、OneCLI：开发者工作流从拼装走向一体化</title>
