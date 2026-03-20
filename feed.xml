@@ -15,7 +15,29 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <item><title>2026.03.20｜内部编码智能体、本地训练工作台、轻量TTS：开发者AI工作流提效</title><description>### 要点
+- open-swe：相比其他候选，它给的是可直接落地的“组织级生产路径”，不是单点能力。
+- Unsloth：比单点 repo 更接近“可日常使用的开发者工作台”。
+- KittenTTS：在“成本-效果-部署便捷性”三角里更均衡，写稿价值高。
+- llm-circuit-finder：相比一般“效果截图”项目，它提供了可执行方法和工具链脚手架。
+
+### Sources
+- open-swe  
+  https://github.com/langchain-ai/open-swe
+- Unsloth  
+  https://github.com/unslothai/unsloth
+- KittenTTS  
+  https://github.com/KittenML/KittenTTS
+- llm-circuit-finder  
+  https://github.com/alainnothere/llm-circuit-finder
+
+### 一句话总结
+- 今天的主线是：开发者 AI 工作流正从零散工具拼装，转向可执行、可控、可复用的一体化工程链路。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-20-ep017-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-20-lobster-ep017-v1.mp3" length="2863532" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:59</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- open-swe：相比其他候选，它给的是可直接落地的“组织级生产路径”，不是单点能力。&lt;/p&gt;&lt;p&gt;- Unsloth：比单点 repo 更接近“可日常使用的开发者工作台”。&lt;/p&gt;&lt;p&gt;- KittenTTS：在“成本-效果-部署便捷性”三角里更均衡，写稿价值高。&lt;/p&gt;&lt;p&gt;- llm-circuit-finder：相比一般“效果截图”项目，它提供了可执行方法和工具链脚手架。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- open-swe  &lt;/p&gt;&lt;p&gt;  https://github.com/langchain-ai/open-swe&lt;/p&gt;&lt;p&gt;- Unsloth  &lt;/p&gt;&lt;p&gt;  https://github.com/unslothai/unsloth&lt;/p&gt;&lt;p&gt;- KittenTTS  &lt;/p&gt;&lt;p&gt;  https://github.com/KittenML/KittenTTS&lt;/p&gt;&lt;p&gt;- llm-circuit-finder  &lt;/p&gt;&lt;p&gt;  https://github.com/alainnothere/llm-circuit-finder&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者 AI 工作流正从零散工具拼装，转向可执行、可控、可复用的一体化工程链路。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
       <title>2026.03.16｜fubot、agent-trace、Quell：把智能体工作流补齐到“可运行、可观测、可防护”</title>
       <description>
 
@@ -30,7 +52,7 @@
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded></content:encoded>
+      <content:encoded />
     </item>
     <item>
       <title>2026.03.14｜编码重构、风险治理、增长自动化：AI进入组织深水区</title>
@@ -43,7 +65,7 @@
       <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded></content:encoded>
+      <content:encoded />
     </item>
     <item>
       <title>2026.03.13｜InsForge、OpenRAG、OneCLI：开发者工作流从拼装走向一体化</title>
