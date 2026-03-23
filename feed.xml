@@ -15,7 +15,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.03.20｜内部编码智能体、本地训练工作台、轻量TTS：开发者AI工作流提效</title><description>### 要点
+    <item><title>2026.03.23｜Flash-MoE、browser-use、DeerFlow：从推理到底盘的智能体工作流</title><description>### 要点
+- Flash-MoE: Running a 397B Parameter Model on a Laptop：相比其他候选，它在“可复制的极限工程实践”上更完整，内容更适合转换为 builder 实操启发。
+- browser-use：比同类“概念型 agent 项目”更强调立即可用与任务落地。
+- DeerFlow 2.0：相比单点工具，它更像“可扩展底盘”，更适合团队级工作流建设。
+- Claude HUD：虽非基础设施层，但对日常 agent 开发效率提升明显，节目价值稳定。
+- Teaching Claude to QA a Mobile App：相比纯观点文，这篇给出可执行步骤与踩坑结论，适合写成 workflow 解读。
+
+### Sources
+- Flash-MoE: Running a 397B Parameter Model on a Laptop  
+  https://github.com/danveloper/flash-moe
+- browser-use  
+  https://github.com/browser-use/browser-use
+- DeerFlow 2.0  
+  https://github.com/bytedance/deer-flow
+- Claude HUD  
+  https://github.com/jarrodwatts/claude-hud
+- Teaching Claude to QA a Mobile App  
+  https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
+
+### 一句话总结
+- 今天的主线是：开发者工作流继续向自动化与可控执行演进，工具价值正从单点能力转向端到端闭环。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-23-ep018-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-23-lobster-ep018-v1.mp3" length="2703788" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:49</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Flash-MoE: Running a 397B Parameter Model on a Laptop：相比其他候选，它在“可复制的极限工程实践”上更完整，内容更适合转换为 builder 实操启发。&lt;/p&gt;&lt;p&gt;- browser-use：比同类“概念型 agent 项目”更强调立即可用与任务落地。&lt;/p&gt;&lt;p&gt;- DeerFlow 2.0：相比单点工具，它更像“可扩展底盘”，更适合团队级工作流建设。&lt;/p&gt;&lt;p&gt;- Claude HUD：虽非基础设施层，但对日常 agent 开发效率提升明显，节目价值稳定。&lt;/p&gt;&lt;p&gt;- Teaching Claude to QA a Mobile App：相比纯观点文，这篇给出可执行步骤与踩坑结论，适合写成 workflow 解读。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Flash-MoE: Running a 397B Parameter Model on a Laptop  &lt;/p&gt;&lt;p&gt;  https://github.com/danveloper/flash-moe&lt;/p&gt;&lt;p&gt;- browser-use  &lt;/p&gt;&lt;p&gt;  https://github.com/browser-use/browser-use&lt;/p&gt;&lt;p&gt;- DeerFlow 2.0  &lt;/p&gt;&lt;p&gt;  https://github.com/bytedance/deer-flow&lt;/p&gt;&lt;p&gt;- Claude HUD  &lt;/p&gt;&lt;p&gt;  https://github.com/jarrodwatts/claude-hud&lt;/p&gt;&lt;p&gt;- Teaching Claude to QA a Mobile App  &lt;/p&gt;&lt;p&gt;  https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者工作流继续向自动化与可控执行演进，工具价值正从单点能力转向端到端闭环。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.20｜内部编码智能体、本地训练工作台、轻量TTS：开发者AI工作流提效</title><description>### 要点
 - open-swe：相比其他候选，它给的是可直接落地的“组织级生产路径”，不是单点能力。
 - Unsloth：比单点 repo 更接近“可日常使用的开发者工作台”。
 - KittenTTS：在“成本-效果-部署便捷性”三角里更均衡，写稿价值高。
