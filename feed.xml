@@ -15,7 +15,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.03.23｜Flash-MoE、browser-use、DeerFlow：从推理到底盘的智能体工作流</title><description>### 要点
+    <item><title>2026.03.24｜DeerFlow、n8n-mcp、Bombadil：智能体工作流从编排到质检</title><description>### 要点
+- n8n-mcp：它补的是“自动化编排知识层”缺口，与执行层工具组合价值高。
+- Bombadil：在 QA 层给出比“截图对比”更工程化的路径，适合 builder 进阶。
+
+### Sources
+- n8n-mcp  
+  https://github.com/czlonkowski/n8n-mcp
+- Bombadil  
+  https://github.com/antithesishq/bombadil
+
+### 一句话总结
+- 今天的主线是：开发者智能体工作流正在从单点执行走向编排、配置、质检与知识回流的一体化。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-24-ep019-v2</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-24-lobster-ep019-v2.mp3" length="916272" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:33</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- n8n-mcp：它补的是“自动化编排知识层”缺口，与执行层工具组合价值高。&lt;/p&gt;&lt;p&gt;- Bombadil：在 QA 层给出比“截图对比”更工程化的路径，适合 builder 进阶。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- n8n-mcp  &lt;/p&gt;&lt;p&gt;  https://github.com/czlonkowski/n8n-mcp&lt;/p&gt;&lt;p&gt;- Bombadil  &lt;/p&gt;&lt;p&gt;  https://github.com/antithesishq/bombadil&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者智能体工作流正在从单点执行走向编排、配置、质检与知识回流的一体化。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.23｜Flash-MoE、browser-use、DeerFlow：从推理到底盘的智能体工作流</title><description>### 要点
 - Flash-MoE: Running a 397B Parameter Model on a Laptop：相比其他候选，它在“可复制的极限工程实践”上更完整，内容更适合转换为 builder 实操启发。
 - browser-use：比同类“概念型 agent 项目”更强调立即可用与任务落地。
 - DeerFlow 2.0：相比单点工具，它更像“可扩展底盘”，更适合团队级工作流建设。
