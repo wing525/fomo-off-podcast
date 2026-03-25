@@ -15,7 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.03.24｜DeerFlow、n8n-mcp、Bombadil：智能体工作流从编排到质检</title><description>### 要点
+    <item><title>2026.03.25｜多智能体执行、记忆层、语音评测：开发者工作流正在产品化</title><description>### 要点
+
+### Sources
+
+### 一句话总结
+- 今天的主线是：AI 开发工具链继续向可执行、可控、可复用收敛，重点在执行效率与工程稳定性并进。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-25-ep020-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-25-lobster-ep020-v1.mp3" length="3399212" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:32</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工具链继续向可执行、可控、可复用收敛，重点在执行效率与工程稳定性并进。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.24｜DeerFlow、n8n-mcp、Bombadil：智能体工作流从编排到质检</title><description>### 要点
 - DeerFlow：多智能体编排底盘，把任务拆分、角色并行与上下文路由整合到同一框架。
 - n8n-mcp：把 n8n 节点能力做成可检索知识层，减少自动化流程搭建试错。
 - Bombadil：属性驱动的 Web UI 测试工具，适合接入 CI 做回归守门。
