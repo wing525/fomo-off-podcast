@@ -15,7 +15,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.03.25｜多智能体执行、记忆层、语音评测：开发者工作流正在产品化</title><description>### 要点
+    <item><title>2026.03.26｜智能体编排、模型网关、本地LLM：开发者工作流提效</title><description>### 要点
+- deer-flow：相比同类项目，它更像“可用底座”而非单功能插件，写稿价值更高
+- litellm：对 builder 的直接收益最清晰，能从“能跑”升级到“可运营”
+- Ensu – Ente’s Local LLM app：与纯云端工具形成互补，可帮助听众理解“本地优先”路线
+- last30days-skill：比一般“摘要工具”更贴近真实信息运营场景，具方法论可讲
+- Show HN: Automate your workflow in plain English：可作为“未来交互方式”样本，补充榜单的前瞻性
+
+### Sources
+- deer-flow  
+  https://github.com/bytedance/deer-flow
+- litellm  
+  https://github.com/BerriAI/litellm
+- Ensu – Ente’s Local LLM app  
+  https://ente.com
+- last30days-skill  
+  https://github.com/mvanhorn/last30days-skill
+- Show HN: Automate your workflow in plain English  
+  https://operator23.com
+
+### 一句话总结
+- 今天的主线是：开发者 AI 工具链继续向可执行、可控、可复用演进，重点在流程化落地。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-26-ep021-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-26-lobster-ep021-v1.mp3" length="3336236" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:28</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- deer-flow：相比同类项目，它更像“可用底座”而非单功能插件，写稿价值更高&lt;/p&gt;&lt;p&gt;- litellm：对 builder 的直接收益最清晰，能从“能跑”升级到“可运营”&lt;/p&gt;&lt;p&gt;- Ensu – Ente’s Local LLM app：与纯云端工具形成互补，可帮助听众理解“本地优先”路线&lt;/p&gt;&lt;p&gt;- last30days-skill：比一般“摘要工具”更贴近真实信息运营场景，具方法论可讲&lt;/p&gt;&lt;p&gt;- Show HN: Automate your workflow in plain English：可作为“未来交互方式”样本，补充榜单的前瞻性&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- deer-flow  &lt;/p&gt;&lt;p&gt;  https://github.com/bytedance/deer-flow&lt;/p&gt;&lt;p&gt;- litellm  &lt;/p&gt;&lt;p&gt;  https://github.com/BerriAI/litellm&lt;/p&gt;&lt;p&gt;- Ensu – Ente’s Local LLM app  &lt;/p&gt;&lt;p&gt;  https://ente.com&lt;/p&gt;&lt;p&gt;- last30days-skill  &lt;/p&gt;&lt;p&gt;  https://github.com/mvanhorn/last30days-skill&lt;/p&gt;&lt;p&gt;- Show HN: Automate your workflow in plain English  &lt;/p&gt;&lt;p&gt;  https://operator23.com&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者 AI 工具链继续向可执行、可控、可复用演进，重点在流程化落地。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.25｜多智能体执行、记忆层、语音评测：开发者工作流正在产品化</title><description>### 要点
 - bytedance/deer-flow：相比同类项目，deer-flow 更强调端到端任务完成，而非只做单点组件。
 - supermemoryai/supermemory：在今天候选里最接近“生产可用中间层”的基础设施类型。
 - A New Framework for Evaluating Voice Agents (EVA)：在脚本层能给 builder 明确“怎么度量改进”，价值高于一般资讯。
