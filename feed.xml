@@ -15,7 +15,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.03.26｜智能体编排、模型网关、本地LLM：开发者工作流提效</title><description>### 要点
+    <item><title>2026.03.27｜智能体协作、文档OCR、安全响应：开发者工作流新样板</title><description>### 要点
+
+### Sources
+
+### 一句话总结
+- 今天的主线是：智能体工作流继续向工程化收敛，编排、记忆、文档解析与研究执行都在走向可复用基础设施。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-27-ep022-v2</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-27-lobster-ep022-v2.mp3" length="1116864" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:06</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流继续向工程化收敛，编排、记忆、文档解析与研究执行都在走向可复用基础设施。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.26｜智能体编排、模型网关、本地LLM：开发者工作流提效</title><description>### 要点
 - deer-flow：相比同类项目，它更像“可用底座”而非单功能插件，写稿价值更高
 - litellm：对 builder 的直接收益最清晰，能从“能跑”升级到“可运营”
 - Ensu – Ente’s Local LLM app：与纯云端工具形成互补，可帮助听众理解“本地优先”路线
