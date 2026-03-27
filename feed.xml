@@ -16,21 +16,18 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2026.03.27｜龙虾AI工具速报</title>
-      <description>### 本期要点
-- 本期聚焦可直接上手的 AI 开发工具与工作流组件。
-- 重点解释每个项目在实际流程里的位置与替代价值。
-- 优先选择可验证、可复现、可落地的项目。
+      <title>2026.03.27｜智能体协作、文档OCR、安全响应：开发者工作流新样板</title>
+      <description>### 要点
 
-### 今日工具
-- 本期工具见正文
+### Sources
 
-一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。
+### 一句话总结
+- 今天这期聚焦可直接落地的开发者 AI 工具链：多智能体协作、文档结构化和研究型自治执行正加速走向工程化。
 
 ### 节目简介
-一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-工具链接见上方，可直接点击访问。</description>
+以上就是今天的全部内容，我们明天见。</description>
       <pubDate>Fri, 27 Mar 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">lobster-2026-03-27-ep022-v2</guid>
       <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-27-lobster-ep022-v2.mp3" length="1116864" type="audio/mpeg" />
@@ -38,7 +35,7 @@
       <itunes:duration>00:03:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;本期聚焦可直接上手的 AI 开发工具与工作流组件。&lt;/li&gt;&lt;li&gt;重点解释每个项目在实际流程里的位置与替代价值。&lt;/li&gt;&lt;li&gt;优先选择可验证、可复现、可落地的项目。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：今天这期更关注“可执行的流程价值”，而不是概念热度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天这期聚焦可直接落地的开发者 AI 工具链：多智能体协作、文档结构化和研究型自治执行正加速走向工程化。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>2026.03.26｜智能体编排、模型网关、本地LLM：开发者工作流提效</title>
