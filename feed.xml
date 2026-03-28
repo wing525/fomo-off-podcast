@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.03.29｜Go hard on agents, not on your filesystem、CERN uses tiny AI models burned into silicon for real-time LHC data filtering、hacksider/Deep-Live-Cam、Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly、I put all 8,642 Spanish laws in Git – every reform is a commit、Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer：AI技术在多领域安全高效应用与发展变迁</title>
+      <description>Go hard on agents, not on your filesystem：jai 是一个用 Rust 写的安全容器，主要用来在 Linux 上轻松隔离和保护 AI 代理，防止它们误删文件或破坏系统数据。
+项目链接：https://jai.scs.stanford.edu/
+
+CERN uses tiny AI models burned into silicon for real-time LHC data filtering：CERN 是一个用 C++ 写的数据处理系统，主要用来在大型强子对撞机（LHC）上实时过滤海量数据，提高数据分析效率。
+项目链接：https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering
+
+hacksider/Deep-Live-Cam：Deep-Live-Cam 是一个用 Python 写的实时面部替换工具，主要用来生成深度伪造视频内容。
+项目链接：https://github.com/hacksider/Deep-Live-Cam
+
+Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly：Cocoa-Way 是一个用 Rust 写的 macOS 原生 Wayland 组合器，主要用来无缝运行 Linux 应用程序。
+项目链接：https://github.com/J-x-Z/cocoa-way
+
+I put all 8,642 Spanish laws in Git – every reform is a commit：legalize-es 是一个用 Python 写的法律文档管理系统，主要用来将西班牙全部法律法规存储在Git仓库中，并以每个修订为一条提交记录。
+项目链接：https://github.com/EnriqueLop/legalize-es
+
+Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer：ATTN-11 是一个用 Python 写的机器学习实验平台，主要用来在一个古老计算机上训练Transformer模型以展示计算能力的发展历程。
+项目链接：https://github.com/dbrll/ATTN-11
+
+今日速报共 6 个项目：Go hard on agents, not on your filesystem、CERN uses tiny AI models burned into silicon for real-time LHC data filtering、hacksider/Deep-Live-Cam、Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly、I put all 8,642 Spanish laws in Git – every reform is a commit、Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-03-29-mnaj70vi</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-29-lobster-29-mnaj70vi.mp3" length="7299500" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;Go hard on agents, not on your filesystem&lt;/strong&gt;：jai 是一个用 Rust 写的安全容器，主要用来在 Linux 上轻松隔离和保护 AI 代理，防止它们误删文件或破坏系统数据。&lt;br/&gt;项目链接：&lt;a href="https://jai.scs.stanford.edu/"&gt;https://jai.scs.stanford.edu/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CERN uses tiny AI models burned into silicon for real-time LHC data filtering&lt;/strong&gt;：CERN 是一个用 C++ 写的数据处理系统，主要用来在大型强子对撞机（LHC）上实时过滤海量数据，提高数据分析效率。&lt;br/&gt;项目链接：&lt;a href="https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering"&gt;https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;hacksider/Deep-Live-Cam&lt;/strong&gt;：Deep-Live-Cam 是一个用 Python 写的实时面部替换工具，主要用来生成深度伪造视频内容。&lt;br/&gt;项目链接：&lt;a href="https://github.com/hacksider/Deep-Live-Cam"&gt;https://github.com/hacksider/Deep-Live-Cam&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly&lt;/strong&gt;：Cocoa-Way 是一个用 Rust 写的 macOS 原生 Wayland 组合器，主要用来无缝运行 Linux 应用程序。&lt;br/&gt;项目链接：&lt;a href="https://github.com/J-x-Z/cocoa-way"&gt;https://github.com/J-x-Z/cocoa-way&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;I put all 8,642 Spanish laws in Git – every reform is a commit&lt;/strong&gt;：legalize-es 是一个用 Python 写的法律文档管理系统，主要用来将西班牙全部法律法规存储在Git仓库中，并以每个修订为一条提交记录。&lt;br/&gt;项目链接：&lt;a href="https://github.com/EnriqueLop/legalize-es"&gt;https://github.com/EnriqueLop/legalize-es&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer&lt;/strong&gt;：ATTN-11 是一个用 Python 写的机器学习实验平台，主要用来在一个古老计算机上训练Transformer模型以展示计算能力的发展历程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/dbrll/ATTN-11"&gt;https://github.com/dbrll/ATTN-11&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：Go hard on agents, not on your filesystem、CERN uses tiny AI models burned into silicon for real-time LHC data filtering、hacksider/Deep-Live-Cam、Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly、I put all 8,642 Spanish laws in Git – every reform is a commit、Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.03.28｜dexter、CERN 使用微型AI模型进行LHC数据实时过滤、Deep-Live-Cam、AI-Scientist-v2、agentscope、chandra：Python编写AI工具自动化复杂数据分析流程</title>
       <description>dexter：dexter 是一个用 Python 写的自主金融研究代理程序，主要用来自动化金融分析流程。
 
