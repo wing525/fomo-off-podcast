@@ -16,7 +16,32 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item><title>2026.03.31｜Agent Flow、Coasts、pglens：AI开发工作流开始长出观测层</title><description>### 要点
+    <item><title>2026.04.01｜Browserbeam、PaddleOCR、VibeVoice：AI开发工作流正在补齐输入和执行层</title><description>### 要点
+- Browserbeam：比普通网页自动化工具更值得写，因为它面向的是 agent 原生执行接口，而不是脚本式 RPA。
+- PaddleOCR：它比很多新模型更接近落地价值，因为先把脏文档变成可喂给 LLM 的干净数据，后面的链路才成立。
+- VibeVoice：相比单纯“又一个语音模型”，它更值得写在于 builder 可以围绕同一家族搭完整语音链路。
+- Agent Lightning：它比普通 agent 框架更值得写，因为重点不在再搭一层执行框架，而在让已有 agent 进入可训练、可迭代状态。
+- pg_textsearch：它比泛向量数据库话题更值得写，因为 builder 可以在既有 Postgres 栈里补齐检索层，不必整套重构。
+
+### Sources
+- Browserbeam  
+  https://browserbeam.com/
+- PaddleOCR  
+  https://github.com/PaddlePaddle/PaddleOCR
+- VibeVoice  
+  https://github.com/microsoft/VibeVoice
+- Agent Lightning  
+  https://github.com/microsoft/agent-lightning
+- pg_textsearch  
+  https://github.com/timescale/pg_textsearch
+
+### 一句话总结
+- 今天的主线是：AI 开发工作流正在补齐输入、浏览器执行、语音链路、训练优化和检索召回这些真正决定可落地性的底层环节。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-01-ep025-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-01-lobster-ep025-v1.mp3" length="4178348" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:04:21</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Browserbeam：比普通网页自动化工具更值得写，因为它面向的是 agent 原生执行接口，而不是脚本式 RPA。&lt;/p&gt;&lt;p&gt;- PaddleOCR：它比很多新模型更接近落地价值，因为先把脏文档变成可喂给 LLM 的干净数据，后面的链路才成立。&lt;/p&gt;&lt;p&gt;- VibeVoice：相比单纯“又一个语音模型”，它更值得写在于 builder 可以围绕同一家族搭完整语音链路。&lt;/p&gt;&lt;p&gt;- Agent Lightning：它比普通 agent 框架更值得写，因为重点不在再搭一层执行框架，而在让已有 agent 进入可训练、可迭代状态。&lt;/p&gt;&lt;p&gt;- pg_textsearch：它比泛向量数据库话题更值得写，因为 builder 可以在既有 Postgres 栈里补齐检索层，不必整套重构。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Browserbeam  &lt;/p&gt;&lt;p&gt;  https://browserbeam.com/&lt;/p&gt;&lt;p&gt;- PaddleOCR  &lt;/p&gt;&lt;p&gt;  https://github.com/PaddlePaddle/PaddleOCR&lt;/p&gt;&lt;p&gt;- VibeVoice  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/VibeVoice&lt;/p&gt;&lt;p&gt;- Agent Lightning  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/agent-lightning&lt;/p&gt;&lt;p&gt;- pg_textsearch  &lt;/p&gt;&lt;p&gt;  https://github.com/timescale/pg_textsearch&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流正在补齐输入、浏览器执行、语音链路、训练优化和检索召回这些真正决定可落地性的底层环节。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.31｜Agent Flow、Coasts、pglens：AI开发工作流开始长出观测层</title><description>### 要点
 - Agent Flow：比纯“再造一个 agent”更值得写，因为它作用在所有 agent 工作流上，能直接提升调试与运营效率。
 - Coasts：它切的是 agent 真正落地时的环境层问题，比抽象框架更接近能马上省时间的基础设施。
 - pglens：相比泛 MCP 服务器，它更像是为真实数据工作流做的“数据库观察层”，写稿价值更高。
