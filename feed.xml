@@ -15,8 +15,44 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026.04.04｜Onyx、Matrix OS、MCP看板：AI 工具入口开始从聊天框往系统层走</title>
+      <description>### 本期要点
+- 这期不是在比哪个聊天助手更会答，而是在看 AI 工具正在往更深的系统层迁移。
+- Onyx 对应团队级知识入口与可部署平台层。
+- Matrix OS 对应“先说目标、再由系统生成应用”的新入口形态。
+- ismcpdead.com 对应协议与生态判断层，帮开发者减少押错方向的风险。
 
-    <item><title>2026.04.03｜oh-my-codex、AutoLoop、OpenScreen：开发者开始给智能体加外骨骼、优化环和演示出口</title><description>### 要点
+### 今日工具
+- onyx-dot-app / onyx
+  一句话概括：不是单一聊天壳，而是可落到企业检索、内网知识和多模型接入的一整套开源 AI 平台
+  工具链接：https://github.com/onyx-dot-app/onyx
+- Matrix OS
+  一句话概括：它不是再包装一个聊天助手，而是在强调“记忆 + 生成软件 + 跨端持续运行”的个人操作系统叙事，对 builder 很有方法论启发
+  工具链接：https://matrix-os.com/
+- ismcpdead.com
+  一句话概括：这不是模型或 IDE 工具，而是帮开发者判断 MCP 到底该不该押注的情报层工具，适合补“选协议、选生态”的前置决策
+  工具链接：https://www.producthunt.com/topics/artificial-intelligence
+
+一句话总结：如果把今天这三项放在一起看，会发现一个很明确的趋势：AI 工具的竞争，正在从单个聊天框，往系统层、入口层和协议层移动。Onyx 在做可部署的平台，Matrix OS 在做下一代系统入口，ismcpdead.com 则在做协议生态的判断仪表盘。也就是说，接下来更重要的问题可能不再是“哪个模型更强”，而是“我把 AI 放进哪一层，才能真的改变工作流”。
+
+### 节目简介
+一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
+
+工具链接见上方，可直接点击访问。
+</description>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-04-ep028-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-04-lobster-ep028-v1.mp3" length="4555244" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;这期不是在比哪个聊天助手更会答，而是在看 AI 工具正在往更深的系统层迁移。&lt;/li&gt;&lt;li&gt;Onyx 对应团队级知识入口与可部署平台层。&lt;/li&gt;&lt;li&gt;Matrix OS 对应“先说目标、再由系统生成应用”的新入口形态。&lt;/li&gt;&lt;li&gt;ismcpdead.com 对应协议与生态判断层，帮开发者减少押错方向的风险。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;onyx-dot-app / onyx&lt;/strong&gt;：不是单一聊天壳，而是可落到企业检索、内网知识和多模型接入的一整套开源 AI 平台 &lt;a href="https://github.com/onyx-dot-app/onyx"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Matrix OS&lt;/strong&gt;：它不是再包装一个聊天助手，而是在强调“记忆 + 生成软件 + 跨端持续运行”的个人操作系统叙事，对 builder 很有方法论启发 &lt;a href="https://matrix-os.com/"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;ismcpdead.com&lt;/strong&gt;：这不是模型或 IDE 工具，而是帮开发者判断 MCP 到底该不该押注的情报层工具，适合补“选协议、选生态”的前置决策 &lt;a href="https://www.producthunt.com/topics/artificial-intelligence"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：如果把今天这三项放在一起看，会发现一个很明确的趋势：AI 工具的竞争，正在从单个聊天框，往系统层、入口层和协议层移动。Onyx 在做可部署的平台，Matrix OS 在做下一代系统入口，ismcpdead.com 则在做协议生态的判断仪表盘。也就是说，接下来更重要的问题可能不再是“哪个模型更强”，而是“我把 AI 放进哪一层，才能真的改变工作流”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.03｜oh-my-codex、AutoLoop、OpenScreen：开发者开始给智能体加外骨骼、优化环和演示出口</title>
+      <description>### 要点
 - oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。
 - AutoLoop：它比普通“再一个 agent 框架”更值得写，因为它把焦点放在持续改进回路，而不是一次性生成结果。
 - OpenScreen：它比纯粹的剪辑工具更值得写，因为它解决的是 AI builder 发布链上的“最后一公里”：把功能变成能快速展示和传播的可视化 demo。
@@ -35,7 +71,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-03-ep027-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-03-lobster-ep027-v1.mp3" length="2805548" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:55</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。&lt;/p&gt;&lt;p&gt;- AutoLoop：它比普通“再一个 agent 框架”更值得写，因为它把焦点放在持续改进回路，而不是一次性生成结果。&lt;/p&gt;&lt;p&gt;- OpenScreen：它比纯粹的剪辑工具更值得写，因为它解决的是 AI builder 发布链上的“最后一公里”：把功能变成能快速展示和传播的可视化 demo。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- oh-my-codex  &lt;/p&gt;&lt;p&gt;  https://github.com/Yeachan-Heo/oh-my-codex&lt;/p&gt;&lt;p&gt;- AutoLoop  &lt;/p&gt;&lt;p&gt;  https://github.com/armgabrielyan/autoloop&lt;/p&gt;&lt;p&gt;- OpenScreen  &lt;/p&gt;&lt;p&gt;  https://github.com/siddharthvaddem/openscreen&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者正在给智能体补齐外骨骼、优化闭环和演示出口，让 AI 工作流更像完整生产系统。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.02｜Roadie、Codex、Mkdnsite：AI开发工作流开始接管设备、代码和文档入口</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-03-ep027-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-03-lobster-ep027-v1.mp3" length="2805548" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:02:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。&lt;/p&gt;&lt;p&gt;- AutoLoop：它比普通“再一个 agent 框架”更值得写，因为它把焦点放在持续改进回路，而不是一次性生成结果。&lt;/p&gt;&lt;p&gt;- OpenScreen：它比纯粹的剪辑工具更值得写，因为它解决的是 AI builder 发布链上的“最后一公里”：把功能变成能快速展示和传播的可视化 demo。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- oh-my-codex  &lt;/p&gt;&lt;p&gt;  https://github.com/Yeachan-Heo/oh-my-codex&lt;/p&gt;&lt;p&gt;- AutoLoop  &lt;/p&gt;&lt;p&gt;  https://github.com/armgabrielyan/autoloop&lt;/p&gt;&lt;p&gt;- OpenScreen  &lt;/p&gt;&lt;p&gt;  https://github.com/siddharthvaddem/openscreen&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者正在给智能体补齐外骨骼、优化闭环和演示出口，让 AI 工作流更像完整生产系统。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.02｜Roadie、Codex、Mkdnsite：AI开发工作流开始接管设备、代码和文档入口</title>
+      <description>### 要点
 - Roadie：比一般设备控制方案更值得写，因为它把很多原本必须人工触屏的流程纳入 AI 工作流，而不要求目标设备先装代理。
 - Mkdnsite：它比普通静态站工具更值得写，因为它解决的是“人和智能体读同一份文档却要两套系统”的重复劳动。
 - Offline-First MDN Web Docs RAG-MCP Server：它比泛知识库项目更值得写，因为开发者不缺“再一个 RAG demo”，缺的是能直接接入常用文档资产的本地工具。
@@ -54,7 +102,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-02-ep026-v2</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-02-lobster-ep026-v2.mp3" length="1074528" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:59</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Roadie：比一般设备控制方案更值得写，因为它把很多原本必须人工触屏的流程纳入 AI 工作流，而不要求目标设备先装代理。&lt;/p&gt;&lt;p&gt;- Mkdnsite：它比普通静态站工具更值得写，因为它解决的是“人和智能体读同一份文档却要两套系统”的重复劳动。&lt;/p&gt;&lt;p&gt;- Offline-First MDN Web Docs RAG-MCP Server：它比泛知识库项目更值得写，因为开发者不缺“再一个 RAG demo”，缺的是能直接接入常用文档资产的本地工具。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Roadie  &lt;/p&gt;&lt;p&gt;  https://github.com/VibiumDev/roadie&lt;/p&gt;&lt;p&gt;- Mkdnsite  &lt;/p&gt;&lt;p&gt;  https://github.com/mkdnsite/mkdnsite&lt;/p&gt;&lt;p&gt;- Offline-First MDN Web Docs RAG-MCP Server  &lt;/p&gt;&lt;p&gt;  https://github.com/deepsweet/mdn&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流正在把设备控制、文档分发和知识检索这些入口能力系统化。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.01｜Browserbeam、PaddleOCR、VibeVoice：AI开发工作流正在补齐输入和执行层</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-02-ep026-v2</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-02-lobster-ep026-v2.mp3" length="1074528" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Roadie：比一般设备控制方案更值得写，因为它把很多原本必须人工触屏的流程纳入 AI 工作流，而不要求目标设备先装代理。&lt;/p&gt;&lt;p&gt;- Mkdnsite：它比普通静态站工具更值得写，因为它解决的是“人和智能体读同一份文档却要两套系统”的重复劳动。&lt;/p&gt;&lt;p&gt;- Offline-First MDN Web Docs RAG-MCP Server：它比泛知识库项目更值得写，因为开发者不缺“再一个 RAG demo”，缺的是能直接接入常用文档资产的本地工具。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Roadie  &lt;/p&gt;&lt;p&gt;  https://github.com/VibiumDev/roadie&lt;/p&gt;&lt;p&gt;- Mkdnsite  &lt;/p&gt;&lt;p&gt;  https://github.com/mkdnsite/mkdnsite&lt;/p&gt;&lt;p&gt;- Offline-First MDN Web Docs RAG-MCP Server  &lt;/p&gt;&lt;p&gt;  https://github.com/deepsweet/mdn&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流正在把设备控制、文档分发和知识检索这些入口能力系统化。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.01｜Browserbeam、PaddleOCR、VibeVoice：AI开发工作流正在补齐输入和执行层</title>
+      <description>### 要点
 - Browserbeam：比普通网页自动化工具更值得写，因为它面向的是 agent 原生执行接口，而不是脚本式 RPA。
 - PaddleOCR：它比很多新模型更接近落地价值，因为先把脏文档变成可喂给 LLM 的干净数据，后面的链路才成立。
 - VibeVoice：相比单纯“又一个语音模型”，它更值得写在于 builder 可以围绕同一家族搭完整语音链路。
@@ -79,7 +139,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-01-ep025-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-01-lobster-ep025-v1.mp3" length="4178348" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:04:21</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Browserbeam：比普通网页自动化工具更值得写，因为它面向的是 agent 原生执行接口，而不是脚本式 RPA。&lt;/p&gt;&lt;p&gt;- PaddleOCR：它比很多新模型更接近落地价值，因为先把脏文档变成可喂给 LLM 的干净数据，后面的链路才成立。&lt;/p&gt;&lt;p&gt;- VibeVoice：相比单纯“又一个语音模型”，它更值得写在于 builder 可以围绕同一家族搭完整语音链路。&lt;/p&gt;&lt;p&gt;- Agent Lightning：它比普通 agent 框架更值得写，因为重点不在再搭一层执行框架，而在让已有 agent 进入可训练、可迭代状态。&lt;/p&gt;&lt;p&gt;- pg_textsearch：它比泛向量数据库话题更值得写，因为 builder 可以在既有 Postgres 栈里补齐检索层，不必整套重构。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Browserbeam  &lt;/p&gt;&lt;p&gt;  https://browserbeam.com/&lt;/p&gt;&lt;p&gt;- PaddleOCR  &lt;/p&gt;&lt;p&gt;  https://github.com/PaddlePaddle/PaddleOCR&lt;/p&gt;&lt;p&gt;- VibeVoice  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/VibeVoice&lt;/p&gt;&lt;p&gt;- Agent Lightning  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/agent-lightning&lt;/p&gt;&lt;p&gt;- pg_textsearch  &lt;/p&gt;&lt;p&gt;  https://github.com/timescale/pg_textsearch&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流正在补齐输入、浏览器执行、语音链路、训练优化和检索召回这些真正决定可落地性的底层环节。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.31｜Agent Flow、Coasts、pglens：AI开发工作流开始长出观测层</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-01-ep025-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-01-lobster-ep025-v1.mp3" length="4178348" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:04:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Browserbeam：比普通网页自动化工具更值得写，因为它面向的是 agent 原生执行接口，而不是脚本式 RPA。&lt;/p&gt;&lt;p&gt;- PaddleOCR：它比很多新模型更接近落地价值，因为先把脏文档变成可喂给 LLM 的干净数据，后面的链路才成立。&lt;/p&gt;&lt;p&gt;- VibeVoice：相比单纯“又一个语音模型”，它更值得写在于 builder 可以围绕同一家族搭完整语音链路。&lt;/p&gt;&lt;p&gt;- Agent Lightning：它比普通 agent 框架更值得写，因为重点不在再搭一层执行框架，而在让已有 agent 进入可训练、可迭代状态。&lt;/p&gt;&lt;p&gt;- pg_textsearch：它比泛向量数据库话题更值得写，因为 builder 可以在既有 Postgres 栈里补齐检索层，不必整套重构。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Browserbeam  &lt;/p&gt;&lt;p&gt;  https://browserbeam.com/&lt;/p&gt;&lt;p&gt;- PaddleOCR  &lt;/p&gt;&lt;p&gt;  https://github.com/PaddlePaddle/PaddleOCR&lt;/p&gt;&lt;p&gt;- VibeVoice  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/VibeVoice&lt;/p&gt;&lt;p&gt;- Agent Lightning  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/agent-lightning&lt;/p&gt;&lt;p&gt;- pg_textsearch  &lt;/p&gt;&lt;p&gt;  https://github.com/timescale/pg_textsearch&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流正在补齐输入、浏览器执行、语音链路、训练优化和检索召回这些真正决定可落地性的底层环节。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.03.31｜Agent Flow、Coasts、pglens：AI开发工作流开始长出观测层</title>
+      <description>### 要点
 - Agent Flow：比纯“再造一个 agent”更值得写，因为它作用在所有 agent 工作流上，能直接提升调试与运营效率。
 - Coasts：它切的是 agent 真正落地时的环境层问题，比抽象框架更接近能马上省时间的基础设施。
 - pglens：相比泛 MCP 服务器，它更像是为真实数据工作流做的“数据库观察层”，写稿价值更高。
@@ -104,7 +176,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-31-ep024-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-31-lobster-ep024-v1.mp3" length="1887596" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:56</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Agent Flow：比纯“再造一个 agent”更值得写，因为它作用在所有 agent 工作流上，能直接提升调试与运营效率。&lt;/p&gt;&lt;p&gt;- Coasts：它切的是 agent 真正落地时的环境层问题，比抽象框架更接近能马上省时间的基础设施。&lt;/p&gt;&lt;p&gt;- pglens：相比泛 MCP 服务器，它更像是为真实数据工作流做的“数据库观察层”，写稿价值更高。&lt;/p&gt;&lt;p&gt;- DeepRepo：它不是帮你写代码，而是帮你先看懂代码；在 builder 流程里，这一步往往比生成本身更稀缺。&lt;/p&gt;&lt;p&gt;- Memv：它代表的是 agent 记忆层从“存对话”走向“存状态”，方向性强，值得 builder 提前关注。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Agent Flow  &lt;/p&gt;&lt;p&gt;  https://github.com/patoles/agent-flow&lt;/p&gt;&lt;p&gt;- Coasts  &lt;/p&gt;&lt;p&gt;  https://github.com/coast-guard/coasts&lt;/p&gt;&lt;p&gt;- pglens  &lt;/p&gt;&lt;p&gt;  https://github.com/janbjorge/pglens&lt;/p&gt;&lt;p&gt;- DeepRepo  &lt;/p&gt;&lt;p&gt;  https://deeprepo.dev&lt;/p&gt;&lt;p&gt;- Memv  &lt;/p&gt;&lt;p&gt;  https://github.com/vstorm-co/memv&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流不再只卷生成能力，而是在观测、环境、数据理解、代码理解和记忆层补基础设施。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.03.30｜ProofShot、Wit、AI Governor：AI开发工作流开始补齐交付层</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-03-31-ep024-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-31-lobster-ep024-v1.mp3" length="1887596" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Agent Flow：比纯“再造一个 agent”更值得写，因为它作用在所有 agent 工作流上，能直接提升调试与运营效率。&lt;/p&gt;&lt;p&gt;- Coasts：它切的是 agent 真正落地时的环境层问题，比抽象框架更接近能马上省时间的基础设施。&lt;/p&gt;&lt;p&gt;- pglens：相比泛 MCP 服务器，它更像是为真实数据工作流做的“数据库观察层”，写稿价值更高。&lt;/p&gt;&lt;p&gt;- DeepRepo：它不是帮你写代码，而是帮你先看懂代码；在 builder 流程里，这一步往往比生成本身更稀缺。&lt;/p&gt;&lt;p&gt;- Memv：它代表的是 agent 记忆层从“存对话”走向“存状态”，方向性强，值得 builder 提前关注。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Agent Flow  &lt;/p&gt;&lt;p&gt;  https://github.com/patoles/agent-flow&lt;/p&gt;&lt;p&gt;- Coasts  &lt;/p&gt;&lt;p&gt;  https://github.com/coast-guard/coasts&lt;/p&gt;&lt;p&gt;- pglens  &lt;/p&gt;&lt;p&gt;  https://github.com/janbjorge/pglens&lt;/p&gt;&lt;p&gt;- DeepRepo  &lt;/p&gt;&lt;p&gt;  https://deeprepo.dev&lt;/p&gt;&lt;p&gt;- Memv  &lt;/p&gt;&lt;p&gt;  https://github.com/vstorm-co/memv&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流不再只卷生成能力，而是在观测、环境、数据理解、代码理解和记忆层补基础设施。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.03.30｜ProofShot、Wit、AI Governor：AI开发工作流开始补齐交付层</title>
+      <description>### 要点
 - ProofShot：它比普通 demo 工具更接近真实交付环节，能直接替代人工截图、回归与验收整理。
 - Wit：相比一般协作工具，它直接卡在“代码还没写出来前”的冲突预防点，更值得 builder 关注。
 - AI Governor：它不是提升 agent 速度，而是补齐 agent 自审失效后的治理层，优先级高于很多效率工具。
@@ -129,7 +213,17 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-03-30-ep023-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-30-lobster-ep023-v1.mp3" length="2400788" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:57</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- ProofShot：它比普通 demo 工具更接近真实交付环节，能直接替代人工截图、回归与验收整理。&lt;/p&gt;&lt;p&gt;- Wit：相比一般协作工具，它直接卡在“代码还没写出来前”的冲突预防点，更值得 builder 关注。&lt;/p&gt;&lt;p&gt;- AI Governor：它不是提升 agent 速度，而是补齐 agent 自审失效后的治理层，优先级高于很多效率工具。&lt;/p&gt;&lt;p&gt;- AI Roundtable：对需要频繁选模型、比答案质量的 builder 来说，它提供了比单模型试玩更高密度的判断方式。&lt;/p&gt;&lt;p&gt;- AgentVerse：它代表的是 agent 生态层的新形态，短期生产收益弱，但值得作为方向信号观察。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- ProofShot  &lt;/p&gt;&lt;p&gt;  https://github.com/AmElmo/proofshot&lt;/p&gt;&lt;p&gt;- Wit  &lt;/p&gt;&lt;p&gt;  https://github.com/amaar-mc/wit&lt;/p&gt;&lt;p&gt;- AI Governor  &lt;/p&gt;&lt;p&gt;  https://github.com/neo4j-labs/ai-governor&lt;/p&gt;&lt;p&gt;- AI Roundtable  &lt;/p&gt;&lt;p&gt;  https://opper.ai/ai-roundtable/&lt;/p&gt;&lt;p&gt;- AgentVerse  &lt;/p&gt;&lt;p&gt;  https://nickakre.github.io/agentverse-social/&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流开始补齐真正的交付层，验证、协作治理、模型评估和 agent 生态都在从概念走向可执行。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-03-30-ep023-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-03-30-lobster-ep023-v1.mp3" length="2400788" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- ProofShot：它比普通 demo 工具更接近真实交付环节，能直接替代人工截图、回归与验收整理。&lt;/p&gt;&lt;p&gt;- Wit：相比一般协作工具，它直接卡在“代码还没写出来前”的冲突预防点，更值得 builder 关注。&lt;/p&gt;&lt;p&gt;- AI Governor：它不是提升 agent 速度，而是补齐 agent 自审失效后的治理层，优先级高于很多效率工具。&lt;/p&gt;&lt;p&gt;- AI Roundtable：对需要频繁选模型、比答案质量的 builder 来说，它提供了比单模型试玩更高密度的判断方式。&lt;/p&gt;&lt;p&gt;- AgentVerse：它代表的是 agent 生态层的新形态，短期生产收益弱，但值得作为方向信号观察。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- ProofShot  &lt;/p&gt;&lt;p&gt;  https://github.com/AmElmo/proofshot&lt;/p&gt;&lt;p&gt;- Wit  &lt;/p&gt;&lt;p&gt;  https://github.com/amaar-mc/wit&lt;/p&gt;&lt;p&gt;- AI Governor  &lt;/p&gt;&lt;p&gt;  https://github.com/neo4j-labs/ai-governor&lt;/p&gt;&lt;p&gt;- AI Roundtable  &lt;/p&gt;&lt;p&gt;  https://opper.ai/ai-roundtable/&lt;/p&gt;&lt;p&gt;- AgentVerse  &lt;/p&gt;&lt;p&gt;  https://nickakre.github.io/agentverse-social/&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 开发工作流开始补齐真正的交付层，验证、协作治理、模型评估和 agent 生态都在从概念走向可执行。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.03.29｜CERN、Deep-Live-Cam、Cocoa-Way：AI技术在多领域安全高效应用与发展变迁</title>
       <description> jai：jai 是一个用 Rust 写的安全容器，主要用来在 Linux 上轻松隔离和保护 AI 代理，防止它们误删文件或破坏系统数据。
 
