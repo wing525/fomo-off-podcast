@@ -16,7 +16,26 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
 
-    <item><title>2026.04.02｜Roadie、Codex、Mkdnsite：AI开发工作流开始接管设备、代码和文档入口</title><description>### 要点
+    <item><title>2026.04.03｜oh-my-codex、AutoLoop、OpenScreen：开发者开始给智能体加外骨骼、优化环和演示出口</title><description>### 要点
+- oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。
+- AutoLoop：它比普通“再一个 agent 框架”更值得写，因为它把焦点放在持续改进回路，而不是一次性生成结果。
+- OpenScreen：它比纯粹的剪辑工具更值得写，因为它解决的是 AI builder 发布链上的“最后一公里”：把功能变成能快速展示和传播的可视化 demo。
+
+### Sources
+- oh-my-codex  
+  https://github.com/Yeachan-Heo/oh-my-codex
+- AutoLoop  
+  https://github.com/armgabrielyan/autoloop
+- OpenScreen  
+  https://github.com/siddharthvaddem/openscreen
+
+### 一句话总结
+- 今天的主线是：开发者正在给智能体补齐外骨骼、优化闭环和演示出口，让 AI 工作流更像完整生产系统。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-03-ep027-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-03-lobster-ep027-v1.mp3" length="2805548" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:02:55</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。&lt;/p&gt;&lt;p&gt;- AutoLoop：它比普通“再一个 agent 框架”更值得写，因为它把焦点放在持续改进回路，而不是一次性生成结果。&lt;/p&gt;&lt;p&gt;- OpenScreen：它比纯粹的剪辑工具更值得写，因为它解决的是 AI builder 发布链上的“最后一公里”：把功能变成能快速展示和传播的可视化 demo。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- oh-my-codex  &lt;/p&gt;&lt;p&gt;  https://github.com/Yeachan-Heo/oh-my-codex&lt;/p&gt;&lt;p&gt;- AutoLoop  &lt;/p&gt;&lt;p&gt;  https://github.com/armgabrielyan/autoloop&lt;/p&gt;&lt;p&gt;- OpenScreen  &lt;/p&gt;&lt;p&gt;  https://github.com/siddharthvaddem/openscreen&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者正在给智能体补齐外骨骼、优化闭环和演示出口，让 AI 工作流更像完整生产系统。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.02｜Roadie、Codex、Mkdnsite：AI开发工作流开始接管设备、代码和文档入口</title><description>### 要点
 - Roadie：比一般设备控制方案更值得写，因为它把很多原本必须人工触屏的流程纳入 AI 工作流，而不要求目标设备先装代理。
 - Mkdnsite：它比普通静态站工具更值得写，因为它解决的是“人和智能体读同一份文档却要两套系统”的重复劳动。
 - Offline-First MDN Web Docs RAG-MCP Server：它比泛知识库项目更值得写，因为开发者不缺“再一个 RAG demo”，缺的是能直接接入常用文档资产的本地工具。
