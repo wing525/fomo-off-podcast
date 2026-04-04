@@ -15,7 +15,30 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.04.04｜Onyx、Matrix OS、MCP看板：AI 工具入口开始从聊天框往系统层走</title><description>### 要点
+    <item>
+      <title>2026.04.05｜mlx-vlm、agent-framework、goose：AI工具趋向于多语言多平台的开发与应用扩展</title>
+      <description>mlx-vlm：mlx-vlm 是一个用 Python 写的机器学习库，主要用来在 Mac 上对视觉语言模型（VLM）和全能模型进行推理和微调。
+项目链接：https://github.com/Blaizzy/mlx-vlm
+
+agent-framework：agent-framework 是一个用 Python 写的代理框架，主要用来构建可扩展的 AI 代理系统。
+项目链接：https://github.com/microsoft/agent-framework
+
+goose：goose 是一个用 Go 写的本地可扩展 AI 代理工具，主要用来自动化工程任务。
+项目链接：https://github.com/block/goose
+
+今日速报共 3 个项目：mlx-vlm、agent-framework、goose，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-05-mnkpgzqg</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-05-lobster-05-mnkpgzqg.mp3" length="3037868" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;mlx-vlm&lt;/strong&gt;：mlx-vlm 是一个用 Python 写的机器学习库，主要用来在 Mac 上对视觉语言模型（VLM）和全能模型进行推理和微调。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Blaizzy/mlx-vlm"&gt;https://github.com/Blaizzy/mlx-vlm&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;agent-framework&lt;/strong&gt;：agent-framework 是一个用 Python 写的代理框架，主要用来构建可扩展的 AI 代理系统。&lt;br/&gt;项目链接：&lt;a href="https://github.com/microsoft/agent-framework"&gt;https://github.com/microsoft/agent-framework&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;goose&lt;/strong&gt;：goose 是一个用 Go 写的本地可扩展 AI 代理工具，主要用来自动化工程任务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/block/goose"&gt;https://github.com/block/goose&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：mlx-vlm、agent-framework、goose，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.04｜Onyx、Matrix OS、MCP看板：AI 工具入口开始从聊天框往系统层走</title>
+      <description>### 要点
 - Onyx：比纯概念产品更值得写，因为开发者今天就能评估、部署或至少 fork 它，而不是只听愿景。
 - Matrix OS：比普通 AI 助手更值得写，因为它提供的是下一代入口形态的样板，能帮助听众判断未来工具会往哪卷。
 - ismcpdead.com：比单篇分析文章更值得写，因为它不是一次性观点，而是能持续跟踪协议生态变化的判断工具。
@@ -34,7 +57,17 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-04-ep028-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-04-lobster-ep028-v1.mp3" length="4555244" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:48</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Onyx：比纯概念产品更值得写，因为开发者今天就能评估、部署或至少 fork 它，而不是只听愿景。&lt;/p&gt;&lt;p&gt;- Matrix OS：比普通 AI 助手更值得写，因为它提供的是下一代入口形态的样板，能帮助听众判断未来工具会往哪卷。&lt;/p&gt;&lt;p&gt;- ismcpdead.com：比单篇分析文章更值得写，因为它不是一次性观点，而是能持续跟踪协议生态变化的判断工具。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Onyx  &lt;/p&gt;&lt;p&gt;  https://github.com/onyx-dot-app/onyx&lt;/p&gt;&lt;p&gt;- Matrix OS  &lt;/p&gt;&lt;p&gt;  https://matrix-os.com/&lt;/p&gt;&lt;p&gt;- ismcpdead.com  &lt;/p&gt;&lt;p&gt;  https://ismcpdead.com/&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 工具竞争正在从聊天框继续上移到系统层、入口层和协议层。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-04-ep028-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-04-lobster-ep028-v1.mp3" length="4555244" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Onyx：比纯概念产品更值得写，因为开发者今天就能评估、部署或至少 fork 它，而不是只听愿景。&lt;/p&gt;&lt;p&gt;- Matrix OS：比普通 AI 助手更值得写，因为它提供的是下一代入口形态的样板，能帮助听众判断未来工具会往哪卷。&lt;/p&gt;&lt;p&gt;- ismcpdead.com：比单篇分析文章更值得写，因为它不是一次性观点，而是能持续跟踪协议生态变化的判断工具。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Onyx  &lt;/p&gt;&lt;p&gt;  https://github.com/onyx-dot-app/onyx&lt;/p&gt;&lt;p&gt;- Matrix OS  &lt;/p&gt;&lt;p&gt;  https://matrix-os.com/&lt;/p&gt;&lt;p&gt;- ismcpdead.com  &lt;/p&gt;&lt;p&gt;  https://ismcpdead.com/&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 工具竞争正在从聊天框继续上移到系统层、入口层和协议层。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.03｜oh-my-codex、AutoLoop、OpenScreen：开发者开始给智能体加外骨骼、优化环和演示出口</title>
       <description>### 要点
 - oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。
