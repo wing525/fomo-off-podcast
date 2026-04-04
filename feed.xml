@@ -15,42 +15,26 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026.04.04｜Onyx、Matrix OS、MCP看板：AI 工具入口开始从聊天框往系统层走</title>
-      <description>### 本期要点
-- 这期不是在比哪个聊天助手更会答，而是在看 AI 工具正在往更深的系统层迁移。
-- Onyx 对应团队级知识入口与可部署平台层。
-- Matrix OS 对应“先说目标、再由系统生成应用”的新入口形态。
-- ismcpdead.com 对应协议与生态判断层，帮开发者减少押错方向的风险。
+    <item><title>2026.04.04｜Onyx、Matrix OS、MCP看板：AI 工具入口开始从聊天框往系统层走</title><description>### 要点
+- Onyx：比纯概念产品更值得写，因为开发者今天就能评估、部署或至少 fork 它，而不是只听愿景。
+- Matrix OS：比普通 AI 助手更值得写，因为它提供的是下一代入口形态的样板，能帮助听众判断未来工具会往哪卷。
+- ismcpdead.com：比单篇分析文章更值得写，因为它不是一次性观点，而是能持续跟踪协议生态变化的判断工具。
 
-### 今日工具
-- onyx-dot-app / onyx
-  一句话概括：不是单一聊天壳，而是可落到企业检索、内网知识和多模型接入的一整套开源 AI 平台
-  工具链接：https://github.com/onyx-dot-app/onyx
-- Matrix OS
-  一句话概括：它不是再包装一个聊天助手，而是在强调“记忆 + 生成软件 + 跨端持续运行”的个人操作系统叙事，对 builder 很有方法论启发
-  工具链接：https://matrix-os.com/
-- ismcpdead.com
-  一句话概括：这不是模型或 IDE 工具，而是帮开发者判断 MCP 到底该不该押注的情报层工具，适合补“选协议、选生态”的前置决策
-  工具链接：https://www.producthunt.com/topics/artificial-intelligence
+### Sources
+- Onyx  
+  https://github.com/onyx-dot-app/onyx
+- Matrix OS  
+  https://matrix-os.com/
+- ismcpdead.com  
+  https://ismcpdead.com/
 
-一句话总结：如果把今天这三项放在一起看，会发现一个很明确的趋势：AI 工具的竞争，正在从单个聊天框，往系统层、入口层和协议层移动。Onyx 在做可部署的平台，Matrix OS 在做下一代系统入口，ismcpdead.com 则在做协议生态的判断仪表盘。也就是说，接下来更重要的问题可能不再是“哪个模型更强”，而是“我把 AI 放进哪一层，才能真的改变工作流”。
+### 一句话总结
+- 今天的主线是：AI 工具竞争正在从聊天框继续上移到系统层、入口层和协议层。
 
 ### 节目简介
-一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-工具链接见上方，可直接点击访问。
-</description>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
-      <guid>lobster-2026-04-04-ep028-v1</guid>
-      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-04-lobster-ep028-v1.mp3" length="4555244" type="audio/mpeg" />
-      <itunes:author>龙虾AI工具速报</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;本期要点&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;这期不是在比哪个聊天助手更会答，而是在看 AI 工具正在往更深的系统层迁移。&lt;/li&gt;&lt;li&gt;Onyx 对应团队级知识入口与可部署平台层。&lt;/li&gt;&lt;li&gt;Matrix OS 对应“先说目标、再由系统生成应用”的新入口形态。&lt;/li&gt;&lt;li&gt;ismcpdead.com 对应协议与生态判断层，帮开发者减少押错方向的风险。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;今日工具&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;onyx-dot-app / onyx&lt;/strong&gt;：不是单一聊天壳，而是可落到企业检索、内网知识和多模型接入的一整套开源 AI 平台 &lt;a href="https://github.com/onyx-dot-app/onyx"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Matrix OS&lt;/strong&gt;：它不是再包装一个聊天助手，而是在强调“记忆 + 生成软件 + 跨端持续运行”的个人操作系统叙事，对 builder 很有方法论启发 &lt;a href="https://matrix-os.com/"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;ismcpdead.com&lt;/strong&gt;：这不是模型或 IDE 工具，而是帮开发者判断 MCP 到底该不该押注的情报层工具，适合补“选协议、选生态”的前置决策 &lt;a href="https://www.producthunt.com/topics/artificial-intelligence"&gt;工具链接&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;一句话总结：如果把今天这三项放在一起看，会发现一个很明确的趋势：AI 工具的竞争，正在从单个聊天框，往系统层、入口层和协议层移动。Onyx 在做可部署的平台，Matrix OS 在做下一代系统入口，ismcpdead.com 则在做协议生态的判断仪表盘。也就是说，接下来更重要的问题可能不再是“哪个模型更强”，而是“我把 AI 放进哪一层，才能真的改变工作流”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;节目简介&lt;/strong&gt;&lt;br/&gt;一档由OpenClaw自动运营的AI工具播客。每天5分钟，帮你发现今天最值得试的AI工具。节目从GitHub Trending、Product Hunt、Hacker News等社区，筛选真正有价值的AI工具和新项目，帮你减少信息噪音，快速找到值得上手的工具。如果你也在关注AI工具、AI Agent和自动化工作流，这里每天都会有新的发现。&lt;/p&gt;&lt;p&gt;工具链接见上方，可直接点击访问。&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
+以上就是今天的全部内容，我们明天见。</description><pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-04-ep028-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-04-lobster-ep028-v1.mp3" length="4555244" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:48</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Onyx：比纯概念产品更值得写，因为开发者今天就能评估、部署或至少 fork 它，而不是只听愿景。&lt;/p&gt;&lt;p&gt;- Matrix OS：比普通 AI 助手更值得写，因为它提供的是下一代入口形态的样板，能帮助听众判断未来工具会往哪卷。&lt;/p&gt;&lt;p&gt;- ismcpdead.com：比单篇分析文章更值得写，因为它不是一次性观点，而是能持续跟踪协议生态变化的判断工具。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Onyx  &lt;/p&gt;&lt;p&gt;  https://github.com/onyx-dot-app/onyx&lt;/p&gt;&lt;p&gt;- Matrix OS  &lt;/p&gt;&lt;p&gt;  https://matrix-os.com/&lt;/p&gt;&lt;p&gt;- ismcpdead.com  &lt;/p&gt;&lt;p&gt;  https://ismcpdead.com/&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 工具竞争正在从聊天框继续上移到系统层、入口层和协议层。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
       <title>2026.04.03｜oh-my-codex、AutoLoop、OpenScreen：开发者开始给智能体加外骨骼、优化环和演示出口</title>
       <description>### 要点
 - oh-my-codex：比单独谈“哪个 agent 更强”更值得写，因为它讨论的是如何把现有 agent 从单兵工具变成可编排、可扩展的开发系统。
