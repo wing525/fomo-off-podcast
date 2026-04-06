@@ -15,37 +15,29 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026.04.06｜LiteRT-LM、ollama、qmd、llama.cpp、obsidian-skills、immich：边缘计算与本地数据处理成为主流方向</title>
-      <description>LiteRT-LM：LiteRT-LM 是一个用 C++ 写的推理框架，主要用来在边缘设备部署大型语言模型，提升性能和稳定性。
-项目链接：https://github.com/google-ai-edge/LiteRT-LM
+    <item><title>2026.04.06｜TermHub、Fabro、memweave：把智能体工作流接到终端、流程和记忆层</title><description>### 要点
+- TermHub：它比普通终端包装层更值得写，因为它处理的是“模型如何稳定接手真实终端”的关键连接层。
+- Fabro：它比“再来一个 coding agent”更值得写，因为它把你真正会卡住的审核和断点恢复做成了流程系统。
+- memweave：它比抽象的 memory 论文更值得写，因为开发者今天就能把它塞进自己的 agent 项目里替代手写记忆胶水层。
+- LLM Router：它比单个 provider SDK 更值得写，因为它讨论的是团队如何把模型选择权从应用代码里抽出来。
 
-ollama：ollama 是一个用 Shell 写的应用程序启动器，主要用来快速部署各种 AI 模型。
-项目链接：https://github.com/ollama/ollama
+### Sources
+- TermHub  
+  https://github.com/duo121/termhub
+- Fabro  
+  https://github.com/fabro-sh/fabro
+- memweave  
+  https://github.com/sachinsharma9780/memweave
+- LLM Router  
+  https://github.com/ypollak2/llm-router
 
-qmd：qmd 是一个用 JavaScript 写的本地搜索工具，主要用来快速查找存储在设备上的文本资料。
-项目链接：https://github.com/tobi/qmd
+### 一句话总结
+- 今天的主线是：智能体工作流正在往终端控制、流程治理、长期记忆和多模型路由这些真正可接入生产的层面延伸。
 
-llama.cpp：llama.cpp 是一个用 C++ 写的高性能语言模型库，主要用来在本地运行大型语言模型。
-项目链接：https://github.com/ggml-org/llama.cpp
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-obsidian-skills：obsidian-skills 是一个用 JavaScript 写的插件库，主要用来在 Obsidian 笔记软件中实现 AI 功能集成。
-项目链接：https://github.com/kepano/obsidian-skills
-
-immich：immich 是一个用 Go 写的个人照片管理应用，主要用来在本地安全地存储和备份照片及视频。
-项目链接：https://github.com/immich-app/immich
-
-今日速报共 6 个项目：LiteRT-LM、ollama、qmd、llama.cpp、obsidian-skills、immich，聚焦可直接上手的 AI 工具与开发库。</description>
-      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
-      <guid>lobster-2026-04-06-mnn9i3u4</guid>
-      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-06-lobster-06-mnn9i3u4.mp3" length="5831852" type="audio/mpeg" />
-      <itunes:author>龙虾AI工具速报</itunes:author>
-      <itunes:duration>00:05:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;LiteRT-LM&lt;/strong&gt;：LiteRT-LM 是一个用 C++ 写的推理框架，主要用来在边缘设备部署大型语言模型，提升性能和稳定性。&lt;br/&gt;项目链接：&lt;a href="https://github.com/google-ai-edge/LiteRT-LM"&gt;https://github.com/google-ai-edge/LiteRT-LM&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ollama&lt;/strong&gt;：ollama 是一个用 Shell 写的应用程序启动器，主要用来快速部署各种 AI 模型。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ollama/ollama"&gt;https://github.com/ollama/ollama&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;qmd&lt;/strong&gt;：qmd 是一个用 JavaScript 写的本地搜索工具，主要用来快速查找存储在设备上的文本资料。&lt;br/&gt;项目链接：&lt;a href="https://github.com/tobi/qmd"&gt;https://github.com/tobi/qmd&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;llama.cpp&lt;/strong&gt;：llama.cpp 是一个用 C++ 写的高性能语言模型库，主要用来在本地运行大型语言模型。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ggml-org/llama.cpp"&gt;https://github.com/ggml-org/llama.cpp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;obsidian-skills&lt;/strong&gt;：obsidian-skills 是一个用 JavaScript 写的插件库，主要用来在 Obsidian 笔记软件中实现 AI 功能集成。&lt;br/&gt;项目链接：&lt;a href="https://github.com/kepano/obsidian-skills"&gt;https://github.com/kepano/obsidian-skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;immich&lt;/strong&gt;：immich 是一个用 Go 写的个人照片管理应用，主要用来在本地安全地存储和备份照片及视频。&lt;br/&gt;项目链接：&lt;a href="https://github.com/immich-app/immich"&gt;https://github.com/immich-app/immich&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：LiteRT-LM、ollama、qmd、llama.cpp、obsidian-skills、immich，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
+以上就是今天的全部内容，我们明天见。</description><pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-06-ep029-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-06-lobster-ep029-v1.mp3" length="3276716" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:25</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- TermHub：它比普通终端包装层更值得写，因为它处理的是“模型如何稳定接手真实终端”的关键连接层。&lt;/p&gt;&lt;p&gt;- Fabro：它比“再来一个 coding agent”更值得写，因为它把你真正会卡住的审核和断点恢复做成了流程系统。&lt;/p&gt;&lt;p&gt;- memweave：它比抽象的 memory 论文更值得写，因为开发者今天就能把它塞进自己的 agent 项目里替代手写记忆胶水层。&lt;/p&gt;&lt;p&gt;- LLM Router：它比单个 provider SDK 更值得写，因为它讨论的是团队如何把模型选择权从应用代码里抽出来。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- TermHub  &lt;/p&gt;&lt;p&gt;  https://github.com/duo121/termhub&lt;/p&gt;&lt;p&gt;- Fabro  &lt;/p&gt;&lt;p&gt;  https://github.com/fabro-sh/fabro&lt;/p&gt;&lt;p&gt;- memweave  &lt;/p&gt;&lt;p&gt;  https://github.com/sachinsharma9780/memweave&lt;/p&gt;&lt;p&gt;- LLM Router  &lt;/p&gt;&lt;p&gt;  https://github.com/ypollak2/llm-router&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在往终端控制、流程治理、长期记忆和多模型路由这些真正可接入生产的层面延伸。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
       <title>2026.04.05｜mlx-vlm、agent-framework、goose：AI工具趋向于多语言多平台的开发与应用扩展</title>
       <description>mlx-vlm：mlx-vlm 是一个用 Python 写的机器学习库，主要用来在 Mac 上对视觉语言模型（VLM）和全能模型进行推理和微调。
 项目链接：https://github.com/Blaizzy/mlx-vlm
