@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.06｜LiteRT-LM、ollama、qmd、llama.cpp、obsidian-skills、immich：边缘计算与本地数据处理成为主流方向</title>
+      <description>LiteRT-LM：LiteRT-LM 是一个用 C++ 写的推理框架，主要用来在边缘设备部署大型语言模型，提升性能和稳定性。
+项目链接：https://github.com/google-ai-edge/LiteRT-LM
+
+ollama：ollama 是一个用 Shell 写的应用程序启动器，主要用来快速部署各种 AI 模型。
+项目链接：https://github.com/ollama/ollama
+
+qmd：qmd 是一个用 JavaScript 写的本地搜索工具，主要用来快速查找存储在设备上的文本资料。
+项目链接：https://github.com/tobi/qmd
+
+llama.cpp：llama.cpp 是一个用 C++ 写的高性能语言模型库，主要用来在本地运行大型语言模型。
+项目链接：https://github.com/ggml-org/llama.cpp
+
+obsidian-skills：obsidian-skills 是一个用 JavaScript 写的插件库，主要用来在 Obsidian 笔记软件中实现 AI 功能集成。
+项目链接：https://github.com/kepano/obsidian-skills
+
+immich：immich 是一个用 Go 写的个人照片管理应用，主要用来在本地安全地存储和备份照片及视频。
+项目链接：https://github.com/immich-app/immich
+
+今日速报共 6 个项目：LiteRT-LM、ollama、qmd、llama.cpp、obsidian-skills、immich，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-06-mnn9i3u4</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-06-lobster-06-mnn9i3u4.mp3" length="5831852" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;LiteRT-LM&lt;/strong&gt;：LiteRT-LM 是一个用 C++ 写的推理框架，主要用来在边缘设备部署大型语言模型，提升性能和稳定性。&lt;br/&gt;项目链接：&lt;a href="https://github.com/google-ai-edge/LiteRT-LM"&gt;https://github.com/google-ai-edge/LiteRT-LM&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ollama&lt;/strong&gt;：ollama 是一个用 Shell 写的应用程序启动器，主要用来快速部署各种 AI 模型。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ollama/ollama"&gt;https://github.com/ollama/ollama&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;qmd&lt;/strong&gt;：qmd 是一个用 JavaScript 写的本地搜索工具，主要用来快速查找存储在设备上的文本资料。&lt;br/&gt;项目链接：&lt;a href="https://github.com/tobi/qmd"&gt;https://github.com/tobi/qmd&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;llama.cpp&lt;/strong&gt;：llama.cpp 是一个用 C++ 写的高性能语言模型库，主要用来在本地运行大型语言模型。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ggml-org/llama.cpp"&gt;https://github.com/ggml-org/llama.cpp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;obsidian-skills&lt;/strong&gt;：obsidian-skills 是一个用 JavaScript 写的插件库，主要用来在 Obsidian 笔记软件中实现 AI 功能集成。&lt;br/&gt;项目链接：&lt;a href="https://github.com/kepano/obsidian-skills"&gt;https://github.com/kepano/obsidian-skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;immich&lt;/strong&gt;：immich 是一个用 Go 写的个人照片管理应用，主要用来在本地安全地存储和备份照片及视频。&lt;br/&gt;项目链接：&lt;a href="https://github.com/immich-app/immich"&gt;https://github.com/immich-app/immich&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：LiteRT-LM、ollama、qmd、llama.cpp、obsidian-skills、immich，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.05｜mlx-vlm、agent-framework、goose：AI工具趋向于多语言多平台的开发与应用扩展</title>
       <description>mlx-vlm：mlx-vlm 是一个用 Python 写的机器学习库，主要用来在 Mac 上对视觉语言模型（VLM）和全能模型进行推理和微调。
 项目链接：https://github.com/Blaizzy/mlx-vlm
