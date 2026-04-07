@@ -15,7 +15,29 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.04.06｜TermHub、Fabro、memweave：把智能体工作流接到终端、流程和记忆层</title><description>### 要点
+    <item><title>2026.04.07｜Repowise、Hippo、ACP：把代码理解、记忆和治理接进智能体工作流</title><description>### 要点
+- Repowise：它比单纯的代码搜索工具更值得写，因为它回答的是“智能体如何理解整个仓库，而不是一堆文件”。
+- Hippo Memory：它比常见 memory glue 更值得写，因为它把“记什么、忘什么、如何跨工具迁移”都产品化了。
+- Agentic Control Plane：它比“再加一个 agent 能力”更值得写，因为团队真正缺的往往是看得见、控得住、能审计。
+- luigis-meter：它比普通状态栏插件更值得写，因为它解决的是智能体工作流里最容易被忽视的资源预算感知。
+
+### Sources
+- Repowise  
+  https://github.com/repowise-dev/repowise
+- Hippo Memory  
+  https://github.com/kitfunso/hippo-memory
+- Agentic Control Plane  
+  https://agenticcontrolplane.com/
+- luigis-meter  
+  https://github.com/Luigigreco/luigis-meter
+
+### 一句话总结
+- 今天的主线是：智能体工作流正在把代码理解、长期记忆、治理审计和资源感知这些后勤层能力补齐。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-07-ep030-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-07-lobster-ep030-v1.mp3" length="3231020" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:22</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Repowise：它比单纯的代码搜索工具更值得写，因为它回答的是“智能体如何理解整个仓库，而不是一堆文件”。&lt;/p&gt;&lt;p&gt;- Hippo Memory：它比常见 memory glue 更值得写，因为它把“记什么、忘什么、如何跨工具迁移”都产品化了。&lt;/p&gt;&lt;p&gt;- Agentic Control Plane：它比“再加一个 agent 能力”更值得写，因为团队真正缺的往往是看得见、控得住、能审计。&lt;/p&gt;&lt;p&gt;- luigis-meter：它比普通状态栏插件更值得写，因为它解决的是智能体工作流里最容易被忽视的资源预算感知。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Repowise  &lt;/p&gt;&lt;p&gt;  https://github.com/repowise-dev/repowise&lt;/p&gt;&lt;p&gt;- Hippo Memory  &lt;/p&gt;&lt;p&gt;  https://github.com/kitfunso/hippo-memory&lt;/p&gt;&lt;p&gt;- Agentic Control Plane  &lt;/p&gt;&lt;p&gt;  https://agenticcontrolplane.com/&lt;/p&gt;&lt;p&gt;- luigis-meter  &lt;/p&gt;&lt;p&gt;  https://github.com/Luigigreco/luigis-meter&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在把代码理解、长期记忆、治理审计和资源感知这些后勤层能力补齐。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.06｜TermHub、Fabro、memweave：把智能体工作流接到终端、流程和记忆层</title><description>### 要点
 - TermHub：它比普通终端包装层更值得写，因为它处理的是“模型如何稳定接手真实终端”的关键连接层。
 - Fabro：它比“再来一个 coding agent”更值得写，因为它把你真正会卡住的审核和断点恢复做成了流程系统。
 - memweave：它比抽象的 memory 论文更值得写，因为开发者今天就能把它塞进自己的 agent 项目里替代手写记忆胶水层。
