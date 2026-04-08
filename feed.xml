@@ -15,7 +15,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.04.07｜Repowise、Hippo、ACP：把代码理解、记忆和治理接进智能体工作流</title><description>### 要点
+    <item><title>2026.04.08｜Clify、Pitlane、Reflect：把接工具、记上下文和上线智能体串成一条链</title><description>### 要点
+- Claude Memory Compiler：它比泛泛而谈的 AI memory 更值得写，因为它直接回答了“长期经验如何变成可检索的项目知识资产”。
+- Clify：它比普通 SDK 生成器更值得写，因为它面向的是“让智能体可调用”，不是单纯给人类开发者写脚手架。
+- Pitlane：它比单个功能插件更值得写，因为它代表的是“agent 平台化”而不是只补某个小缺口。
+- Reflect Memory：它比单模型 memory 更值得写，因为核心价值是“工具之间共享上下文”，而不是再做一个封闭记忆盒子。
+- mh-gdpr-ai.eu：它比抽象合规讨论更值得写，因为它给的是开发者可以立刻接进调用链的执行方案。
+
+### Sources
+- Claude Memory Compiler  
+  https://github.com/coleam00/claude-memory-compiler
+- Clify  
+  https://github.com/derrickko/clify
+- Pitlane  
+  https://www.getpitlane.com
+- Reflect Memory  
+  https://www.reflectmemory.com/
+- mh-gdpr-ai.eu  
+  https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu
+
+### 一句话总结
+- 今天的主线是：智能体工作流正在把工具接入、长期记忆、生产部署和合规路由这些关键层串成一条完整链路。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-08-ep031-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-08-lobster-ep031-v1.mp3" length="1889708" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:56</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Memory Compiler：它比泛泛而谈的 AI memory 更值得写，因为它直接回答了“长期经验如何变成可检索的项目知识资产”。&lt;/p&gt;&lt;p&gt;- Clify：它比普通 SDK 生成器更值得写，因为它面向的是“让智能体可调用”，不是单纯给人类开发者写脚手架。&lt;/p&gt;&lt;p&gt;- Pitlane：它比单个功能插件更值得写，因为它代表的是“agent 平台化”而不是只补某个小缺口。&lt;/p&gt;&lt;p&gt;- Reflect Memory：它比单模型 memory 更值得写，因为核心价值是“工具之间共享上下文”，而不是再做一个封闭记忆盒子。&lt;/p&gt;&lt;p&gt;- mh-gdpr-ai.eu：它比抽象合规讨论更值得写，因为它给的是开发者可以立刻接进调用链的执行方案。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Memory Compiler  &lt;/p&gt;&lt;p&gt;  https://github.com/coleam00/claude-memory-compiler&lt;/p&gt;&lt;p&gt;- Clify  &lt;/p&gt;&lt;p&gt;  https://github.com/derrickko/clify&lt;/p&gt;&lt;p&gt;- Pitlane  &lt;/p&gt;&lt;p&gt;  https://www.getpitlane.com&lt;/p&gt;&lt;p&gt;- Reflect Memory  &lt;/p&gt;&lt;p&gt;  https://www.reflectmemory.com/&lt;/p&gt;&lt;p&gt;- mh-gdpr-ai.eu  &lt;/p&gt;&lt;p&gt;  https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在把工具接入、长期记忆、生产部署和合规路由这些关键层串成一条完整链路。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.07｜Repowise、Hippo、ACP：把代码理解、记忆和治理接进智能体工作流</title><description>### 要点
 - Repowise：它比单纯的代码搜索工具更值得写，因为它回答的是“智能体如何理解整个仓库，而不是一堆文件”。
 - Hippo Memory：它比常见 memory glue 更值得写，因为它把“记什么、忘什么、如何跨工具迁移”都产品化了。
 - Agentic Control Plane：它比“再加一个 agent 能力”更值得写，因为团队真正缺的往往是看得见、控得住、能审计。
