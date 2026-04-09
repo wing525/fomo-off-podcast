@@ -15,7 +15,32 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.04.08｜Clify、Pitlane、Reflect：把接工具、记上下文和上线智能体串成一条链</title><description>### 要点
+    <item><title>2026.04.09｜Claude Usage、Safari MCP、Artificial：把监控、浏览器和多智能体编排接进开发者工作流</title><description>### 要点
+- Claude Code Usage Dashboard：它比一般“再做一个 agent”更值得写，因为它补的是 builder 真正天天要看的运营视角，而不是再造一个抽象故事。
+- Safari MCP：它比常规浏览器自动化库更值得写，因为它回答的是“如何把真实浏览器环境稳定交给智能体用”。
+- Artificial：它比单智能体工具更值得写，因为它让“把多个智能体当团队来运营”变成了能上手的结构，而不是 PPT 概念。
+- Claude on a Leash：它比泛泛的 AI 安全讨论更值得写，因为它给的是一套可以直接装进项目的执行前门禁。
+- llm-context-base：它比单一笔记模板更值得写，因为它提供的是一整套让 AI 助手长期记事、整理和自检的工作底座。
+
+### Sources
+- Claude Code Usage Dashboard  
+  https://github.com/phuryn/claude-usage
+- Safari MCP  
+  https://github.com/achiya-automation/safari-mcp
+- Artificial  
+  https://github.com/AndreBaltazar8/artificial
+- Claude on a Leash  
+  https://github.com/adityaarakeri/claude-on-a-leash
+- llm-context-base  
+  https://github.com/asakin/llm-context-base
+
+### 一句话总结
+- 今天的主线是：开发者工作流正在把运营监控、浏览器执行、多智能体编排、安全门禁和长期上下文一起接入智能体体系。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-09-ep032-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-09-lobster-ep032-v1.mp3" length="3664556" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:49</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Code Usage Dashboard：它比一般“再做一个 agent”更值得写，因为它补的是 builder 真正天天要看的运营视角，而不是再造一个抽象故事。&lt;/p&gt;&lt;p&gt;- Safari MCP：它比常规浏览器自动化库更值得写，因为它回答的是“如何把真实浏览器环境稳定交给智能体用”。&lt;/p&gt;&lt;p&gt;- Artificial：它比单智能体工具更值得写，因为它让“把多个智能体当团队来运营”变成了能上手的结构，而不是 PPT 概念。&lt;/p&gt;&lt;p&gt;- Claude on a Leash：它比泛泛的 AI 安全讨论更值得写，因为它给的是一套可以直接装进项目的执行前门禁。&lt;/p&gt;&lt;p&gt;- llm-context-base：它比单一笔记模板更值得写，因为它提供的是一整套让 AI 助手长期记事、整理和自检的工作底座。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Code Usage Dashboard  &lt;/p&gt;&lt;p&gt;  https://github.com/phuryn/claude-usage&lt;/p&gt;&lt;p&gt;- Safari MCP  &lt;/p&gt;&lt;p&gt;  https://github.com/achiya-automation/safari-mcp&lt;/p&gt;&lt;p&gt;- Artificial  &lt;/p&gt;&lt;p&gt;  https://github.com/AndreBaltazar8/artificial&lt;/p&gt;&lt;p&gt;- Claude on a Leash  &lt;/p&gt;&lt;p&gt;  https://github.com/adityaarakeri/claude-on-a-leash&lt;/p&gt;&lt;p&gt;- llm-context-base  &lt;/p&gt;&lt;p&gt;  https://github.com/asakin/llm-context-base&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者工作流正在把运营监控、浏览器执行、多智能体编排、安全门禁和长期上下文一起接入智能体体系。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.08｜Clify、Pitlane、Reflect：把接工具、记上下文和上线智能体串成一条链</title><description>### 要点
 - Claude Memory Compiler：它比泛泛而谈的 AI memory 更值得写，因为它直接回答了“长期经验如何变成可检索的项目知识资产”。
 - Clify：它比普通 SDK 生成器更值得写，因为它面向的是“让智能体可调用”，不是单纯给人类开发者写脚手架。
 - Pitlane：它比单个功能插件更值得写，因为它代表的是“agent 平台化”而不是只补某个小缺口。
