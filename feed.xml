@@ -15,7 +15,39 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item><title>2026.04.09｜Claude Usage、Safari MCP、Artificial：把监控、浏览器和多智能体编排接进开发者工作流</title><description>### 要点
+    <item>
+      <title>2026.04.13｜ralph、multica、Kronos、get-shit-done、Archon、voicebox：AI工具加速自动化编程和任务管理流程优化</title>
+      <description>ralph：ralph 是一个用于自动运行 AI 编码工具（如Amp或Claude Code）的工作流循环，主要用来将产品需求描述中的所有任务自动生成并完成。
+项目链接：https://github.com/snarktank/ralph
+
+multica：multica 是一个用于管理和分配任务给 AI 编程代理的平台，主要用来将编程代理变为真正的团队成员。
+项目链接：https://github.com/multica-ai/multica
+
+Kronos：Kronos 是一个专注于金融市场语言的大型模型基础框架，主要用来理解和生成与金融相关的文本内容。
+项目链接：https://github.com/shiyu-coder/Kronos
+
+get-shit-done：get-shit-done 是一个轻量级且强大的元提示系统，主要用来解决 Claude Code 和其他 AI 编程工具在填充上下文时的质量退化问题。
+项目链接：https://github.com/gsd-build/get-shit-done
+
+Archon：Archon 是一个用于构建 AI 编码任务的自动化框架，主要用来使 AI 编程过程更加确定性且可重复化。
+项目链接：https://github.com/coleam00/Archon
+
+voicebox：voicebox 是一个用于本地生成语音合成的应用程序，主要用来创建个性化的声音效果并将其应用到各种场景中。
+项目链接：https://github.com/jamiepine/voicebox
+
+今日速报共 6 个项目：ralph、multica、Kronos、get-shit-done、Archon、voicebox，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-13-mnx9mm2z</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-13-lobster-13-mnx9mm2z.mp3" length="5817644" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ralph&lt;/strong&gt;：ralph 是一个用于自动运行 AI 编码工具（如Amp或Claude Code）的工作流循环，主要用来将产品需求描述中的所有任务自动生成并完成。&lt;br/&gt;项目链接：&lt;a href="https://github.com/snarktank/ralph"&gt;https://github.com/snarktank/ralph&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;multica&lt;/strong&gt;：multica 是一个用于管理和分配任务给 AI 编程代理的平台，主要用来将编程代理变为真正的团队成员。&lt;br/&gt;项目链接：&lt;a href="https://github.com/multica-ai/multica"&gt;https://github.com/multica-ai/multica&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kronos&lt;/strong&gt;：Kronos 是一个专注于金融市场语言的大型模型基础框架，主要用来理解和生成与金融相关的文本内容。&lt;br/&gt;项目链接：&lt;a href="https://github.com/shiyu-coder/Kronos"&gt;https://github.com/shiyu-coder/Kronos&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;get-shit-done&lt;/strong&gt;：get-shit-done 是一个轻量级且强大的元提示系统，主要用来解决 Claude Code 和其他 AI 编程工具在填充上下文时的质量退化问题。&lt;br/&gt;项目链接：&lt;a href="https://github.com/gsd-build/get-shit-done"&gt;https://github.com/gsd-build/get-shit-done&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Archon&lt;/strong&gt;：Archon 是一个用于构建 AI 编码任务的自动化框架，主要用来使 AI 编程过程更加确定性且可重复化。&lt;br/&gt;项目链接：&lt;a href="https://github.com/coleam00/Archon"&gt;https://github.com/coleam00/Archon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;voicebox&lt;/strong&gt;：voicebox 是一个用于本地生成语音合成的应用程序，主要用来创建个性化的声音效果并将其应用到各种场景中。&lt;br/&gt;项目链接：&lt;a href="https://github.com/jamiepine/voicebox"&gt;https://github.com/jamiepine/voicebox&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：ralph、multica、Kronos、get-shit-done、Archon、voicebox，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.09｜Claude Usage、Safari MCP、Artificial：把监控、浏览器和多智能体编排接进开发者工作流</title>
+      <description>### 要点
 - Claude Code Usage Dashboard：它比一般“再做一个 agent”更值得写，因为它补的是 builder 真正天天要看的运营视角，而不是再造一个抽象故事。
 - Safari MCP：它比常规浏览器自动化库更值得写，因为它回答的是“如何把真实浏览器环境稳定交给智能体用”。
 - Artificial：它比单智能体工具更值得写，因为它让“把多个智能体当团队来运营”变成了能上手的结构，而不是 PPT 概念。
@@ -40,7 +72,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-09-ep032-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-09-lobster-ep032-v1.mp3" length="3664556" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:49</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Code Usage Dashboard：它比一般“再做一个 agent”更值得写，因为它补的是 builder 真正天天要看的运营视角，而不是再造一个抽象故事。&lt;/p&gt;&lt;p&gt;- Safari MCP：它比常规浏览器自动化库更值得写，因为它回答的是“如何把真实浏览器环境稳定交给智能体用”。&lt;/p&gt;&lt;p&gt;- Artificial：它比单智能体工具更值得写，因为它让“把多个智能体当团队来运营”变成了能上手的结构，而不是 PPT 概念。&lt;/p&gt;&lt;p&gt;- Claude on a Leash：它比泛泛的 AI 安全讨论更值得写，因为它给的是一套可以直接装进项目的执行前门禁。&lt;/p&gt;&lt;p&gt;- llm-context-base：它比单一笔记模板更值得写，因为它提供的是一整套让 AI 助手长期记事、整理和自检的工作底座。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Code Usage Dashboard  &lt;/p&gt;&lt;p&gt;  https://github.com/phuryn/claude-usage&lt;/p&gt;&lt;p&gt;- Safari MCP  &lt;/p&gt;&lt;p&gt;  https://github.com/achiya-automation/safari-mcp&lt;/p&gt;&lt;p&gt;- Artificial  &lt;/p&gt;&lt;p&gt;  https://github.com/AndreBaltazar8/artificial&lt;/p&gt;&lt;p&gt;- Claude on a Leash  &lt;/p&gt;&lt;p&gt;  https://github.com/adityaarakeri/claude-on-a-leash&lt;/p&gt;&lt;p&gt;- llm-context-base  &lt;/p&gt;&lt;p&gt;  https://github.com/asakin/llm-context-base&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者工作流正在把运营监控、浏览器执行、多智能体编排、安全门禁和长期上下文一起接入智能体体系。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.08｜Clify、Pitlane、Reflect：把接工具、记上下文和上线智能体串成一条链</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-09-ep032-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-09-lobster-ep032-v1.mp3" length="3664556" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Code Usage Dashboard：它比一般“再做一个 agent”更值得写，因为它补的是 builder 真正天天要看的运营视角，而不是再造一个抽象故事。&lt;/p&gt;&lt;p&gt;- Safari MCP：它比常规浏览器自动化库更值得写，因为它回答的是“如何把真实浏览器环境稳定交给智能体用”。&lt;/p&gt;&lt;p&gt;- Artificial：它比单智能体工具更值得写，因为它让“把多个智能体当团队来运营”变成了能上手的结构，而不是 PPT 概念。&lt;/p&gt;&lt;p&gt;- Claude on a Leash：它比泛泛的 AI 安全讨论更值得写，因为它给的是一套可以直接装进项目的执行前门禁。&lt;/p&gt;&lt;p&gt;- llm-context-base：它比单一笔记模板更值得写，因为它提供的是一整套让 AI 助手长期记事、整理和自检的工作底座。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Code Usage Dashboard  &lt;/p&gt;&lt;p&gt;  https://github.com/phuryn/claude-usage&lt;/p&gt;&lt;p&gt;- Safari MCP  &lt;/p&gt;&lt;p&gt;  https://github.com/achiya-automation/safari-mcp&lt;/p&gt;&lt;p&gt;- Artificial  &lt;/p&gt;&lt;p&gt;  https://github.com/AndreBaltazar8/artificial&lt;/p&gt;&lt;p&gt;- Claude on a Leash  &lt;/p&gt;&lt;p&gt;  https://github.com/adityaarakeri/claude-on-a-leash&lt;/p&gt;&lt;p&gt;- llm-context-base  &lt;/p&gt;&lt;p&gt;  https://github.com/asakin/llm-context-base&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：开发者工作流正在把运营监控、浏览器执行、多智能体编排、安全门禁和长期上下文一起接入智能体体系。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.08｜Clify、Pitlane、Reflect：把接工具、记上下文和上线智能体串成一条链</title>
+      <description>### 要点
 - Claude Memory Compiler：它比泛泛而谈的 AI memory 更值得写，因为它直接回答了“长期经验如何变成可检索的项目知识资产”。
 - Clify：它比普通 SDK 生成器更值得写，因为它面向的是“让智能体可调用”，不是单纯给人类开发者写脚手架。
 - Pitlane：它比单个功能插件更值得写，因为它代表的是“agent 平台化”而不是只补某个小缺口。
@@ -65,7 +109,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-08-ep031-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-08-lobster-ep031-v1.mp3" length="1889708" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:56</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Memory Compiler：它比泛泛而谈的 AI memory 更值得写，因为它直接回答了“长期经验如何变成可检索的项目知识资产”。&lt;/p&gt;&lt;p&gt;- Clify：它比普通 SDK 生成器更值得写，因为它面向的是“让智能体可调用”，不是单纯给人类开发者写脚手架。&lt;/p&gt;&lt;p&gt;- Pitlane：它比单个功能插件更值得写，因为它代表的是“agent 平台化”而不是只补某个小缺口。&lt;/p&gt;&lt;p&gt;- Reflect Memory：它比单模型 memory 更值得写，因为核心价值是“工具之间共享上下文”，而不是再做一个封闭记忆盒子。&lt;/p&gt;&lt;p&gt;- mh-gdpr-ai.eu：它比抽象合规讨论更值得写，因为它给的是开发者可以立刻接进调用链的执行方案。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Memory Compiler  &lt;/p&gt;&lt;p&gt;  https://github.com/coleam00/claude-memory-compiler&lt;/p&gt;&lt;p&gt;- Clify  &lt;/p&gt;&lt;p&gt;  https://github.com/derrickko/clify&lt;/p&gt;&lt;p&gt;- Pitlane  &lt;/p&gt;&lt;p&gt;  https://www.getpitlane.com&lt;/p&gt;&lt;p&gt;- Reflect Memory  &lt;/p&gt;&lt;p&gt;  https://www.reflectmemory.com/&lt;/p&gt;&lt;p&gt;- mh-gdpr-ai.eu  &lt;/p&gt;&lt;p&gt;  https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在把工具接入、长期记忆、生产部署和合规路由这些关键层串成一条完整链路。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.07｜Repowise、Hippo、ACP：把代码理解、记忆和治理接进智能体工作流</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-08-ep031-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-08-lobster-ep031-v1.mp3" length="1889708" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Memory Compiler：它比泛泛而谈的 AI memory 更值得写，因为它直接回答了“长期经验如何变成可检索的项目知识资产”。&lt;/p&gt;&lt;p&gt;- Clify：它比普通 SDK 生成器更值得写，因为它面向的是“让智能体可调用”，不是单纯给人类开发者写脚手架。&lt;/p&gt;&lt;p&gt;- Pitlane：它比单个功能插件更值得写，因为它代表的是“agent 平台化”而不是只补某个小缺口。&lt;/p&gt;&lt;p&gt;- Reflect Memory：它比单模型 memory 更值得写，因为核心价值是“工具之间共享上下文”，而不是再做一个封闭记忆盒子。&lt;/p&gt;&lt;p&gt;- mh-gdpr-ai.eu：它比抽象合规讨论更值得写，因为它给的是开发者可以立刻接进调用链的执行方案。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Memory Compiler  &lt;/p&gt;&lt;p&gt;  https://github.com/coleam00/claude-memory-compiler&lt;/p&gt;&lt;p&gt;- Clify  &lt;/p&gt;&lt;p&gt;  https://github.com/derrickko/clify&lt;/p&gt;&lt;p&gt;- Pitlane  &lt;/p&gt;&lt;p&gt;  https://www.getpitlane.com&lt;/p&gt;&lt;p&gt;- Reflect Memory  &lt;/p&gt;&lt;p&gt;  https://www.reflectmemory.com/&lt;/p&gt;&lt;p&gt;- mh-gdpr-ai.eu  &lt;/p&gt;&lt;p&gt;  https://github.com/mahadillahm4di-cyber/mh-gdpr-ai.eu&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在把工具接入、长期记忆、生产部署和合规路由这些关键层串成一条完整链路。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.07｜Repowise、Hippo、ACP：把代码理解、记忆和治理接进智能体工作流</title>
+      <description>### 要点
 - Repowise：它比单纯的代码搜索工具更值得写，因为它回答的是“智能体如何理解整个仓库，而不是一堆文件”。
 - Hippo Memory：它比常见 memory glue 更值得写，因为它把“记什么、忘什么、如何跨工具迁移”都产品化了。
 - Agentic Control Plane：它比“再加一个 agent 能力”更值得写，因为团队真正缺的往往是看得见、控得住、能审计。
@@ -87,7 +143,19 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-07-ep030-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-07-lobster-ep030-v1.mp3" length="3231020" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:22</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Repowise：它比单纯的代码搜索工具更值得写，因为它回答的是“智能体如何理解整个仓库，而不是一堆文件”。&lt;/p&gt;&lt;p&gt;- Hippo Memory：它比常见 memory glue 更值得写，因为它把“记什么、忘什么、如何跨工具迁移”都产品化了。&lt;/p&gt;&lt;p&gt;- Agentic Control Plane：它比“再加一个 agent 能力”更值得写，因为团队真正缺的往往是看得见、控得住、能审计。&lt;/p&gt;&lt;p&gt;- luigis-meter：它比普通状态栏插件更值得写，因为它解决的是智能体工作流里最容易被忽视的资源预算感知。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Repowise  &lt;/p&gt;&lt;p&gt;  https://github.com/repowise-dev/repowise&lt;/p&gt;&lt;p&gt;- Hippo Memory  &lt;/p&gt;&lt;p&gt;  https://github.com/kitfunso/hippo-memory&lt;/p&gt;&lt;p&gt;- Agentic Control Plane  &lt;/p&gt;&lt;p&gt;  https://agenticcontrolplane.com/&lt;/p&gt;&lt;p&gt;- luigis-meter  &lt;/p&gt;&lt;p&gt;  https://github.com/Luigigreco/luigis-meter&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在把代码理解、长期记忆、治理审计和资源感知这些后勤层能力补齐。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item><title>2026.04.06｜TermHub、Fabro、memweave：把智能体工作流接到终端、流程和记忆层</title><description>### 要点
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-07-ep030-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-07-lobster-ep030-v1.mp3" length="3231020" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Repowise：它比单纯的代码搜索工具更值得写，因为它回答的是“智能体如何理解整个仓库，而不是一堆文件”。&lt;/p&gt;&lt;p&gt;- Hippo Memory：它比常见 memory glue 更值得写，因为它把“记什么、忘什么、如何跨工具迁移”都产品化了。&lt;/p&gt;&lt;p&gt;- Agentic Control Plane：它比“再加一个 agent 能力”更值得写，因为团队真正缺的往往是看得见、控得住、能审计。&lt;/p&gt;&lt;p&gt;- luigis-meter：它比普通状态栏插件更值得写，因为它解决的是智能体工作流里最容易被忽视的资源预算感知。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Repowise  &lt;/p&gt;&lt;p&gt;  https://github.com/repowise-dev/repowise&lt;/p&gt;&lt;p&gt;- Hippo Memory  &lt;/p&gt;&lt;p&gt;  https://github.com/kitfunso/hippo-memory&lt;/p&gt;&lt;p&gt;- Agentic Control Plane  &lt;/p&gt;&lt;p&gt;  https://agenticcontrolplane.com/&lt;/p&gt;&lt;p&gt;- luigis-meter  &lt;/p&gt;&lt;p&gt;  https://github.com/Luigigreco/luigis-meter&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在把代码理解、长期记忆、治理审计和资源感知这些后勤层能力补齐。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.04.06｜TermHub、Fabro、memweave：把智能体工作流接到终端、流程和记忆层</title>
+      <description>### 要点
 - TermHub：它比普通终端包装层更值得写，因为它处理的是“模型如何稳定接手真实终端”的关键连接层。
 - Fabro：它比“再来一个 coding agent”更值得写，因为它把你真正会卡住的审核和断点恢复做成了流程系统。
 - memweave：它比抽象的 memory 论文更值得写，因为开发者今天就能把它塞进自己的 agent 项目里替代手写记忆胶水层。
@@ -109,7 +177,17 @@
 ### 节目简介
 《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
 
-以上就是今天的全部内容，我们明天见。</description><pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-06-ep029-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-06-lobster-ep029-v1.mp3" length="3276716" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:25</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- TermHub：它比普通终端包装层更值得写，因为它处理的是“模型如何稳定接手真实终端”的关键连接层。&lt;/p&gt;&lt;p&gt;- Fabro：它比“再来一个 coding agent”更值得写，因为它把你真正会卡住的审核和断点恢复做成了流程系统。&lt;/p&gt;&lt;p&gt;- memweave：它比抽象的 memory 论文更值得写，因为开发者今天就能把它塞进自己的 agent 项目里替代手写记忆胶水层。&lt;/p&gt;&lt;p&gt;- LLM Router：它比单个 provider SDK 更值得写，因为它讨论的是团队如何把模型选择权从应用代码里抽出来。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- TermHub  &lt;/p&gt;&lt;p&gt;  https://github.com/duo121/termhub&lt;/p&gt;&lt;p&gt;- Fabro  &lt;/p&gt;&lt;p&gt;  https://github.com/fabro-sh/fabro&lt;/p&gt;&lt;p&gt;- memweave  &lt;/p&gt;&lt;p&gt;  https://github.com/sachinsharma9780/memweave&lt;/p&gt;&lt;p&gt;- LLM Router  &lt;/p&gt;&lt;p&gt;  https://github.com/ypollak2/llm-router&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在往终端控制、流程治理、长期记忆和多模型路由这些真正可接入生产的层面延伸。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
+以上就是今天的全部内容，我们明天见。</description>
+      <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">lobster-2026-04-06-ep029-v1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-06-lobster-ep029-v1.mp3" length="3276716" type="audio/mpeg" />
+      <itunes:author>wing</itunes:author>
+      <itunes:duration>00:03:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- TermHub：它比普通终端包装层更值得写，因为它处理的是“模型如何稳定接手真实终端”的关键连接层。&lt;/p&gt;&lt;p&gt;- Fabro：它比“再来一个 coding agent”更值得写，因为它把你真正会卡住的审核和断点恢复做成了流程系统。&lt;/p&gt;&lt;p&gt;- memweave：它比抽象的 memory 论文更值得写，因为开发者今天就能把它塞进自己的 agent 项目里替代手写记忆胶水层。&lt;/p&gt;&lt;p&gt;- LLM Router：它比单个 provider SDK 更值得写，因为它讨论的是团队如何把模型选择权从应用代码里抽出来。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- TermHub  &lt;/p&gt;&lt;p&gt;  https://github.com/duo121/termhub&lt;/p&gt;&lt;p&gt;- Fabro  &lt;/p&gt;&lt;p&gt;  https://github.com/fabro-sh/fabro&lt;/p&gt;&lt;p&gt;- memweave  &lt;/p&gt;&lt;p&gt;  https://github.com/sachinsharma9780/memweave&lt;/p&gt;&lt;p&gt;- LLM Router  &lt;/p&gt;&lt;p&gt;  https://github.com/ypollak2/llm-router&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：智能体工作流正在往终端控制、流程治理、长期记忆和多模型路由这些真正可接入生产的层面延伸。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.05｜mlx-vlm、agent-framework、goose：AI工具趋向于多语言多平台的开发与应用扩展</title>
       <description>mlx-vlm：mlx-vlm 是一个用 Python 写的机器学习库，主要用来在 Mac 上对视觉语言模型（VLM）和全能模型进行推理和微调。
 项目链接：https://github.com/Blaizzy/mlx-vlm
