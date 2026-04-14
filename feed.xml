@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.14｜superpowers、editor、markitdown：AI工具助力开发流程自动化与内容创作便捷化</title>
+      <description>superpowers：superpowers 是一个用 Shell 写的 AI 编程工作流模板库，主要用来把从需求到交付的整套流程固化成可复用的模板。
+项目链接：https://github.com/obra/superpowers
+
+editor：editor 是一个用 JavaScript 写的三维建筑编辑器，主要用来帮助开发者创建和编辑复杂的3D场景。
+项目链接：https://github.com/pascalorg/editor
+
+markitdown：markitdown 是一个用 Python 写的 Markdown 渲染器与插件系统，主要用来帮助用户更加灵活地处理 Markdown 格式的文档内容。
+项目链接：https://github.com/microsoft/markitdown
+
+今日速报共 3 个项目：superpowers、editor、markitdown，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-14-mnyq5ple</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-14-lobster-14-mnyq5ple.mp3" length="3397292" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;superpowers&lt;/strong&gt;：superpowers 是一个用 Shell 写的 AI 编程工作流模板库，主要用来把从需求到交付的整套流程固化成可复用的模板。&lt;br/&gt;项目链接：&lt;a href="https://github.com/obra/superpowers"&gt;https://github.com/obra/superpowers&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;editor&lt;/strong&gt;：editor 是一个用 JavaScript 写的三维建筑编辑器，主要用来帮助开发者创建和编辑复杂的3D场景。&lt;br/&gt;项目链接：&lt;a href="https://github.com/pascalorg/editor"&gt;https://github.com/pascalorg/editor&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;markitdown&lt;/strong&gt;：markitdown 是一个用 Python 写的 Markdown 渲染器与插件系统，主要用来帮助用户更加灵活地处理 Markdown 格式的文档内容。&lt;br/&gt;项目链接：&lt;a href="https://github.com/microsoft/markitdown"&gt;https://github.com/microsoft/markitdown&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：superpowers、editor、markitdown，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.13｜ralph、multica、Kronos、get-shit-done、Archon、voicebox：AI工具加速自动化编程和任务管理流程优化</title>
       <description>ralph：ralph 是一个用于自动运行 AI 编码工具（如Amp或Claude Code）的工作流循环，主要用来将产品需求描述中的所有任务自动生成并完成。
 项目链接：https://github.com/snarktank/ralph
