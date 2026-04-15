@@ -15,7 +15,29 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <item><title>2026.04.15｜Claude Code Routines、MarkItDown、Chrome Skills：AI工作流开始长出可复用层</title><description>### 要点
+- Claude Code Routines：它比其他候选更值得做本期主 headline，因为它把 AI coding 从“会话能力”推进到“可运营工作流”，最能代表开发者工具的方向变化。
+- MarkItDown：它比垂直行业项目更通用，几乎所有做知识处理、资料 ingestion、企业内网助手的开发者都能马上拿去用。
+- Chrome Skills：它能补足本期视角，不只讲底层基础设施，也讲“工作流如何走向大众产品界面”，让本期更完整。
+- LangAlpha：它比单一功能仓库更有方法论价值，适合拿来讲“垂直智能体如何从工具走向产品”的路线。
+
+### Sources
+- Claude Code Routines  
+  https://code.claude.com/docs/en/routines
+- MarkItDown  
+  https://github.com/microsoft/markitdown
+- Chrome Skills  
+  https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
+- LangAlpha  
+  https://github.com/ginlix-ai/langalpha
+
+### 一句话总结
+- 今天的主线是：AI 工作流开始长出真正可复用的层，包括调度自动化、资料摄取、浏览器技能化和垂直多智能体编排。
+
+### 节目简介
+《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。
+
+以上就是今天的全部内容，我们明天见。</description><pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate><guid isPermaLink="false">lobster-2026-04-15-ep033-v1</guid><enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-15-lobster-ep033-v1.mp3" length="3646892" type="audio/mpeg" /><itunes:author>wing</itunes:author><itunes:duration>00:03:48</itunes:duration><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><content:encoded>&lt;p&gt;### 要点&lt;/p&gt;&lt;p&gt;- Claude Code Routines：它比其他候选更值得做本期主 headline，因为它把 AI coding 从“会话能力”推进到“可运营工作流”，最能代表开发者工具的方向变化。&lt;/p&gt;&lt;p&gt;- MarkItDown：它比垂直行业项目更通用，几乎所有做知识处理、资料 ingestion、企业内网助手的开发者都能马上拿去用。&lt;/p&gt;&lt;p&gt;- Chrome Skills：它能补足本期视角，不只讲底层基础设施，也讲“工作流如何走向大众产品界面”，让本期更完整。&lt;/p&gt;&lt;p&gt;- LangAlpha：它比单一功能仓库更有方法论价值，适合拿来讲“垂直智能体如何从工具走向产品”的路线。&lt;/p&gt;&lt;p&gt;### Sources&lt;/p&gt;&lt;p&gt;- Claude Code Routines  &lt;/p&gt;&lt;p&gt;  https://code.claude.com/docs/en/routines&lt;/p&gt;&lt;p&gt;- MarkItDown  &lt;/p&gt;&lt;p&gt;  https://github.com/microsoft/markitdown&lt;/p&gt;&lt;p&gt;- Chrome Skills  &lt;/p&gt;&lt;p&gt;  https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/&lt;/p&gt;&lt;p&gt;- LangAlpha  &lt;/p&gt;&lt;p&gt;  https://github.com/ginlix-ai/langalpha&lt;/p&gt;&lt;p&gt;### 一句话总结&lt;/p&gt;&lt;p&gt;- 今天的主线是：AI 工作流开始长出真正可复用的层，包括调度自动化、资料摄取、浏览器技能化和垂直多智能体编排。&lt;/p&gt;&lt;p&gt;### 节目简介&lt;/p&gt;&lt;p&gt;《龙虾AI工具速报》是一档面向 builder 的 AI 工具播客。我们每天用短时间讲清楚最值得上手的工具：它是什么、怎么工作、卡在 workflow 哪一层，以及你是否值得现在就试。&lt;/p&gt;&lt;p&gt;以上就是今天的全部内容，我们明天见。&lt;/p&gt;</content:encoded></item><item>
       <title>2026.04.14｜superpowers、editor、markitdown：AI工具助力开发流程自动化与内容创作便捷化</title>
       <description>superpowers：superpowers 是一个用 Shell 写的 AI 编程工作流模板库，主要用来把从需求到交付的整套流程固化成可复用的模板。
 项目链接：https://github.com/obra/superpowers
