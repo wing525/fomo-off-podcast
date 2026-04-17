@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.17｜openai-agents-python、android-reverse-engineering-skill、omi、evolver、chrome-devtools-mcp、t3code：多语言多平台AI工具开发加速智能化应用落地</title>
+      <description>openai-agents-python：openai-agents-python 是一个用 Python 写的 SDK，主要用来构建多代理工作流。它支持 OpenAI 的 Responses 和 Chat Completions API 以及 100 多种其他 LLMs。
+项目链接：https://github.com/openai/openai-agents-python
+
+android-reverse-engineering-skill：android-reverse-engineering-skill 是一个用 Python 写的技能工具库，主要用来反编译 Android APK 文件并提取其中的 HTTP API 数据。
+项目链接：https://github.com/SimoneAvogadro/android-reverse-engineering-skill
+
+omi：omi 是一个用 JavaScript 写的 AI 第二大脑工具，主要用来捕获屏幕截图与对话，并实时转录生成摘要和待办事项。
+项目链接：https://github.com/BasedHardware/omi
+
+evolver：evolver 是一个用 JavaScript 写的进化算法工具库，主要用来实现优化问题求解任务中的自动化探索与优化功能。
+项目链接：https://github.com/EvoMap/evolver
+
+chrome-devtools-mcp：chrome-devtools-mcp 是一个用 JavaScript 写的 Chrome DevTools 扩展库，主要用来让编码代理控���并检查实时浏览器环境。
+项目链接：https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+t3code：t3code 是一个用 JavaScript 写的最小化 Web GUI 应用程序，主要用来为编码代理提供用户界面支持。它目前支持 Codex 和 Claude 编码助手。
+项目链接：https://github.com/pingdotgg/t3code
+
+今日速报共 6 个项目：openai-agents-python、android-reverse-engineering-skill、omi、evolver、chrome-devtools-mcp、t3code，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-17-mo30mc1r</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-17-lobster-17-mo30mc1r.mp3" length="6953516" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;openai-agents-python&lt;/strong&gt;：openai-agents-python 是一个用 Python 写的 SDK，主要用来构建多代理工作流。它支持 OpenAI 的 Responses 和 Chat Completions API 以及 100 多种其他 LLMs。&lt;br/&gt;项目链接：&lt;a href="https://github.com/openai/openai-agents-python"&gt;https://github.com/openai/openai-agents-python&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;android-reverse-engineering-skill&lt;/strong&gt;：android-reverse-engineering-skill 是一个用 Python 写的技能工具库，主要用来反编译 Android APK 文件并提取其中的 HTTP API 数据。&lt;br/&gt;项目链接：&lt;a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill"&gt;https://github.com/SimoneAvogadro/android-reverse-engineering-skill&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;omi&lt;/strong&gt;：omi 是一个用 JavaScript 写的 AI 第二大脑工具，主要用来捕获屏幕截图与对话，并实时转录生成摘要和待办事项。&lt;br/&gt;项目链接：&lt;a href="https://github.com/BasedHardware/omi"&gt;https://github.com/BasedHardware/omi&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;evolver&lt;/strong&gt;：evolver 是一个用 JavaScript 写的进化算法工具库，主要用来实现优化问题求解任务中的自动化探索与优化功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/EvoMap/evolver"&gt;https://github.com/EvoMap/evolver&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;chrome-devtools-mcp&lt;/strong&gt;：chrome-devtools-mcp 是一个用 JavaScript 写的 Chrome DevTools 扩展库，主要用来让编码代理控���并检查实时浏览器环境。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ChromeDevTools/chrome-devtools-mcp"&gt;https://github.com/ChromeDevTools/chrome-devtools-mcp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;t3code&lt;/strong&gt;：t3code 是一个用 JavaScript 写的最小化 Web GUI 应用程序，主要用来为编码代理提供用户界面支持。它目前支持 Codex 和 Claude 编码助手。&lt;br/&gt;项目链接：&lt;a href="https://github.com/pingdotgg/t3code"&gt;https://github.com/pingdotgg/t3code&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：openai-agents-python、android-reverse-engineering-skill、omi、evolver、chrome-devtools-mcp、t3code，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.16｜GenericAgent、magika：自动化与智能化任务管理工具日益增多</title>
       <description>GenericAgent：GenericAgent 是一个用多种语言写的最小化、自我演化的自主代理框架，主要用来给大型语言模型系统提供对本地计算机的控制权，包括浏览器、终端、文件系统、键盘/鼠标输入、屏幕视觉和移动设备等操作。
 项目链接：https://github.com/lsdefine/GenericAgent
