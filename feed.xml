@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.18｜openai-agents-python、android-reverse-engineering-skill、evolver、deepgemm、thunderbolt、arc-kit：多领域应用的自动化和优化工具涌现</title>
+      <description>openai-agents-python：openai-agents-python 是一个用 Python 写的 SDK 框架，主要用来构建多代理工作流程。
+项目链接：https://github.com/openai/openai-agents-python
+
+android-reverse-engineering-skill：android-reverse-engineering-skill 是一个用 Python 写的技能库，主要用来反编译 Android 应用并提取 HTTP API。
+项目链接：https://github.com/SimoneAvogadro/android-reverse-engineering-skill
+
+evolver：evolver 是一个用 JavaScript 写的演化工具库，主要用来生成和优化复杂系统的演变路径。
+项目链接：https://github.com/EvoMap/evolver
+
+deepgemm：deepgemm 是一个用 C++ 写的高性能张量核心内核库，主要用来加速大型语言模型中的矩阵运算和内存操作。
+项目链接：https://github.com/deepseek-ai/DeepGEMM
+
+thunderbolt：thunderbolt 是一个用 Python 写的邮件服务器管理工具，主要用来控制邮箱模型并拥有用户数据。
+项目链接：https://github.com/thunderbird/thunderbolt
+
+arc-kit：arc-kit 是一个用 Python 写的企业架构治理工具包，主要用来帮助企业进行架构管理与合规检查。
+项目链接：https://github.com/tractorjuice/arc-kit
+
+今日速报共 6 个项目：openai-agents-python、android-reverse-engineering-skill、evolver、deepgemm、thunderbolt、arc-kit，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-18-mo4dwzs1</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-18-lobster-18-mo4dwzs1.mp3" length="6418988" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;openai-agents-python&lt;/strong&gt;：openai-agents-python 是一个用 Python 写的 SDK 框架，主要用来构建多代理工作流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/openai/openai-agents-python"&gt;https://github.com/openai/openai-agents-python&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;android-reverse-engineering-skill&lt;/strong&gt;：android-reverse-engineering-skill 是一个用 Python 写的技能库，主要用来反编译 Android 应用并提取 HTTP API。&lt;br/&gt;项目链接：&lt;a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill"&gt;https://github.com/SimoneAvogadro/android-reverse-engineering-skill&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;evolver&lt;/strong&gt;：evolver 是一个用 JavaScript 写的演化工具库，主要用来生成和优化复杂系统的演变路径。&lt;br/&gt;项目链接：&lt;a href="https://github.com/EvoMap/evolver"&gt;https://github.com/EvoMap/evolver&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;deepgemm&lt;/strong&gt;：deepgemm 是一个用 C++ 写的高性能张量核心内核库，主要用来加速大型语言模型中的矩阵运算和内存操作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/deepseek-ai/DeepGEMM"&gt;https://github.com/deepseek-ai/DeepGEMM&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;thunderbolt&lt;/strong&gt;：thunderbolt 是一个用 Python 写的邮件服务器管理工具，主要用来控制邮箱模型并拥有用户数据。&lt;br/&gt;项目链接：&lt;a href="https://github.com/thunderbird/thunderbolt"&gt;https://github.com/thunderbird/thunderbolt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;arc-kit&lt;/strong&gt;：arc-kit 是一个用 Python 写的企业架构治理工具包，主要用来帮助企业进行架构管理与合规检查。&lt;br/&gt;项目链接：&lt;a href="https://github.com/tractorjuice/arc-kit"&gt;https://github.com/tractorjuice/arc-kit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：openai-agents-python、android-reverse-engineering-skill、evolver、deepgemm、thunderbolt、arc-kit，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.17｜openai-agents-python、android-reverse-engineering-skill、omi、evolver、chrome-devtools-mcp、t3code：多语言多平台AI工具开发加速智能化应用落地</title>
       <description>openai-agents-python：openai-agents-python 是一个用 Python 写的 SDK，主要用来构建多代理工作流。它支持 OpenAI 的 Responses 和 Chat Completions API 以及 100 多种其他 LLMs。
 项目链接：https://github.com/openai/openai-agents-python
