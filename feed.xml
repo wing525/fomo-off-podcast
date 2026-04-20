@@ -16,34 +16,34 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2026.04.20｜worldmonitor、RuView、pi-hole、FinceptTerminal、paperless-ngx、Xray-core：多种技术融合提升数据分析与管理效率</title>
-      <description>worldmonitor：worldmonitor 是一个用多种技术编写的实时全球情报仪表盘，主要用来聚合新闻、监控地缘政治和跟踪基础设施，并提供统一的情境感知界面。
-项目链接：https://github.com/koala73/worldmonitor
-
-RuView：RuView 是一个用多种技术编写的无线密态姿态检测工具，主要用来通过 WiFi 进行人体姿态识别，并提供实时监控和分析功能。
-项目链接：https://github.com/ruvnet/RuView
-
-pi-hole：pi-hole 是一个用多种技术编写的网络级广告拦截工具，主要用来通过 DNS 沉洞阻止设备接收不需要的内容。
+      <title>2026.04.20｜pi-hole、RuView、paperless-ngx、FinceptTerminal、worldmonitor、Xray-core：跨平台高效工具助力网络安全与数据分析</title>
+      <description>pi-hole：pi-hole 是一个用 C 写的 DNS 沉没井工具，主要用来通过你自己的 Linux 硬件实现全网广告拦截。它不需要在客户端安装任何软件，可以保护你的设备不受不想要的内容影响。
 项目链接：https://github.com/pi-hole/pi-hole
 
-FinceptTerminal：FinceptTerminal 是一个用 C++20 编写的金融终端工具，主要用来为用户提供金融市场数据的实时分析和可视化功能。
-项目链接：https://github.com/Fincept-Corporation/FinceptTerminal
+RuView：RuView 是一个用 C++ 写的 WiFi 人体姿态识别工具，主要用来通过 Wi-Fi 检测并分析环境中的人员活动情况。它能够在不依赖相机的情况下提供基本的姿态追踪功能。
+项目链接：https://github.com/ruvnet/RuView
 
-paperless-ngx：paperless-ngx 是一个用 Python 编写的文档管理工具，主要用来帮助个人或组织通过数字化方式管理和归档纸质文件。
+paperless-ngx：paperless-ngx 是一个用 Python 写的数字文件管理系统，主要用来将纸质文档数字化存储并高效管理。它能够自动处理扫描图片，提取文本内容并存入数据库中以便日后检索。
 项目链接：https://github.com/paperless-ngx/paperless-ngx
 
-Xray-core：Xray-core 是一个用 Go 编写的网络工具集，主要用来实现安全通信及数据传输功能。
+FinceptTerminal：FinceptTerminal 是一个用 C++ 写的金融终端模拟器，主要用来提供一套功能丰富的金融分析工具。它能够集成市场数据流，进行实时行情监控和交易策略制定。
+项目链接：https://github.com/Fincept-Corporation/FinceptTerminal
+
+worldmonitor：worldmonitor 是一个用 Python 写的全球情报看板工具，主要用来进行实时新闻聚合和地缘政治监测。它能够整合来自不同来源的信息，提供全面的情报分析视图。
+项目链接：https://github.com/koala73/worldmonitor
+
+Xray-core：Xray-core 是一个用 C++ 写的网络通信工具，主要用来实现高性能的数据传输协议。它能够在复杂的网络环境中保持稳定的连接状态。
 项目链接：https://github.com/XTLS/Xray-core
 
-今日速报共 6 个项目：worldmonitor、RuView、pi-hole、FinceptTerminal、paperless-ngx、Xray-core，聚焦可直接上手的 AI 工具与开发库。</description>
+今日速报共 6 个项目：pi-hole、RuView、paperless-ngx、FinceptTerminal、worldmonitor、Xray-core，聚焦可直接上手的 AI 工具与开发库。</description>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <guid>lobster-2026-04-20-mo7525bz</guid>
-      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-20-lobster-20-mo7525bz.mp3" length="6159404" type="audio/mpeg" />
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-20-lobster-20-mo7525bz.mp3" length="5848364" type="audio/mpeg" />
       <itunes:author>龙虾AI工具速报</itunes:author>
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>&lt;p&gt;&lt;strong&gt;worldmonitor&lt;/strong&gt;：worldmonitor 是一个用多种技术编写的实时全球情报仪表盘，主要用来聚合新闻、监控地缘政治和跟踪基础设施，并提供统一的情境感知界面。&lt;br/&gt;项目链接：&lt;a href="https://github.com/koala73/worldmonitor"&gt;https://github.com/koala73/worldmonitor&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;RuView&lt;/strong&gt;：RuView 是一个用多种技术编写的无线密态姿态检测工具，主要用来通过 WiFi 进行人体姿态识别，并提供实时监控和分析功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ruvnet/RuView"&gt;https://github.com/ruvnet/RuView&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;pi-hole&lt;/strong&gt;：pi-hole 是一个用多种技术编写的网络级广告拦截工具，主要用来通过 DNS 沉洞阻止设备接收不需要的内容。&lt;br/&gt;项目链接：&lt;a href="https://github.com/pi-hole/pi-hole"&gt;https://github.com/pi-hole/pi-hole&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;FinceptTerminal&lt;/strong&gt;：FinceptTerminal 是一个用 C++20 编写的金融终端工具，主要用来为用户提供金融市场数据的实时分析和可视化功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Fincept-Corporation/FinceptTerminal"&gt;https://github.com/Fincept-Corporation/FinceptTerminal&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;paperless-ngx&lt;/strong&gt;：paperless-ngx 是一个用 Python 编写的文档管理工具，主要用来帮助个人或组织通过数字化方式管理和归档纸质文件。&lt;br/&gt;项目链接：&lt;a href="https://github.com/paperless-ngx/paperless-ngx"&gt;https://github.com/paperless-ngx/paperless-ngx&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Xray-core&lt;/strong&gt;：Xray-core 是一个用 Go 编写的网络工具集，主要用来实现安全通信及数据传输功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/XTLS/Xray-core"&gt;https://github.com/XTLS/Xray-core&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：worldmonitor、RuView、pi-hole、FinceptTerminal、paperless-ngx、Xray-core，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;pi-hole&lt;/strong&gt;：pi-hole 是一个用 C 写的 DNS 沉没井工具，主要用来通过你自己的 Linux 硬件实现全网广告拦截。它不需要在客户端安装任何软件，可以保护你的设备不受不想要的内容影响。&lt;br/&gt;项目链接：&lt;a href="https://github.com/pi-hole/pi-hole"&gt;https://github.com/pi-hole/pi-hole&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;RuView&lt;/strong&gt;：RuView 是一个用 C++ 写的 WiFi 人体姿态识别工具，主要用来通过 Wi-Fi 检测并分析环境中的人员活动情况。它能够在不依赖相机的情况下提供基本的姿态追踪功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ruvnet/RuView"&gt;https://github.com/ruvnet/RuView&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;paperless-ngx&lt;/strong&gt;：paperless-ngx 是一个用 Python 写的数字文件管理系统，主要用来将纸质文档数字化存储并高效管理。它能够自动处理扫描图片，提取文本内容并存入数据库中以便日后检索。&lt;br/&gt;项目链接：&lt;a href="https://github.com/paperless-ngx/paperless-ngx"&gt;https://github.com/paperless-ngx/paperless-ngx&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;FinceptTerminal&lt;/strong&gt;：FinceptTerminal 是一个用 C++ 写的金融终端模拟器，主要用来提供一套功能丰富的金融分析工具。它能够集成市场数据流，进行实时行情监控和交易策略制定。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Fincept-Corporation/FinceptTerminal"&gt;https://github.com/Fincept-Corporation/FinceptTerminal&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;worldmonitor&lt;/strong&gt;：worldmonitor 是一个用 Python 写的全球情报看板工具，主要用来进行实时新闻聚合和地缘政治监测。它能够整合来自不同来源的信息，提供全面的情报分析视图。&lt;br/&gt;项目链接：&lt;a href="https://github.com/koala73/worldmonitor"&gt;https://github.com/koala73/worldmonitor&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Xray-core&lt;/strong&gt;：Xray-core 是一个用 C++ 写的网络通信工具，主要用来实现高性能的数据传输协议。它能够在复杂的网络环境中保持稳定的连接状态。&lt;br/&gt;项目链接：&lt;a href="https://github.com/XTLS/Xray-core"&gt;https://github.com/XTLS/Xray-core&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：pi-hole、RuView、paperless-ngx、FinceptTerminal、worldmonitor、Xray-core，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>2026.04.18｜openai-agents-python、android-reverse-engineering-skill、evolver、deepgemm、thunderbolt、arc-kit：多领域应用的自动化和优化工具涌现</title>
