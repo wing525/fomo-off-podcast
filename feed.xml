@@ -16,7 +16,7 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2026.04.20｜pi-hole、RuView、paperless-ngx、FinceptTerminal、worldmonitor、Xray-core：跨平台高效工具助力网络安全与数据分析</title>
+      <title>2026.04.20｜pi-hole、RuView、paperless-ngx、FinceptTerminal、worldmonitor、Xray-core：今日精选 AI 工具速览</title>
       <description>pi-hole：pi-hole 是一个用 C 写的 DNS 沉没井工具，主要用来通过你自己的 Linux 硬件实现全网广告拦截。它不需要在客户端安装任何软件，可以保护你的设备不受不想要的内容影响。
 项目链接：https://github.com/pi-hole/pi-hole
 
