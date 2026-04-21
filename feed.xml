@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.21｜claude-context、TrendRadar、YTLite：增强用户体验和功能的JavaScript工具兴起</title>
+      <description>claude-context：claude-context 是一个用 Node.js 写的插件系统，主要用来为 Claude Code 提供持久记忆功能，让你的 AI 助手在多个会话间保持长期记忆。
+项目链接：https://github.com/zilliztech/claude-context
+
+TrendRadar：TrendRadar 是一个用 JavaScript 写的新闻热点追踪工具，主要用来快速部署并查看真正关心的新闻资讯。
+项目链接：https://github.com/sansan0/TrendRadar
+
+YTLite：YTLite 是一个用 JavaScript 写的 YouTube 增强插件，主要用来为 iOS 用户提供更加灵活且个性化的观看体验。
+项目链接：https://github.com/dayanch96/YTLite
+
+今日速报共 3 个项目：claude-context、TrendRadar、YTLite，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-21-mo8hycei</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-21-lobster-21-mo8hycei.mp3" length="4250540" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;claude-context&lt;/strong&gt;：claude-context 是一个用 Node.js 写的插件系统，主要用来为 Claude Code 提供持久记忆功能，让你的 AI 助手在多个会话间保持长期记忆。&lt;br/&gt;项目链接：&lt;a href="https://github.com/zilliztech/claude-context"&gt;https://github.com/zilliztech/claude-context&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;TrendRadar&lt;/strong&gt;：TrendRadar 是一个用 JavaScript 写的新闻热点追踪工具，主要用来快速部署并查看真正关心的新闻资讯。&lt;br/&gt;项目链接：&lt;a href="https://github.com/sansan0/TrendRadar"&gt;https://github.com/sansan0/TrendRadar&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;YTLite&lt;/strong&gt;：YTLite 是一个用 JavaScript 写的 YouTube 增强插件，主要用来为 iOS 用户提供更加灵活且个性化的观看体验。&lt;br/&gt;项目链接：&lt;a href="https://github.com/dayanch96/YTLite"&gt;https://github.com/dayanch96/YTLite&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：claude-context、TrendRadar、YTLite，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.20｜pi-hole、RuView、paperless-ngx、FinceptTerminal、worldmonitor、Xray-core：今日精选 AI 工具速览</title>
       <description>pi-hole：pi-hole 是一个用 C 写的 DNS 沉没井工具，主要用来通过你自己的 Linux 硬件实现全网广告拦截。它不需要在客户端安装任何软件，可以保护你的设备不受不想要的内容影响。
 项目链接：https://github.com/pi-hole/pi-hole
