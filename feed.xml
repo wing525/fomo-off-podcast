@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.22｜skills、shannon、langfuse、OpenMetadata、RAG-Anything、hackingtool：开源工具助力安全和数据管理创新技术发展</title>
+      <description>skills：skills 是一个用 JavaScript 写的 CLI 工具，主要用来管理开源代理技能生态系统中的各种工具和插件。
+项目链接：https://github.com/vercel-labs/skills
+
+shannon：shannon 是一个用 JavaScript 写的 AI 渗透测试工具，主要用来自动化检测 web 应用程序的安全漏洞。
+项目链接：https://github.com/KeygraphHQ/shannon
+
+langfuse：langfuse 是一个用 JavaScript 写的数据追踪和分析平台，主要用来监控和管理语言模型的运行情况。
+项目链接：https://github.com/langfuse/langfuse
+
+OpenMetadata：OpenMetadata 是一个用 Python 写的数据治理工具，主要用来帮助企业管理和优化数据资源的利用效率。
+项目链接：https://github.com/open-metadata/OpenMetadata
+
+RAG-Anything：RAG-Anything 是一个用 JavaScript 写的端到端框架，主要用来构建检索增强生成(RAG)应用程序，适用于各种业务场景。
+项目链接：https://github.com/HKUDS/RAG-Anything
+
+hackingtool：hackingtool 是一个用 Python 写的安全测试工具集合，主要用来帮助渗透测试人员进行网络安全评估与漏洞挖掘工作。
+项目链接：https://github.com/Z4nzu/hackingtool
+
+今日速报共 6 个项目：skills、shannon、langfuse、OpenMetadata、RAG-Anything、hackingtool，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-22-mo9xt5sf</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-22-lobster-22-mo9xt5sf.mp3" length="6186668" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;skills&lt;/strong&gt;：skills 是一个用 JavaScript 写的 CLI 工具，主要用来管理开源代理技能生态系统中的各种工具和插件。&lt;br/&gt;项目链接：&lt;a href="https://github.com/vercel-labs/skills"&gt;https://github.com/vercel-labs/skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;shannon&lt;/strong&gt;：shannon 是一个用 JavaScript 写的 AI 渗透测试工具，主要用来自动化检测 web 应用程序的安全漏洞。&lt;br/&gt;项目链接：&lt;a href="https://github.com/KeygraphHQ/shannon"&gt;https://github.com/KeygraphHQ/shannon&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;langfuse&lt;/strong&gt;：langfuse 是一个用 JavaScript 写的数据追踪和分析平台，主要用来监控和管理语言模型的运行情况。&lt;br/&gt;项目链接：&lt;a href="https://github.com/langfuse/langfuse"&gt;https://github.com/langfuse/langfuse&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OpenMetadata&lt;/strong&gt;：OpenMetadata 是一个用 Python 写的数据治理工具，主要用来帮助企业管理和优化数据资源的利用效率。&lt;br/&gt;项目链接：&lt;a href="https://github.com/open-metadata/OpenMetadata"&gt;https://github.com/open-metadata/OpenMetadata&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;RAG-Anything&lt;/strong&gt;：RAG-Anything 是一个用 JavaScript 写的端到端框架，主要用来构建检索增强生成(RAG)应用程序，适用于各种业务场景。&lt;br/&gt;项目链接：&lt;a href="https://github.com/HKUDS/RAG-Anything"&gt;https://github.com/HKUDS/RAG-Anything&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;hackingtool&lt;/strong&gt;：hackingtool 是一个用 Python 写的安全测试工具集合，主要用来帮助渗透测试人员进行网络安全评估与漏洞挖掘工作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Z4nzu/hackingtool"&gt;https://github.com/Z4nzu/hackingtool&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：skills、shannon、langfuse、OpenMetadata、RAG-Anything、hackingtool，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.21｜claude-context、TrendRadar、YTLite：增强用户体验和功能的JavaScript工具兴起</title>
       <description>claude-context：claude-context 是一个用 Node.js 写的插件系统，主要用来为 Claude Code 提供持久记忆功能，让你的 AI 助手在多个会话间保持长期记忆。
 项目链接：https://github.com/zilliztech/claude-context
