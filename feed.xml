@@ -16,6 +16,33 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.23｜free-claude-code、context-mode、onnxruntime、cline、PowerShell：开源工具助力开发与运维效率提升</title>
+      <description>free-claude-code：free-claude-code 是一个用 Python 写的 CLI 和 VSCode 扩展工具，主要用来免费使用 Claude Code 模板和功能，无需 Anthropic API 密钥。
+项目链接：https://github.com/Alishahryar1/free-claude-code
+
+context-mode：context-mode 是一种用 JavaScript 写的插件，主要用来在开发环境中管理上下文问题。
+项目链接：https://github.com/mksglu/context-mode
+
+onnxruntime：onnxruntime 是一个用 C++ 写的机器学习推理引擎库，主要用来加速各种模型的推断过程。
+项目链接：https://github.com/microsoft/onnxruntime
+
+cline：cline 是一个用 Go 语言写的命令行工具，主要用来简化 CI/CD 流程的定义和执行。
+项目链接：https://github.com/cline/cline
+
+PowerShell：PowerShell 是一个用 C# 写的跨平台自动化脚本语言框架，主要用来编写命令行工具和脚本来管理操作系统资源和服务。
+项目链接：https://github.com/PowerShell/PowerShell
+
+今日速报共 5 个项目：free-claude-code、context-mode、onnxruntime、cline、PowerShell，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-23-mobemtdg</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-23-lobster-23-mobemtdg.mp3" length="5664428" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;free-claude-code&lt;/strong&gt;：free-claude-code 是一个用 Python 写的 CLI 和 VSCode 扩展工具，主要用来免费使用 Claude Code 模板和功能，无需 Anthropic API 密钥。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Alishahryar1/free-claude-code"&gt;https://github.com/Alishahryar1/free-claude-code&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;context-mode&lt;/strong&gt;：context-mode 是一种用 JavaScript 写的插件，主要用来在开发环境中管理上下文问题。&lt;br/&gt;项目链接：&lt;a href="https://github.com/mksglu/context-mode"&gt;https://github.com/mksglu/context-mode&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;onnxruntime&lt;/strong&gt;：onnxruntime 是一个用 C++ 写的机器学习推理引擎库，主要用来加速各种模型的推断过程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/microsoft/onnxruntime"&gt;https://github.com/microsoft/onnxruntime&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cline&lt;/strong&gt;：cline 是一个用 Go 语言写的命令行工具，主要用来简化 CI/CD 流程的定义和执行。&lt;br/&gt;项目链接：&lt;a href="https://github.com/cline/cline"&gt;https://github.com/cline/cline&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PowerShell&lt;/strong&gt;：PowerShell 是一个用 C# 写的跨平台自动化脚本语言框架，主要用来编写命令行工具和脚本来管理操作系统资源和服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/PowerShell/PowerShell"&gt;https://github.com/PowerShell/PowerShell&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 5 个项目：free-claude-code、context-mode、onnxruntime、cline、PowerShell，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.22｜skills、shannon、langfuse、OpenMetadata、RAG-Anything、hackingtool：开源工具助力安全和数据管理创新技术发展</title>
       <description>skills：skills 是一个用 JavaScript 写的 CLI 工具，主要用来管理开源代理技能生态系统中的各种工具和插件。
 项目链接：https://github.com/vercel-labs/skills
