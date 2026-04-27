@@ -16,6 +16,33 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.27｜beads、skills、ds2api、penpot、DeepSeek-V3：AI工具趋向于增强跨领域协作与自动化部署能力</title>
+      <description>beads：beads 是一个用 Go 写的问题追踪系统，主要用来管理分布式图中的 AI 代理问题。
+项目链接：https://github.com/gastownhall/beads
+
+skills：skills 是一个用 JavaScript 写的技能库，主要用来支持工程师在日常工作中与 AI 代理进行互动。
+项目链接：https://github.com/mattpocock/skills
+
+ds2api：ds2api 是一个用 Python 写的数据科学 API 平台，主要用来帮助数据科学家快速部署和管理模型服务。
+项目链接：https://github.com/CJackHwang/ds2api
+
+penpot：penpot 是一个用 JavaScript 写的设计协作工具，主要用来帮助设计师和开发人员进行远程协作设计工作。
+项目链接：https://github.com/penpot/penpot
+
+DeepSeek-V3：DeepSeek-V3 是一个用 Python 写的多模态 AI 系统，主要用来支持跨平台的大规模对话交互和应用开发。
+项目链接：https://github.com/deepseek-ai/DeepSeek-V3
+
+今日速报共 5 个项目：beads、skills、ds2api、penpot、DeepSeek-V3，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-27-moh7syv6</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-27-lobster-27-moh7syv6.mp3" length="4669100" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;beads&lt;/strong&gt;：beads 是一个用 Go 写的问题追踪系统，主要用来管理分布式图中的 AI 代理问题。&lt;br/&gt;项目链接：&lt;a href="https://github.com/gastownhall/beads"&gt;https://github.com/gastownhall/beads&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;skills&lt;/strong&gt;：skills 是一个用 JavaScript 写的技能库，主要用来支持工程师在日常工作中与 AI 代理进行互动。&lt;br/&gt;项目链接：&lt;a href="https://github.com/mattpocock/skills"&gt;https://github.com/mattpocock/skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ds2api&lt;/strong&gt;：ds2api 是一个用 Python 写的数据科学 API 平台，主要用来帮助数据科学家快速部署和管理模型服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/CJackHwang/ds2api"&gt;https://github.com/CJackHwang/ds2api&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;penpot&lt;/strong&gt;：penpot 是一个用 JavaScript 写的设计协作工具，主要用来帮助设计师和开发人员进行远程协作设计工作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/penpot/penpot"&gt;https://github.com/penpot/penpot&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DeepSeek-V3&lt;/strong&gt;：DeepSeek-V3 是一个用 Python 写的多模态 AI 系统，主要用来支持跨平台的大规模对话交互和应用开发。&lt;br/&gt;项目链接：&lt;a href="https://github.com/deepseek-ai/DeepSeek-V3"&gt;https://github.com/deepseek-ai/DeepSeek-V3&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 5 个项目：beads、skills、ds2api、penpot、DeepSeek-V3，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.23｜free-claude-code、context-mode、onnxruntime、cline、PowerShell：开源工具助力开发与运维效率提升</title>
       <description>free-claude-code：free-claude-code 是一个用 Python 写的 CLI 和 VSCode 扩展工具，主要用来免费使用 Claude Code 模板和功能，无需 Anthropic API 密钥。
 项目链接：https://github.com/Alishahryar1/free-claude-code
