@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.04.29｜jcode、craft-agents-oss、GitNexus、GhostTrack、maigret、warp：自动化与智能化工具增强工作效率和协作能力</title>
+      <description>jcode：jcode 是一个用 Python 写的信息抽取和代码生成工具，主要用来从文档中提取关键信息并自动生成代码。
+项目链接：https://github.com/1jehuang/jcode
+
+craft-agents-oss：craft-agents-oss 是一个用 Python 写的自动化操作工具集合，主要用来自动化处理各种任务。
+项目链接：https://github.com/lukilabs/craft-agents-oss
+
+GitNexus：GitNexus 是一个开源平台，主要用来增强协作与信息共享功能。
+项目链接：https://github.com/abhigyanpatwari/GitNexus
+
+GhostTrack：GhostTrack 是一个用 Python 写的位置追踪工具，主要用来监控移动设备或手机号码信息。
+项目链接：https://github.com/HunxByts/GhostTrack
+
+maigret：maigret 是一个用 Python 写的社交媒体账户搜索工具，主要用来查找和分析用户的在线活动记录。
+项目链接：https://github.com/soxoj/maigret
+
+warp：warp 是一个用 JavaScript 写的云端开发环境，主要用来提供全方位的编程支持服务。
+项目链接：https://github.com/warpdotdev/warp
+
+今日速报共 6 个项目：jcode、craft-agents-oss、GitNexus、GhostTrack、maigret、warp，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-04-29-mok3sslo</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-04-29-lobster-29-mok3sslo.mp3" length="5779244" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;jcode&lt;/strong&gt;：jcode 是一个用 Python 写的信息抽取和代码生成工具，主要用来从文档中提取关键信息并自动生成代码。&lt;br/&gt;项目链接：&lt;a href="https://github.com/1jehuang/jcode"&gt;https://github.com/1jehuang/jcode&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;craft-agents-oss&lt;/strong&gt;：craft-agents-oss 是一个用 Python 写的自动化操作工具集合，主要用来自动化处理各种任务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/lukilabs/craft-agents-oss"&gt;https://github.com/lukilabs/craft-agents-oss&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;GitNexus&lt;/strong&gt;：GitNexus 是一个开源平台，主要用来增强协作与信息共享功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/abhigyanpatwari/GitNexus"&gt;https://github.com/abhigyanpatwari/GitNexus&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;GhostTrack&lt;/strong&gt;：GhostTrack 是一个用 Python 写的位置追踪工具，主要用来监控移动设备或手机号码信息。&lt;br/&gt;项目链接：&lt;a href="https://github.com/HunxByts/GhostTrack"&gt;https://github.com/HunxByts/GhostTrack&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;maigret&lt;/strong&gt;：maigret 是一个用 Python 写的社交媒体账户搜索工具，主要用来查找和分析用户的在线活动记录。&lt;br/&gt;项目链接：&lt;a href="https://github.com/soxoj/maigret"&gt;https://github.com/soxoj/maigret&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;warp&lt;/strong&gt;：warp 是一个用 JavaScript 写的云端开发环境，主要用来提供全方位的编程支持服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/warpdotdev/warp"&gt;https://github.com/warpdotdev/warp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：jcode、craft-agents-oss、GitNexus、GhostTrack、maigret、warp，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.27｜beads、skills、ds2api、penpot、DeepSeek-V3：AI工具趋向于增强跨领域协作与自动化部署能力</title>
       <description>beads：beads 是一个用 Go 写的问题追踪系统，主要用来管理分布式图中的 AI 代理问题。
 项目链接：https://github.com/gastownhall/beads
