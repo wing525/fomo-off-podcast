@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.05｜DeepSeek-TUI、skills、vscode-dark-islands、ruflo、TabPFN、Pixelle-Video：AI赋能开发与创意内容生产工具增多</title>
+      <description>DeepSeek-TUI：DeepSeek-TUI 是一个用 Rust 写的终端代码助手，主要用来提供基于 DeepSeek V4 的强大编码支持功能。
+项目链接：https://github.com/Hmbown/DeepSeek-TUI
+
+skills：skills 是一个用 JavaScript 写的浏览器自动化插件集，主要用来让 Claude Code 通过浏览器自动化与 Browserbase 集成。
+项目链接：https://github.com/browserbase/skills
+
+vscode-dark-islands：vscode-dark-islands 是一个用 CSS 和 JavaScript 写的 Visual Studio Code 配色方案插件，主要用来提供类似于 easemate IDE 的深色主题。
+项目链接：https://github.com/bwya77/vscode-dark-islands
+
+ruflo：ruflo 是一个用 TypeScript 写的 Web 目标管理工具，主要用来创建和管理目标以及任务清单。
+项目链接：https://github.com/ruvnet/ruflo
+
+TabPFN：TabPFN 是一个用 Python 写的 AI 服务框架，主要用来提供表格形式的数据处理和预测功能。
+项目链接：https://github.com/PriorLabs/TabPFN
+
+Pixelle-Video：Pixelle-Video 是一个用 Python 和 JavaScript 写的 AI 自动化视频制作引擎，主要用来生成高质量的短视频内容。
+项目链接：https://github.com/AIDC-AI/Pixelle-Video
+
+今日速报共 6 个项目：DeepSeek-TUI、skills、vscode-dark-islands、ruflo、TabPFN、Pixelle-Video，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-05-mosrt4l9</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-05-lobster-05-mosrt4l9.mp3" length="6044204" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;DeepSeek-TUI&lt;/strong&gt;：DeepSeek-TUI 是一个用 Rust 写的终端代码助手，主要用来提供基于 DeepSeek V4 的强大编码支持功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Hmbown/DeepSeek-TUI"&gt;https://github.com/Hmbown/DeepSeek-TUI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;skills&lt;/strong&gt;：skills 是一个用 JavaScript 写的浏览器自动化插件集，主要用来让 Claude Code 通过浏览器自动化与 Browserbase 集成。&lt;br/&gt;项目链接：&lt;a href="https://github.com/browserbase/skills"&gt;https://github.com/browserbase/skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;vscode-dark-islands&lt;/strong&gt;：vscode-dark-islands 是一个用 CSS 和 JavaScript 写的 Visual Studio Code 配色方案插件，主要用来提供类似于 easemate IDE 的深色主题。&lt;br/&gt;项目链接：&lt;a href="https://github.com/bwya77/vscode-dark-islands"&gt;https://github.com/bwya77/vscode-dark-islands&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ruflo&lt;/strong&gt;：ruflo 是一个用 TypeScript 写的 Web 目标管理工具，主要用来创建和管理目标以及任务清单。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ruvnet/ruflo"&gt;https://github.com/ruvnet/ruflo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;TabPFN&lt;/strong&gt;：TabPFN 是一个用 Python 写的 AI 服务框架，主要用来提供表格形式的数据处理和预测功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/PriorLabs/TabPFN"&gt;https://github.com/PriorLabs/TabPFN&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pixelle-Video&lt;/strong&gt;：Pixelle-Video 是一个用 Python 和 JavaScript 写的 AI 自动化视频制作引擎，主要用来生成高质量的短视频内容。&lt;br/&gt;项目链接：&lt;a href="https://github.com/AIDC-AI/Pixelle-Video"&gt;https://github.com/AIDC-AI/Pixelle-Video&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：DeepSeek-TUI、skills、vscode-dark-islands、ruflo、TabPFN、Pixelle-Video，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.04.29｜jcode、craft-agents-oss、GitNexus、GhostTrack、maigret、warp：自动化与智能化工具增强工作效率和协作能力</title>
       <description>jcode：jcode 是一个用 Python 写的信息抽取和代码生成工具，主要用来从文档中提取关键信息并自动生成代码。
 项目链接：https://github.com/1jehuang/jcode
