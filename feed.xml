@@ -16,6 +16,30 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.06｜financial-services、agent-skills、Scrapling、docuseal：多语言AI工具助力行业自动化与效率提升</title>
+      <description>financial-services：financial-services 是一个用多种语言编写的金融服务业工作流工具库，主要用来支持投资银行、股权研究等领域的自动化流程管理。
+项目链接：https://github.com/anthropics/financial-services
+
+agent-skills：agent-skills 是一个用多种语言编写的 AI 编程技能库，主要用来编码高质量的工程实践。
+项目链接：https://github.com/addyosmani/agent-skills
+
+Scrapling：Scrapling 是一个用 Python 编写的 Web 抓取框架，主要用来简化现代网页的抓取工作。
+项目链接：https://github.com/D4Vinci/Scrapling
+
+docuseal：docuseal 是一个用多种语言编写的开源文档处理和签署工具库，主要用来简化复杂的企业文件管理流程。
+项目链接：https://github.com/docusealco/docuseal
+
+今日速报共 4 个项目：financial-services、agent-skills、Scrapling、docuseal，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-06-mou0qpf0</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-06-lobster-06-mou0qpf0.mp3" length="4589996" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;financial-services&lt;/strong&gt;：financial-services 是一个用多种语言编写的金融服务业工作流工具库，主要用来支持投资银行、股权研究等领域的自动化流程管理。&lt;br/&gt;项目链接：&lt;a href="https://github.com/anthropics/financial-services"&gt;https://github.com/anthropics/financial-services&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;agent-skills&lt;/strong&gt;：agent-skills 是一个用多种语言编写的 AI 编程技能库，主要用来编码高质量的工程实践。&lt;br/&gt;项目链接：&lt;a href="https://github.com/addyosmani/agent-skills"&gt;https://github.com/addyosmani/agent-skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scrapling&lt;/strong&gt;：Scrapling 是一个用 Python 编写的 Web 抓取框架，主要用来简化现代网页的抓取工作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/D4Vinci/Scrapling"&gt;https://github.com/D4Vinci/Scrapling&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;docuseal&lt;/strong&gt;：docuseal 是一个用多种语言编写的开源文档处理和签署工具库，主要用来简化复杂的企业文件管理流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/docusealco/docuseal"&gt;https://github.com/docusealco/docuseal&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 4 个项目：financial-services、agent-skills、Scrapling、docuseal，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.05｜DeepSeek-TUI、skills、vscode-dark-islands、ruflo、TabPFN、Pixelle-Video：AI赋能开发与创意内容生产工具增多</title>
       <description>DeepSeek-TUI：DeepSeek-TUI 是一个用 Rust 写的终端代码助手，主要用来提供基于 DeepSeek V4 的强大编码支持功能。
 项目链接：https://github.com/Hmbown/DeepSeek-TUI
