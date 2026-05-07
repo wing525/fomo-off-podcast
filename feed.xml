@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.07｜9router、openreel-video、goose：JavaScript在AI工具开发中广泛应用优化成本提升效率</title>
+      <description>9router：9router 是一个用 JavaScript 写的 AI 路由和令牌节省工具，主要用来优化 AI 模型调用过程中的成本。
+项目链接：https://github.com/decolua/9router
+
+openreel-video：openreel-video 是一个用 React 写的浏览器端视频编辑工具，主要用来提供专业级别的视频剪辑功能。
+项目链接：https://github.com/Augani/openreel-video
+
+goose：goose 是一个用 JavaScript 写的 AI 客户端应用和服务工具，主要用来帮助用户管理和调用各种AI服务和工作流。
+项目链接：https://github.com/aaif-goose/goose
+
+今日速报共 3 个项目：9router、openreel-video、goose，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-07-movfog1z</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-07-lobster-07-movfog1z.mp3" length="3447980" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;9router&lt;/strong&gt;：9router 是一个用 JavaScript 写的 AI 路由和令牌节省工具，主要用来优化 AI 模型调用过程中的成本。&lt;br/&gt;项目链接：&lt;a href="https://github.com/decolua/9router"&gt;https://github.com/decolua/9router&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;openreel-video&lt;/strong&gt;：openreel-video 是一个用 React 写的浏览器端视频编辑工具，主要用来提供专业级别的视频剪辑功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Augani/openreel-video"&gt;https://github.com/Augani/openreel-video&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;goose&lt;/strong&gt;：goose 是一个用 JavaScript 写的 AI 客户端应用和服务工具，主要用来帮助用户管理和调用各种AI服务和工作流。&lt;br/&gt;项目链接：&lt;a href="https://github.com/aaif-goose/goose"&gt;https://github.com/aaif-goose/goose&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：9router、openreel-video、goose，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.06｜financial-services、agent-skills、Scrapling、docuseal：多语言AI工具助力行业自动化与效率提升</title>
       <description>financial-services：financial-services 是一个用多种语言编写的金融服务业工作流工具库，主要用来支持投资银行、股权研究等领域的自动化流程管理。
 项目链接：https://github.com/anthropics/financial-services
