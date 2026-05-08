@@ -16,6 +16,21 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.08｜CloakBrowser：增强网络隐私保护的创新工具涌现</title>
+      <description>CloakBrowser：CloakBrowser 是一个用多种编程语言写的安全浏览器扩展，主要用来隐藏用户的真实 IP 地址和在线行为轨迹。
+项目链接：https://github.com/CloakHQ/CloakBrowser
+
+今日速报共 1 个项目：CloakBrowser，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-08-mowzyly9</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-08-lobster-08-mowzyly9.mp3" length="1399340" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;CloakBrowser&lt;/strong&gt;：CloakBrowser 是一个用多种编程语言写的安全浏览器扩展，主要用来隐藏用户的真实 IP 地址和在线行为轨迹。&lt;br/&gt;项目链接：&lt;a href="https://github.com/CloakHQ/CloakBrowser"&gt;https://github.com/CloakHQ/CloakBrowser&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 1 个项目：CloakBrowser，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.07｜9router、openreel-video、goose：JavaScript在AI工具开发中广泛应用优化成本提升效率</title>
       <description>9router：9router 是一个用 JavaScript 写的 AI 路由和令牌节省工具，主要用来优化 AI 模型调用过程中的成本。
 项目链接：https://github.com/decolua/9router
