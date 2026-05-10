@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.10｜agentmemory、MasterDnsVPN、supersplat：多语言支持的工具开发与优化持续增强</title>
+      <description>agentmemory：agentmemory 是一个用多种编程语言写的 AI 编程助手持久记忆库，主要用来帮助编码代理记住所有操作和信息，减少重复说明的需求。
+项目链接：https://github.com/rohitg00/agentmemory
+
+MasterDnsVPN：MasterDnsVPN 是一个用多种编程语言写的 DNS 查询流量传输工具，主要用来通过 DNS 请求和响应来传递 TCP 流量。它类似于 DNSTT 或 SlipStream 等项目，但在结构和实现方式上有所不同。
+项目链接：https://github.com/masterking32/MasterDnsVPN
+
+supersplat：supersplat 是一个用多种编程语言写的图形编辑器插件库，主要用来帮助游戏开发者制作高质量的地形贴图效果。它为 PlayCanvas 引擎提供了丰富的功能模块和易用的用户界面。
+项目链接：https://github.com/playcanvas/supersplat
+
+今日速报共 3 个项目：agentmemory、MasterDnsVPN、supersplat，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-10-mozboh73</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-10-lobster-10-mozboh73.mp3" length="3593900" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;agentmemory&lt;/strong&gt;：agentmemory 是一个用多种编程语言写的 AI 编程助手持久记忆库，主要用来帮助编码代理记住所有操作和信息，减少重复说明的需求。&lt;br/&gt;项目链接：&lt;a href="https://github.com/rohitg00/agentmemory"&gt;https://github.com/rohitg00/agentmemory&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MasterDnsVPN&lt;/strong&gt;：MasterDnsVPN 是一个用多种编程语言写的 DNS 查询流量传输工具，主要用来通过 DNS 请求和响应来传递 TCP 流量。它类似于 DNSTT 或 SlipStream 等项目，但在结构和实现方式上有所不同。&lt;br/&gt;项目链接：&lt;a href="https://github.com/masterking32/MasterDnsVPN"&gt;https://github.com/masterking32/MasterDnsVPN&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;supersplat&lt;/strong&gt;：supersplat 是一个用多种编程语言写的图形编辑器插件库，主要用来帮助游戏开发者制作高质量的地形贴图效果。它为 PlayCanvas 引擎提供了丰富的功能模块和易用的用户界面。&lt;br/&gt;项目链接：&lt;a href="https://github.com/playcanvas/supersplat"&gt;https://github.com/playcanvas/supersplat&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：agentmemory、MasterDnsVPN、supersplat，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.08｜CloakBrowser：增强网络隐私保护的创新工具涌现</title>
       <description>CloakBrowser：CloakBrowser 是一个用多种编程语言写的安全浏览器扩展，主要用来隐藏用户的真实 IP 地址和在线行为轨迹。
 项目链接：https://github.com/CloakHQ/CloakBrowser
