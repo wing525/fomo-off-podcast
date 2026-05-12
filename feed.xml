@@ -16,6 +16,30 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.12｜openhuman、AiToEarn、FadCam、hysteria：AI技术在多样化应用场景中普及与发展</title>
+      <description>openhuman：openhuman 是一个用多种编程语言写的个人 AI 超级智能助手，主要用来提供私人、简单且极其强大的 AI 服务。
+项目链接：https://github.com/tinyhumansai/openhuman
+
+AiToEarn：AiToEarn 是一个用 Node.js 编写的 AI 内容营销智能体，主要用来帮助个人公司进行内容创作、推广和分析。
+项目链接：https://github.com/yikart/AiToEarn
+
+FadCam：FadCam 是一个用 Go 语言编写的摄像头隐私保护工具，主要用来防止未经许可的照片拍摄和记录。
+项目链接：https://github.com/anonfaded/FadCam
+
+hysteria：hysteria 是一个用 Go 语言编写的网络传输工具，主要用来提供高速、安全且稳定的代理服务。
+项目链接：https://github.com/apernet/hysteria
+
+今日速报共 4 个项目：openhuman、AiToEarn、FadCam、hysteria，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-12-mp2n3hb6</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-12-lobster-12-mp2n3hb6.mp3" length="3099692" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;openhuman&lt;/strong&gt;：openhuman 是一个用多种编程语言写的个人 AI 超级智能助手，主要用来提供私人、简单且极其强大的 AI 服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/tinyhumansai/openhuman"&gt;https://github.com/tinyhumansai/openhuman&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;AiToEarn&lt;/strong&gt;：AiToEarn 是一个用 Node.js 编写的 AI 内容营销智能体，主要用来帮助个人公司进行内容创作、推广和分析。&lt;br/&gt;项目链接：&lt;a href="https://github.com/yikart/AiToEarn"&gt;https://github.com/yikart/AiToEarn&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;FadCam&lt;/strong&gt;：FadCam 是一个用 Go 语言编写的摄像头隐私保护工具，主要用来防止未经许可的照片拍摄和记录。&lt;br/&gt;项目链接：&lt;a href="https://github.com/anonfaded/FadCam"&gt;https://github.com/anonfaded/FadCam&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;hysteria&lt;/strong&gt;：hysteria 是一个用 Go 语言编写的网络传输工具，主要用来提供高速、安全且稳定的代理服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/apernet/hysteria"&gt;https://github.com/apernet/hysteria&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 4 个项目：openhuman、AiToEarn、FadCam、hysteria，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.10｜agentmemory、MasterDnsVPN、supersplat：多语言支持的工具开发与优化持续增强</title>
       <description>agentmemory：agentmemory 是一个用多种编程语言写的 AI 编程助手持久记忆库，主要用来帮助编码代理记住所有操作和信息，减少重复说明的需求。
 项目链接：https://github.com/rohitg00/agentmemory
