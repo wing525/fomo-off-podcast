@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.13｜scientific-agent-skills、supertonic、acton、spec-kit、telegraf、GTweak：跨语言的AI与开发工具创新层出不群</title>
+      <description>scientific-agent-skills：scientific-agent-skills 是一个用 Python 写的 AI 技能库，主要用来增强任何支持 Agent Skills 标准的 AI 代理的能力。
+项目链接：https://github.com/K-Dense-AI/scientific-agent-skills
+
+supertonic：supertonic 是一个用 Python 写的语音合成库，主要用来快速准确地生成高质量的人声朗读。
+项目链接：https://github.com/supertone-inc/supertonic
+
+acton：acton 是一个用 Rust 写的 TON 智能合约开发工具包，主要用来简化智能合约的整个生命周期管理。
+项目链接：https://github.com/ton-blockchain/acton
+
+spec-kit：spec-kit 是一个用 JavaScript 写的产品开发框架库，主要用来提升软件开发的效率和质量。
+项目链接：https://github.com/github/spec-kit
+
+telegraf：telegraf 是一个用 Go 写的数据收集代理库，主要用来监控系统的性能指标并上报给远程存储服务。
+项目链接：https://github.com/influxdata/telegraf
+
+GTweak：GTweak 是一个用 C# 写的 Windows 操作系统优化工具库，主要用来改进系统的性能和用户体验。
+项目链接：https://github.com/Greedeks/GTweak
+
+今日速报共 6 个项目：scientific-agent-skills、supertonic、acton、spec-kit、telegraf、GTweak，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-13-mp413pqm</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-13-lobster-13-mp413pqm.mp3" length="6281132" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;scientific-agent-skills&lt;/strong&gt;：scientific-agent-skills 是一个用 Python 写的 AI 技能库，主要用来增强任何支持 Agent Skills 标准的 AI 代理的能力。&lt;br/&gt;项目链接：&lt;a href="https://github.com/K-Dense-AI/scientific-agent-skills"&gt;https://github.com/K-Dense-AI/scientific-agent-skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;supertonic&lt;/strong&gt;：supertonic 是一个用 Python 写的语音合成库，主要用来快速准确地生成高质量的人声朗读。&lt;br/&gt;项目链接：&lt;a href="https://github.com/supertone-inc/supertonic"&gt;https://github.com/supertone-inc/supertonic&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;acton&lt;/strong&gt;：acton 是一个用 Rust 写的 TON 智能合约开发工具包，主要用来简化智能合约的整个生命周期管理。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ton-blockchain/acton"&gt;https://github.com/ton-blockchain/acton&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;spec-kit&lt;/strong&gt;：spec-kit 是一个用 JavaScript 写的产品开发框架库，主要用来提升软件开发的效率和质量。&lt;br/&gt;项目链接：&lt;a href="https://github.com/github/spec-kit"&gt;https://github.com/github/spec-kit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;telegraf&lt;/strong&gt;：telegraf 是一个用 Go 写的数据收集代理库，主要用来监控系统的性能指标并上报给远程存储服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/influxdata/telegraf"&gt;https://github.com/influxdata/telegraf&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;GTweak&lt;/strong&gt;：GTweak 是一个用 C# 写的 Windows 操作系统优化工具库，主要用来改进系统的性能和用户体验。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Greedeks/GTweak"&gt;https://github.com/Greedeks/GTweak&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：scientific-agent-skills、supertonic、acton、spec-kit、telegraf、GTweak，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.12｜openhuman、AiToEarn、FadCam、hysteria：AI技术在多样化应用场景中普及与发展</title>
       <description>openhuman：openhuman 是一个用多种编程语言写的个人 AI 超级智能助手，主要用来提供私人、简单且极其强大的 AI 服务。
 项目链接：https://github.com/tinyhumansai/openhuman
