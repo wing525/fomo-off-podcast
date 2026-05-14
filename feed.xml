@@ -16,6 +16,24 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.14｜scrcpy、supervision：提高跨平台交互和数据管理效率工具涌现</title>
+      <description>scrcpy：scrcpy 是一个用 C++ 写的安卓设备镜像工具，主要用来通过 USB 或 TCP/IP 连接将安卓设备的屏幕和音频同步到电脑，并支持使用键盘鼠标控制设备。它不需要 root 权限或在设备上安装额外的应用程序。
+项目链接：https://github.com/Genymobile/scrcpy
+
+supervision：supervision 是一个用 Python 写的数据标注辅助工具，主要用来帮助开发者高效地管理和操作机器学习的训练数据集。它提供了丰富的可视化功能，让标注过程更加直观便捷。
+项目链接：https://github.com/roboflow/supervision
+
+今日速报共 2 个项目：scrcpy、supervision，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-14-mp5jdb7b</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-14-lobster-14-mp5jdb7b.mp3" length="2661164" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;scrcpy&lt;/strong&gt;：scrcpy 是一个用 C++ 写的安卓设备镜像工具，主要用来通过 USB 或 TCP/IP 连接将安卓设备的屏幕和音频同步到电脑，并支持使用键盘鼠标控制设备。它不需要 root 权限或在设备上安装额外的应用程序。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Genymobile/scrcpy"&gt;https://github.com/Genymobile/scrcpy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;supervision&lt;/strong&gt;：supervision 是一个用 Python 写的数据标注辅助工具，主要用来帮助开发者高效地管理和操作机器学习的训练数据集。它提供了丰富的可视化功能，让标注过程更加直观便捷。&lt;br/&gt;项目链接：&lt;a href="https://github.com/roboflow/supervision"&gt;https://github.com/roboflow/supervision&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 2 个项目：scrcpy、supervision，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.13｜scientific-agent-skills、supertonic、acton、spec-kit、telegraf、GTweak：跨语言的AI与开发工具创新层出不群</title>
       <description>scientific-agent-skills：scientific-agent-skills 是一个用 Python 写的 AI 技能库，主要用来增强任何支持 Agent Skills 标准的 AI 代理的能力。
 项目链接：https://github.com/K-Dense-AI/scientific-agent-skills
