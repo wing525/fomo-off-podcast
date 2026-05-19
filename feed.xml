@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.19｜CLI-Anything、rtk、codegraph、ViMax、PhotoGIMP、erpnext：AI技术赋能软件提升效率和智能化水平</title>
+      <description>CLI-Anything：CLI-Anything 是一个用多种编程语言写的命令行接口代理工具，主要用来让所有软件都具备人工智能代理功能。
+项目链接：https://github.com/HKUDS/CLI-Anything
+
+rtk：rtk 是一个用 Rust 写的高性能命令行接口代理工具，主要用来减少大型语言模型（LLM）的令牌消耗量。
+项目链接：https://github.com/rtk-ai/rtk
+
+codegraph：codegraph 是一个用 JavaScript 写的代码智能工具，主要用来增强 Claude Code 等编码助手的功能。
+项目链接：https://github.com/colbymchenry/codegraph
+
+ViMax：ViMax 是一个用 Python 写的视频生成工具，主要用来实现自动化的视频创作。
+项目链接：https://github.com/HKUDS/ViMax
+
+PhotoGIMP：PhotoGIMP 是一个用 C 语言写的图像编辑工具，主要用来增强 GIMP 的功能。
+项目链接：https://github.com/Diolinux/PhotoGIMP
+
+erpnext：erpnext 是一个用 Python 写的企业资源计划（ERP）系统，主要用来简化企业的管理流程。
+项目链接：https://github.com/frappe/erpnext
+
+今日速报共 6 个项目：CLI-Anything、rtk、codegraph、ViMax、PhotoGIMP、erpnext，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-19-mpclzch7</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-19-lobster-19-mpclzch7.mp3" length="6255020" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;CLI-Anything&lt;/strong&gt;：CLI-Anything 是一个用多种编程语言写的命令行接口代理工具，主要用来让所有软件都具备人工智能代理功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/HKUDS/CLI-Anything"&gt;https://github.com/HKUDS/CLI-Anything&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;rtk&lt;/strong&gt;：rtk 是一个用 Rust 写的高性能命令行接口代理工具，主要用来减少大型语言模型（LLM）的令牌消耗量。&lt;br/&gt;项目链接：&lt;a href="https://github.com/rtk-ai/rtk"&gt;https://github.com/rtk-ai/rtk&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;codegraph&lt;/strong&gt;：codegraph 是一个用 JavaScript 写的代码智能工具，主要用来增强 Claude Code 等编码助手的功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/colbymchenry/codegraph"&gt;https://github.com/colbymchenry/codegraph&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ViMax&lt;/strong&gt;：ViMax 是一个用 Python 写的视频生成工具，主要用来实现自动化的视频创作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/HKUDS/ViMax"&gt;https://github.com/HKUDS/ViMax&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;PhotoGIMP&lt;/strong&gt;：PhotoGIMP 是一个用 C 语言写的图像编辑工具，主要用来增强 GIMP 的功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Diolinux/PhotoGIMP"&gt;https://github.com/Diolinux/PhotoGIMP&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;erpnext&lt;/strong&gt;：erpnext 是一个用 Python 写的企业资源计划（ERP）系统，主要用来简化企业的管理流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/frappe/erpnext"&gt;https://github.com/frappe/erpnext&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：CLI-Anything、rtk、codegraph、ViMax、PhotoGIMP、erpnext，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.14｜scrcpy、supervision：提高跨平台交互和数据管理效率工具涌现</title>
       <description>scrcpy：scrcpy 是一个用 C++ 写的安卓设备镜像工具，主要用来通过 USB 或 TCP/IP 连接将安卓设备的屏幕和音频同步到电脑，并支持使用键盘鼠标控制设备。它不需要 root 权限或在设备上安装额外的应用程序。
 项目链接：https://github.com/Genymobile/scrcpy
