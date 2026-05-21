@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.22｜OpenWA、forge、skills、streambert、notebooklm-py、oh-my-pi：多语言支持的AI工具助力自动化和数据分析</title>
+      <description>OpenWA：OpenWA 是一个用多种编程语言写的应用程序接口网关，主要用来连接 WhatsApp 的 API，实现自动化消息发送和接收等功能。
+项目链接：https://github.com/rmyndharis/OpenWA
+
+forge：forge 是一个用 Python 写的框架，主要用来构建和管理可靠的工作流。
+项目链接：https://github.com/antoinezambelli/forge
+
+skills：skills 是一个用多种编程语言写的技能库，主要用来提供 .NET 团队的定制化插件。
+项目链接：https://github.com/dotnet/skills
+
+streambert：streambert 是一个用多种编程语言写的流处理系统，主要用来分析和转换大量数据。
+项目链接：https://github.com/truelockmc/streambert
+
+notebooklm-py：notebooklm-py 是一个用 Python 写的库，主要用来访问 NotebookLM 的功能。
+项目链接：https://github.com/teng-lin/notebooklm-py
+
+oh-my-pi：oh-my-pi 是一个用多种编程语言写的开发助手，主要用来集成到 IDE 中。
+项目链接：https://github.com/can1357/oh-my-pi
+
+今日速报共 6 个项目：OpenWA、forge、skills、streambert、notebooklm-py、oh-my-pi，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-22-mpg30yth</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-22-lobster-22-mpg30yth.mp3" length="5882540" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;OpenWA&lt;/strong&gt;：OpenWA 是一个用多种编程语言写的应用程序接口网关，主要用来连接 WhatsApp 的 API，实现自动化消息发送和接收等功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/rmyndharis/OpenWA"&gt;https://github.com/rmyndharis/OpenWA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;forge&lt;/strong&gt;：forge 是一个用 Python 写的框架，主要用来构建和管理可靠的工作流。&lt;br/&gt;项目链接：&lt;a href="https://github.com/antoinezambelli/forge"&gt;https://github.com/antoinezambelli/forge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;skills&lt;/strong&gt;：skills 是一个用多种编程语言写的技能库，主要用来提供 .NET 团队的定制化插件。&lt;br/&gt;项目链接：&lt;a href="https://github.com/dotnet/skills"&gt;https://github.com/dotnet/skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;streambert&lt;/strong&gt;：streambert 是一个用多种编程语言写的流处理系统，主要用来分析和转换大量数据。&lt;br/&gt;项目链接：&lt;a href="https://github.com/truelockmc/streambert"&gt;https://github.com/truelockmc/streambert&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;notebooklm-py&lt;/strong&gt;：notebooklm-py 是一个用 Python 写的库，主要用来访问 NotebookLM 的功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/teng-lin/notebooklm-py"&gt;https://github.com/teng-lin/notebooklm-py&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;oh-my-pi&lt;/strong&gt;：oh-my-pi 是一个用多种编程语言写的开发助手，主要用来集成到 IDE 中。&lt;br/&gt;项目链接：&lt;a href="https://github.com/can1357/oh-my-pi"&gt;https://github.com/can1357/oh-my-pi&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：OpenWA、forge、skills、streambert、notebooklm-py、oh-my-pi，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.19｜CLI-Anything、rtk、codegraph、ViMax、PhotoGIMP、erpnext：AI技术赋能软件提升效率和智能化水平</title>
       <description>CLI-Anything：CLI-Anything 是一个用多种编程语言写的命令行接口代理工具，主要用来让所有软件都具备人工智能代理功能。
 项目链接：https://github.com/HKUDS/CLI-Anything
