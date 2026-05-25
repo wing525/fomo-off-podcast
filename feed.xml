@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.25｜knowledge-work-plugins、cmux、taste-skill：AI工具集成与定制化增强工作效率</title>
+      <description>knowledge-work-plugins：knowledge-work-plugins 是一个用 Python 写的插件库，主要用来定制化 Claude 的功能以适应特定的工作场景和团队需求。
+项目链接：https://github.com/anthropics/knowledge-work-plugins
+
+cmux：cmux 是一个 macOS 终端工具，主要用来提供垂直标签页和通知功能，方便 AI 编码助手的集成与管理。它基于 Ghostty 构建，提供了丰富的用户界面和快捷操作方式。
+项目链接：https://github.com/manaflow-ai/cmux
+
+taste-skill：taste-skill 是一个用 TypeScript 写的前端框架，主要用来优化 AI 代理在高级前端开发中的表现。它通过减少冗余代码和提高可维护性来提升整体效率。
+项目链接：https://github.com/Leonxlnx/taste-skill
+
+今日速报共 3 个项目：knowledge-work-plugins、cmux、taste-skill，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-25-mpl45zw3</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-25-lobster-25-mpl45zw3.mp3" length="4042028" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;knowledge-work-plugins&lt;/strong&gt;：knowledge-work-plugins 是一个用 Python 写的插件库，主要用来定制化 Claude 的功能以适应特定的工作场景和团队需求。&lt;br/&gt;项目链接：&lt;a href="https://github.com/anthropics/knowledge-work-plugins"&gt;https://github.com/anthropics/knowledge-work-plugins&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cmux&lt;/strong&gt;：cmux 是一个 macOS 终端工具，主要用来提供垂直标签页和通知功能，方便 AI 编码助手的集成与管理。它基于 Ghostty 构建，提供了丰富的用户界面和快捷操作方式。&lt;br/&gt;项目链接：&lt;a href="https://github.com/manaflow-ai/cmux"&gt;https://github.com/manaflow-ai/cmux&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;taste-skill&lt;/strong&gt;：taste-skill 是一个用 TypeScript 写的前端框架，主要用来优化 AI 代理在高级前端开发中的表现。它通过减少冗余代码和提高可维护性来提升整体效率。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Leonxlnx/taste-skill"&gt;https://github.com/Leonxlnx/taste-skill&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：knowledge-work-plugins、cmux、taste-skill，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.22｜OpenWA、forge、skills、streambert、notebooklm-py、oh-my-pi：多语言支持的AI工具助力自动化和数据分析</title>
       <description>OpenWA：OpenWA 是一个用多种编程语言写的应用程序接口网关，主要用来连接 WhatsApp 的 API，实现自动化消息发送和接收等功能。
 项目链接：https://github.com/rmyndharis/OpenWA
