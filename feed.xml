@@ -16,6 +16,33 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.28｜ECC、harness、MOSS-TTS、crawl4ai、twenty：多语言AI工具库简化复杂任务管理执行</title>
+      <description>ECC：ECC 是一个用多种编程语言写的系统，主要用来管理复杂的人工智能工作流程。它提供一套完整的操作体系和丰富的模板库，帮助用户快速搭建和优化复杂的任务流。
+项目链接：https://github.com/affaan-m/ECC
+
+harness：harness 是一个用多种编程语言写的 AI 工具库，主要用来简化任务管理和执行。它提供了一个简洁的接口来编写复杂的自动化脚本，并且支持实时调试和性能监控。
+项目链接：https://github.com/revfactory/harness
+
+MOSS-TTS：MOSS-TTS 是一个用多种编程语言写的 AI 音频合成工具库，主要用来生成高质量的人声。它提供了一个易用的接口来定制化语音输出，并且支持大量的音频格式转换和编辑功能。
+项目链接：https://github.com/OpenMOSS/MOSS-TTS
+
+crawl4ai：crawl4ai 是一个用多种编程语言写的 AI 爬虫库，主要用来抓取网络上的数据。它提供了一个简单易用的接口来编写复杂的爬虫任务，并且支持多线程、分布式执行等高级功能。
+项目链接：https://github.com/unclecode/crawl4ai
+
+twenty：twenty 是一个用多种编程语言写的 AI 客户关系管理系统，主要用来提升企业的销售和服务效率。它提供了一个全面的功能集来管理和分析客户数据，并且支持自定义插件扩展功能。
+项目链接：https://github.com/twentyhq/twenty
+
+今日速报共 5 个项目：ECC、harness、MOSS-TTS、crawl4ai、twenty，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-28-mppdpsfq</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-28-lobster-28-mppdpsfq.mp3" length="6127532" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ECC&lt;/strong&gt;：ECC 是一个用多种编程语言写的系统，主要用来管理复杂的人工智能工作流程。它提供一套完整的操作体系和丰富的模板库，帮助用户快速搭建和优化复杂的任务流。&lt;br/&gt;项目链接：&lt;a href="https://github.com/affaan-m/ECC"&gt;https://github.com/affaan-m/ECC&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;harness&lt;/strong&gt;：harness 是一个用多种编程语言写的 AI 工具库，主要用来简化任务管理和执行。它提供了一个简洁的接口来编写复杂的自动化脚本，并且支持实时调试和性能监控。&lt;br/&gt;项目链接：&lt;a href="https://github.com/revfactory/harness"&gt;https://github.com/revfactory/harness&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MOSS-TTS&lt;/strong&gt;：MOSS-TTS 是一个用多种编程语言写的 AI 音频合成工具库，主要用来生成高质量的人声。它提供了一个易用的接口来定制化语音输出，并且支持大量的音频格式转换和编辑功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/OpenMOSS/MOSS-TTS"&gt;https://github.com/OpenMOSS/MOSS-TTS&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;crawl4ai&lt;/strong&gt;：crawl4ai 是一个用多种编程语言写的 AI 爬虫库，主要用来抓取网络上的数据。它提供了一个简单易用的接口来编写复杂的爬虫任务，并且支持多线程、分布式执行等高级功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/unclecode/crawl4ai"&gt;https://github.com/unclecode/crawl4ai&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;twenty&lt;/strong&gt;：twenty 是一个用多种编程语言写的 AI 客户关系管理系统，主要用来提升企业的销售和服务效率。它提供了一个全面的功能集来管理和分析客户数据，并且支持自定义插件扩展功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/twentyhq/twenty"&gt;https://github.com/twentyhq/twenty&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 5 个项目：ECC、harness、MOSS-TTS、crawl4ai、twenty，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.27｜ECC、heretic、iii、twenty：自动化与集成简化成企业与技术互动的核心趋势</title>
       <description>ECC：ECC 是一个用 JavaScript 写的操作系统，主要用来帮助管理和自动化代理工作流程。它可以通过简单的配置文件来定义和管理各种操作任务，并提供了一个用户友好的界面来进行监控和调试。
 项目链接：https://github.com/affaan-m/ECC
