@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.05.31｜pi-subagents、hermes-webui、VoxCPM：跨语言多代理系统和语音生成技术发展迅速</title>
+      <description>pi-subagents：pi-subagents 是一个用多种编程语言写的多代理框架，主要用来将工作分派给多个子代理完成。
+项目链接：https://github.com/nicobailon/pi-subagents
+
+hermes-webui：hermes-webui 是一个用 Python 和 JavaScript 写的轻量级网页界面工具，主要用来访问 Hermes Agent 并提供完整的 CLI 终端体验。
+项目链接：https://github.com/nesquena/hermes-webui
+
+VoxCPM：VoxCPM 是一个用多种编程语言写的多语种语音生成框架，主要用来创建真实度高且具有创意设计的语音内容。
+项目链接：https://github.com/OpenBMB/VoxCPM
+
+今日速报共 3 个项目：pi-subagents、hermes-webui、VoxCPM，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-05-31-mpts96us</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-05-31-lobster-31-mpts96us.mp3" length="3364268" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;pi-subagents&lt;/strong&gt;：pi-subagents 是一个用多种编程语言写的多代理框架，主要用来将工作分派给多个子代理完成。&lt;br/&gt;项目链接：&lt;a href="https://github.com/nicobailon/pi-subagents"&gt;https://github.com/nicobailon/pi-subagents&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;hermes-webui&lt;/strong&gt;：hermes-webui 是一个用 Python 和 JavaScript 写的轻量级网页界面工具，主要用来访问 Hermes Agent 并提供完整的 CLI 终端体验。&lt;br/&gt;项目链接：&lt;a href="https://github.com/nesquena/hermes-webui"&gt;https://github.com/nesquena/hermes-webui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;VoxCPM&lt;/strong&gt;：VoxCPM 是一个用多种编程语言写的多语种语音生成框架，主要用来创建真实度高且具有创意设计的语音内容。&lt;br/&gt;项目链接：&lt;a href="https://github.com/OpenBMB/VoxCPM"&gt;https://github.com/OpenBMB/VoxCPM&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：pi-subagents、hermes-webui、VoxCPM，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.30｜compound-engineering-plugin、stable-worldmodel、liteparse、plugins、claude-code：多语言工具化提升开发效率与可维护性</title>
       <description>compound-engineering-plugin：compound-engineering-plugin 是一个用 JavaScript 写的插件库，主要用来简化工程开发流程中的每个步骤。
 项目链接：https://github.com/EveryInc/compound-engineering-plugin
