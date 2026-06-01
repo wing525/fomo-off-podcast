@@ -16,6 +16,24 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.01｜fff、godot：多语言支持的开发工具包加速内容创作和搜索效率</title>
+      <description>fff：fff 是一个用多种编程语言写的文件搜索工具包，主要用来帮助人类和 AI 代理快速、准确地查找文件。
+项目链接：https://github.com/dmtrKovalenko/fff
+
+godot：godot 是一个用多种编程语言写的跨平台游戏引擎，主要用来创建 2D 和 3D 游戏。它提供了一整套常用工具，让用户可以专注于创作游戏而不是从零开始构建功能。
+项目链接：https://github.com/godotengine/godot
+
+今日速报共 2 个项目：fff、godot，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-01-mpv7pcaa</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-01-lobster-01-mpv7pcaa.mp3" length="2248748" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;fff&lt;/strong&gt;：fff 是一个用多种编程语言写的文件搜索工具包，主要用来帮助人类和 AI 代理快速、准确地查找文件。&lt;br/&gt;项目链接：&lt;a href="https://github.com/dmtrKovalenko/fff"&gt;https://github.com/dmtrKovalenko/fff&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;godot&lt;/strong&gt;：godot 是一个用多种编程语言写的跨平台游戏引擎，主要用来创建 2D 和 3D 游戏。它提供了一整套常用工具，让用户可以专注于创作游戏而不是从零开始构建功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/godotengine/godot"&gt;https://github.com/godotengine/godot&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 2 个项目：fff、godot，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.05.31｜pi-subagents、hermes-webui、VoxCPM：跨语言多代理系统和语音生成技术发展迅速</title>
       <description>pi-subagents：pi-subagents 是一个用多种编程语言写的多代理框架，主要用来将工作分派给多个子代理完成。
 项目链接：https://github.com/nicobailon/pi-subagents
