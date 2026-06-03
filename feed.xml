@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.04｜headroom、Vibe-Trading、airllm、trivy、opendataloader-pdf、odoo：开源工具助力高效安全的数据处理与管理</title>
+      <description>headroom：headroom 是一个用多种语言写的库，主要用来压缩上下文信息以减少 AI 模型的使用令牌数量。它可以帮助大幅降低大模型运行时的内存消耗和成本。
+项目链接：https://github.com/chopratejas/headroom
+
+Vibe-Trading：Vibe-Trading 是一个用 Python 写的交易代理工具，主要用来自动化个人投资和交易流程。用户可以用一条命令轻松实现全面的交易功能。
+项目链接：https://github.com/HKUDS/Vibe-Trading
+
+airllm：airllm 是一个优化大型语言模型推理内存使用的工具库，主要用来在小规模硬件上高效运行大模型。它让70B参数的模型能在4GB GPU卡上直接进行推理而不需要额外的量化或压缩技术。
+项目链接：https://github.com/lyogavin/airllm
+
+trivy：trivy 是一个全面的开源安全扫描工具库，主要用来检测容器镜像、文件系统及 Git 存储库中的漏洞与配置风险。它可以帮助团队确保软件供应链的安全性。
+项目链接：https://github.com/aquasecurity/trivy
+
+opendataloader-pdf：opendataloader-pdf 是一个开源数据提取库，主要用来从 PDF 文件中抽取结构化数据，并将其转化为 Markdown、JSON 等格式。它支持多种输入输出类型，能够满足不同的需求场景。
+项目链接：https://github.com/opendataloader-project/opendataloader-pdf
+
+odoo：odoo 是一个用 Python 写的企业级应用套件，主要用来构建各类业务管理系统。它提供了丰富的内置模块以及灵活的定制能力，能够满足不同规模企业的多种需求场景。
+项目链接：https://github.com/odoo/odoo
+
+今日速报共 6 个项目：headroom、Vibe-Trading、airllm、trivy、opendataloader-pdf、odoo，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-04-mpyo5mmv</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-04-lobster-04-mpyo5mmv.mp3" length="6855212" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;headroom&lt;/strong&gt;：headroom 是一个用多种语言写的库，主要用来压缩上下文信息以减少 AI 模型的使用令牌数量。它可以帮助大幅降低大模型运行时的内存消耗和成本。&lt;br/&gt;项目链接：&lt;a href="https://github.com/chopratejas/headroom"&gt;https://github.com/chopratejas/headroom&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Vibe-Trading&lt;/strong&gt;：Vibe-Trading 是一个用 Python 写的交易代理工具，主要用来自动化个人投资和交易流程。用户可以用一条命令轻松实现全面的交易功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/HKUDS/Vibe-Trading"&gt;https://github.com/HKUDS/Vibe-Trading&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;airllm&lt;/strong&gt;：airllm 是一个优化大型语言模型推理内存使用的工具库，主要用来在小规模硬件上高效运行大模型。它让70B参数的模型能在4GB GPU卡上直接进行推理而不需要额外的量化或压缩技术。&lt;br/&gt;项目链接：&lt;a href="https://github.com/lyogavin/airllm"&gt;https://github.com/lyogavin/airllm&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;trivy&lt;/strong&gt;：trivy 是一个全面的开源安全扫描工具库，主要用来检测容器镜像、文件系统及 Git 存储库中的漏洞与配置风险。它可以帮助团队确保软件供应链的安全性。&lt;br/&gt;项目链接：&lt;a href="https://github.com/aquasecurity/trivy"&gt;https://github.com/aquasecurity/trivy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;opendataloader-pdf&lt;/strong&gt;：opendataloader-pdf 是一个开源数据提取库，主要用来从 PDF 文件中抽取结构化数据，并将其转化为 Markdown、JSON 等格式。它支持多种输入输出类型，能够满足不同的需求场景。&lt;br/&gt;项目链接：&lt;a href="https://github.com/opendataloader-project/opendataloader-pdf"&gt;https://github.com/opendataloader-project/opendataloader-pdf&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;odoo&lt;/strong&gt;：odoo 是一个用 Python 写的企业级应用套件，主要用来构建各类业务管理系统。它提供了丰富的内置模块以及灵活的定制能力，能够满足不同规模企业的多种需求场景。&lt;br/&gt;项目链接：&lt;a href="https://github.com/odoo/odoo"&gt;https://github.com/odoo/odoo&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：headroom、Vibe-Trading、airllm、trivy、opendataloader-pdf、odoo，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.01｜fff、godot：多语言支持的开发工具包加速内容创作和搜索效率</title>
       <description>fff：fff 是一个用多种编程语言写的文件搜索工具包，主要用来帮助人类和 AI 代理快速、准确地查找文件。
 项目链接：https://github.com/dmtrKovalenko/fff
