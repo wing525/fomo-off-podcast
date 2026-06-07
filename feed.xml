@@ -16,6 +16,30 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.08｜tolaria、turbovec、pg_durable、llama：提升效率与性能的创新编程工具涌现</title>
+      <description>tolaria：tolaria 是一个桌面应用程序，主要用来管理和优化代码质量。
+项目链接：https://github.com/refactoringhq/tolaria
+
+turbovec：turbovec 是一个用 Python 写的数据处理库，主要用来加速向量搜索操作。
+项目链接：https://github.com/RyanCodrai/turbovec
+
+pg_durable：pg_durable 是一个用 Rust 写的数据持久化库，主要用来实现长时间运行且容错的 SQL 函数。
+项目链接：https://github.com/microsoft/pg_durable
+
+llama：llama 是一个用 C++ 写的 AI 推理引擎，主要用来运行和优化大规模语言模型。
+项目链接：https://github.com/ggml-org/llama.cpp
+
+今日速报共 4 个项目：tolaria、turbovec、pg_durable、llama，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-08-mq4do18t</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-08-lobster-08-mq4do18t.mp3" length="3266348" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;tolaria&lt;/strong&gt;：tolaria 是一个桌面应用程序，主要用来管理和优化代码质量。&lt;br/&gt;项目链接：&lt;a href="https://github.com/refactoringhq/tolaria"&gt;https://github.com/refactoringhq/tolaria&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;turbovec&lt;/strong&gt;：turbovec 是一个用 Python 写的数据处理库，主要用来加速向量搜索操作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/RyanCodrai/turbovec"&gt;https://github.com/RyanCodrai/turbovec&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;pg_durable&lt;/strong&gt;：pg_durable 是一个用 Rust 写的数据持久化库，主要用来实现长时间运行且容错的 SQL 函数。&lt;br/&gt;项目链接：&lt;a href="https://github.com/microsoft/pg_durable"&gt;https://github.com/microsoft/pg_durable&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;llama&lt;/strong&gt;：llama 是一个用 C++ 写的 AI 推理引擎，主要用来运行和优化大规模语言模型。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ggml-org/llama.cpp"&gt;https://github.com/ggml-org/llama.cpp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 4 个项目：tolaria、turbovec、pg_durable、llama，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.07｜mxc、mempalace、Agent-Reach、CopilotKit、nginx、vite：跨平台安全执行与高效开发成为主流方向</title>
       <description>mxc：mxc 是一个用 TypeScript 写的沙箱化代码执行系统，主要用来安全地运行不可信代码（模型输出、插件和工具）在 Windows、Linux 和 macOS 上。它提供了多种包含后端，并且有一个统一的 JSON 配置模式和 TypeScript SDK。
 项目链接：https://github.com/microsoft/mxc
