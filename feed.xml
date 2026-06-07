@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.07｜mxc、mempalace、Agent-Reach、CopilotKit、nginx、vite：跨平台安全执行与高效开发成为主流方向</title>
+      <description>mxc：mxc 是一个用 TypeScript 写的沙箱化代码执行系统，主要用来安全地运行不可信代码（模型输出、插件和工具）在 Windows、Linux 和 macOS 上。它提供了多种包含后端，并且有一个统一的 JSON 配置模式和 TypeScript SDK。
+项目链接：https://github.com/microsoft/mxc
+
+mempalace：mempalace 是一个用 Python 写的本地化 AI 记忆存储库，主要用来实现真实准确的记忆存储。它可以将后端插件化，并且在 LongMemEval 上达到 96.6% 的准确率——完全没有使用 API 调用。
+项目链接：https://github.com/MemPalace/mempalace
+
+Agent-Reach：Agent-Reach 是一个用 Python 写的互联网接入工具，主要用来给 AI 助手提供一键连接互联网的能力。它通过简单的配置就能让助手访问在线资源和服务。
+项目链接：https://github.com/Panniantong/Agent-Reach
+
+CopilotKit：CopilotKit 是一个用 TypeScript 写的应用开发框架，主要用来构建以代理为中心的原生应用。它支持在任何框架上进行生成式 UI 设计，并提供共享状态管理和人类介入的工作流程。
+项目链接：https://github.com/CopilotKit/CopilotKit
+
+nginx：nginx 是一个用 C 写的高性能 Web 服务器，主要用来提供高效的 HTTP 和 HTTPS 连接。它支持多种功能模块，并且可以作为代理服务器或邮件服务器运行。
+项目链接：https://github.com/nginx/nginx
+
+vite：vite 是一个用 JavaScript 写的前端开发工具，主要用来加速 Web 开发过程。它提供了一个高效的模块化构建系统，并且支持实时热更新功能。
+项目链接：https://github.com/vitejs/vite
+
+今日速报共 6 个项目：mxc、mempalace、Agent-Reach、CopilotKit、nginx、vite，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-07-mq375c8m</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-07-lobster-07-mq375c8m.mp3" length="6784940" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;mxc&lt;/strong&gt;：mxc 是一个用 TypeScript 写的沙箱化代码执行系统，主要用来安全地运行不可信代码（模型输出、插件和工具）在 Windows、Linux 和 macOS 上。它提供了多种包含后端，并且有一个统一的 JSON 配置模式和 TypeScript SDK。&lt;br/&gt;项目链接：&lt;a href="https://github.com/microsoft/mxc"&gt;https://github.com/microsoft/mxc&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mempalace&lt;/strong&gt;：mempalace 是一个用 Python 写的本地化 AI 记忆存储库，主要用来实现真实准确的记忆存储。它可以将后端插件化，并且在 LongMemEval 上达到 96.6% 的准确率——完全没有使用 API 调用。&lt;br/&gt;项目链接：&lt;a href="https://github.com/MemPalace/mempalace"&gt;https://github.com/MemPalace/mempalace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Agent-Reach&lt;/strong&gt;：Agent-Reach 是一个用 Python 写的互联网接入工具，主要用来给 AI 助手提供一键连接互联网的能力。它通过简单的配置就能让助手访问在线资源和服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Panniantong/Agent-Reach"&gt;https://github.com/Panniantong/Agent-Reach&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CopilotKit&lt;/strong&gt;：CopilotKit 是一个用 TypeScript 写的应用开发框架，主要用来构建以代理为中心的原生应用。它支持在任何框架上进行生成式 UI 设计，并提供共享状态管理和人类介入的工作流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/CopilotKit/CopilotKit"&gt;https://github.com/CopilotKit/CopilotKit&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;nginx&lt;/strong&gt;：nginx 是一个用 C 写的高性能 Web 服务器，主要用来提供高效的 HTTP 和 HTTPS 连接。它支持多种功能模块，并且可以作为代理服务器或邮件服务器运行。&lt;br/&gt;项目链接：&lt;a href="https://github.com/nginx/nginx"&gt;https://github.com/nginx/nginx&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;vite&lt;/strong&gt;：vite 是一个用 JavaScript 写的前端开发工具，主要用来加速 Web 开发过程。它提供了一个高效的模块化构建系统，并且支持实时热更新功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/vitejs/vite"&gt;https://github.com/vitejs/vite&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：mxc、mempalace、Agent-Reach、CopilotKit、nginx、vite，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.04｜headroom、Vibe-Trading、airllm、trivy、opendataloader-pdf、odoo：开源工具助力高效安全的数据处理与管理</title>
       <description>headroom：headroom 是一个用多种语言写的库，主要用来压缩上下文信息以减少 AI 模型的使用令牌数量。它可以帮助大幅降低大模型运行时的内存消耗和成本。
 项目链接：https://github.com/chopratejas/headroom
