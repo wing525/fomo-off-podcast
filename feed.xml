@@ -16,6 +16,24 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.09｜skills、whichllm：AI工具聚焦特定任务提升开发效率智能化管理</title>
+      <description>skills：skills 是一个用 Shell 写的 AI 编程技能库，主要用来管理 Google Cloud 和其他技术产品的 Agent Skills。
+项目链接：https://github.com/google/skills
+
+whichllm：whichllm 是一个用 Python 写的 AI 模型识别工具，主要用来检测代码段使用的大型语言模型类型。
+项目链接：https://github.com/Andyyyy64/whichllm
+
+今日速报共 2 个项目：skills、whichllm，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-09-mq5t5dbk</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-09-lobster-09-mq5t5dbk.mp3" length="2316332" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;skills&lt;/strong&gt;：skills 是一个用 Shell 写的 AI 编程技能库，主要用来管理 Google Cloud 和其他技术产品的 Agent Skills。&lt;br/&gt;项目链接：&lt;a href="https://github.com/google/skills"&gt;https://github.com/google/skills&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;whichllm&lt;/strong&gt;：whichllm 是一个用 Python 写的 AI 模型识别工具，主要用来检测代码段使用的大型语言模型类型。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Andyyyy64/whichllm"&gt;https://github.com/Andyyyy64/whichllm&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 2 个项目：skills、whichllm，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.08｜tolaria、turbovec、pg_durable、llama：提升效率与性能的创新编程工具涌现</title>
       <description>tolaria：tolaria 是一个桌面应用程序，主要用来管理和优化代码质量。
 项目链接：https://github.com/refactoringhq/tolaria
