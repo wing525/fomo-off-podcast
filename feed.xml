@@ -16,6 +16,33 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.12｜agentsview、SkillSpector、restic、mattermost、chatwoot：多种编程语言开发的工具助力AI应用管理与安全防护</title>
+      <description>agentsview：agentsview 是一个用 Shell 写的浏览器和追踪成本工具，主要用来管理和分析你的 AI 编码代理的成本和使用情况。
+项目链接：https://github.com/kenn-io/agentsview
+
+SkillSpector：SkillSpector 是一个用 Python 写的安全扫描工具，主要用来检测 AI 代理技能中的漏洞和安全风险。
+项目链接：https://github.com/NVIDIA/SkillSpector
+
+restic：restic 是一个用 Go 写的备份程序，主要用来快速、高效地进行数据备份。
+项目链接：https://github.com/restic/restic
+
+mattermost：mattermost 是一个用 Go 和 React 写的自托管协作平台，主要用来进行聊天交流、工作流程自动化等操作。
+项目链接：https://github.com/mattermost/mattermost
+
+chatwoot：chatwoot 是一个用 Ruby 写的支持客户支持平台，主要用来提供类似 Intercom 和 Zendesk 的功能。
+项目链接：https://github.com/chatwoot/chatwoot
+
+今日速报共 5 个项目：agentsview、SkillSpector、restic、mattermost、chatwoot，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-12-mqa4e86c</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-12-lobster-12-mqa4e86c.mp3" length="5522732" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;agentsview&lt;/strong&gt;：agentsview 是一个用 Shell 写的浏览器和追踪成本工具，主要用来管理和分析你的 AI 编码代理的成本和使用情况。&lt;br/&gt;项目链接：&lt;a href="https://github.com/kenn-io/agentsview"&gt;https://github.com/kenn-io/agentsview&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;SkillSpector&lt;/strong&gt;：SkillSpector 是一个用 Python 写的安全扫描工具，主要用来检测 AI 代理技能中的漏洞和安全风险。&lt;br/&gt;项目链接：&lt;a href="https://github.com/NVIDIA/SkillSpector"&gt;https://github.com/NVIDIA/SkillSpector&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;restic&lt;/strong&gt;：restic 是一个用 Go 写的备份程序，主要用来快速、高效地进行数据备份。&lt;br/&gt;项目链接：&lt;a href="https://github.com/restic/restic"&gt;https://github.com/restic/restic&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;mattermost&lt;/strong&gt;：mattermost 是一个用 Go 和 React 写的自托管协作平台，主要用来进行聊天交流、工作流程自动化等操作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/mattermost/mattermost"&gt;https://github.com/mattermost/mattermost&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;chatwoot&lt;/strong&gt;：chatwoot 是一个用 Ruby 写的支持客户支持平台，主要用来提供类似 Intercom 和 Zendesk 的功能。&lt;br/&gt;项目链接：&lt;a href="https://github.com/chatwoot/chatwoot"&gt;https://github.com/chatwoot/chatwoot&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 5 个项目：agentsview、SkillSpector、restic、mattermost、chatwoot，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.11｜hivemind、openmed、container：AI与编程工具结合推动行业自动化进程</title>
       <description>hivemind：hivemind 是一个用 Python 写的 AI 协作框架，主要用来管理多个 AI 代理之间的通信和协作。
 项目链接：https://github.com/activeloopai/hivemind
