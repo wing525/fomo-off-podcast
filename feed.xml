@@ -16,6 +16,27 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.11｜hivemind、openmed、container：AI与编程工具结合推动行业自动化进程</title>
+      <description>hivemind：hivemind 是一个用 Python 写的 AI 协作框架，主要用来管理多个 AI 代理之间的通信和协作。
+项目链接：https://github.com/activeloopai/hivemind
+
+openmed：openmed 是一个用 Python 写的医疗文本处理工具，主要用来将临床文档转换成结构化数据。
+项目链接：https://github.com/maziyarpanahi/openmed
+
+container：container 是一个用 Swift 写的容器化工具，主要用来在 Mac 上创建和运行 Linux 容器。
+项目链接：https://github.com/apple/container
+
+今日速报共 3 个项目：hivemind、openmed、container，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-11-mq8ppctf</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-11-lobster-11-mq8ppctf.mp3" length="3264428" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;hivemind&lt;/strong&gt;：hivemind 是一个用 Python 写的 AI 协作框架，主要用来管理多个 AI 代理之间的通信和协作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/activeloopai/hivemind"&gt;https://github.com/activeloopai/hivemind&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;openmed&lt;/strong&gt;：openmed 是一个用 Python 写的医疗文本处理工具，主要用来将临床文档转换成结构化数据。&lt;br/&gt;项目链接：&lt;a href="https://github.com/maziyarpanahi/openmed"&gt;https://github.com/maziyarpanahi/openmed&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;container&lt;/strong&gt;：container 是一个用 Swift 写的容器化工具，主要用来在 Mac 上创建和运行 Linux 容器。&lt;br/&gt;项目链接：&lt;a href="https://github.com/apple/container"&gt;https://github.com/apple/container&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 3 个项目：hivemind、openmed、container，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.09｜skills、whichllm：AI工具聚焦特定任务提升开发效率智能化管理</title>
       <description>skills：skills 是一个用 Shell 写的 AI 编程技能库，主要用来管理 Google Cloud 和其他技术产品的 Agent Skills。
 项目链接：https://github.com/google/skills
