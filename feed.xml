@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.19｜zvec、LibreTranslate、flue、insomnia、iroh、universal-android-debloater-next-generation：开源工具助力开发效率与用户体验优化</title>
+      <description>zvec：zvec 是一个用 Rust 写的数据可视化库，主要用来将复杂数据集通过图表形式展现出来。它内置了多种图表类型和配置选项，使得用户可以根据不同的需求快速生成清晰直观的数据展示图。支持自定义样式及交互效果，方便在网页或桌面应用中集成使用。
+项目链接：https://github.com/alibaba/zvec
+
+LibreTranslate：LibreTranslate 是一个用 Python 写的语言翻译服务框架，主要用来实现网站或应用中的多语言支持。它通过简单的 API 接口提供了多种机器翻译引擎的接入能力，并允许用户根据需要进行配置和扩展功能。同时提供详尽的技术文档及社区支持以方便开发者快速集成使用。
+项目链接：https://github.com/LibreTranslate/LibreTranslate
+
+flue：flue 是一个用 TypeScript 写的自主代理框架，主要用来构建可编程的工作流程和服务。它支持多种语言技能包的集成，并能够为复杂任务提供智能路由与执行策略。用户可以通过编写定制代码来增强代理的功能并实现自动化工作流管理。
+项目链接：https://github.com/withastro/flue
+
+insomnia：insomnia 是一个用 JavaScript 写的 API 客户端工具，主要用来管理 RESTful API 的请求与响应。它提供了丰富的功能模块，包括断点调试、数据可视化以及团队协作等特性，使得开发者可以更高效地进行接口开发和测试工作。
+项目链接：https://github.com/Kong/insomnia
+
+iroh：iroh 是一个用 Rust 写的网络通信框架，主要用来提高互联网连接效率与安全性。它通过优化传输协议来减少冗余的数据交换并提升带宽利用率，同时还可以帮助用户避免不必要的隐私泄露风险。
+项目链接：https://github.com/n0-computer/iroh
+
+universal-android-debloater-next-generation：universal-android-debloater-next-generation 是一个用 Python 写的安卓设备清理工具，主要用来删除不必要的系统应用以提升手机性能。它提供了一个图形界面让用户可以直观地选择并卸载不需要的应用程序，并且支持自动化的批量操作模式来简化维护工作流程。
+项目链接：https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+
+今日速报共 6 个项目：zvec、LibreTranslate、flue、insomnia、iroh、universal-android-debloater-next-generation，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-19-mqkp6qyp</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-19-lobster-19-mqkp6qyp.mp3" length="6329132" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;zvec&lt;/strong&gt;：zvec 是一个用 Rust 写的数据可视化库，主要用来将复杂数据集通过图表形式展现出来。它内置了多种图表类型和配置选项，使得用户可以根据不同的需求快速生成清晰直观的数据展示图。支持自定义样式及交互效果，方便在网页或桌面应用中集成使用。&lt;br/&gt;项目链接：&lt;a href="https://github.com/alibaba/zvec"&gt;https://github.com/alibaba/zvec&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;LibreTranslate&lt;/strong&gt;：LibreTranslate 是一个用 Python 写的语言翻译服务框架，主要用来实现网站或应用中的多语言支持。它通过简单的 API 接口提供了多种机器翻译引擎的接入能力，并允许用户根据需要进行配置和扩展功能。同时提供详尽的技术文档及社区支持以方便开发者快速集成使用。&lt;br/&gt;项目链接：&lt;a href="https://github.com/LibreTranslate/LibreTranslate"&gt;https://github.com/LibreTranslate/LibreTranslate&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;flue&lt;/strong&gt;：flue 是一个用 TypeScript 写的自主代理框架，主要用来构建可编程的工作流程和服务。它支持多种语言技能包的集成，并能够为复杂任务提供智能路由与执行策略。用户可以通过编写定制代码来增强代理的功能并实现自动化工作流管理。&lt;br/&gt;项目链接：&lt;a href="https://github.com/withastro/flue"&gt;https://github.com/withastro/flue&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;insomnia&lt;/strong&gt;：insomnia 是一个用 JavaScript 写的 API 客户端工具，主要用来管理 RESTful API 的请求与响应。它提供了丰富的功能模块，包括断点调试、数据可视化以及团队协作等特性，使得开发者可以更高效地进行接口开发和测试工作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Kong/insomnia"&gt;https://github.com/Kong/insomnia&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;iroh&lt;/strong&gt;：iroh 是一个用 Rust 写的网络通信框架，主要用来提高互联网连接效率与安全性。它通过优化传输协议来减少冗余的数据交换并提升带宽利用率，同时还可以帮助用户避免不必要的隐私泄露风险。&lt;br/&gt;项目链接：&lt;a href="https://github.com/n0-computer/iroh"&gt;https://github.com/n0-computer/iroh&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;universal-android-debloater-next-generation&lt;/strong&gt;：universal-android-debloater-next-generation 是一个用 Python 写的安卓设备清理工具，主要用来删除不必要的系统应用以提升手机性能。它提供了一个图形界面让用户可以直观地选择并卸载不需要的应用程序，并且支持自动化的批量操作模式来简化维护工作流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"&gt;https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：zvec、LibreTranslate、flue、insomnia、iroh、universal-android-debloater-next-generation，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.12｜agentsview、SkillSpector、restic、mattermost、chatwoot：多种编程语言开发的工具助力AI应用管理与安全防护</title>
       <description>agentsview：agentsview 是一个用 Shell 写的浏览器和追踪成本工具，主要用来管理和分析你的 AI 编码代理的成本和使用情况。
 项目链接：https://github.com/kenn-io/agentsview
