@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.21｜OpenMontage、palmier-pro、codebase-memory-mcp、turso、spiderfoot、cognee：多语言开发的智能化工具提升工作效率与质量</title>
+      <description>OpenMontage：OpenMontage 是一个用多种编程语言写的视频生产系统，主要用来制作和编辑高质量的视频内容。它支持从现有的视频中提取关键片段，并生成全新的视频作品；提供丰富的预设模板库让用户根据需求快速选择并应用；具备强大的自动化工作流管理功能，能够高效地完成多个项目的批量处理。
+项目链接：https://github.com/calesthio/OpenMontage
+
+palmier-pro：palmier-pro 是一个用多种编程语言写的视频编辑工具，主要用来创建个性化的视频内容。它支持实时预览编辑效果；提供丰富的特效库让用户轻松添加视觉元素；具备智能剪辑功能，能够自动识别和优化视频的关键片段。
+项目链接：https://github.com/palmier-io/palmier-pro
+
+codebase-memory-mcp：codebase-memory-mcp 是一个用多种编程语言写的代码库管理工具，主要用来存储和检索程序开发过程中产生的数据。它支持自动备份代码版本；提供智能索引功能帮助用户快速定位关键信息；具备强大的搜索和过滤能力，能够高效地处理大规模的数据集。
+项目链接：https://github.com/DeusData/codebase-memory-mcp
+
+turso：turso 是一个用 Rust 语言写的 SQL 数据库存储引擎，主要用来提供轻量级且高性能的数据库服务。它支持嵌入式部署；提供了兼容 SQLite 的接口，方便已有项目集成使用；具备强大的事务处理能力，在多用户并发访问时仍能保证数据的一致性和完整性。
+项目链接：https://github.com/tursodatabase/turso
+
+spiderfoot：spiderfoot 是一个用 Python 语言写的网络安全工具，主要用来进行网络资产发现与分析。它支持自动扫描目标域名及 IP 地址；提供了丰富的插件库以满足不同场景下的需求；具备强大的数据收集能力，并能生成详细的报告和统计信息。
+项目链接：https://github.com/smicallef/spiderfoot
+
+cognee：cognee 是一个用多种编程语言写的 AI 记忆平台工具，主要用来管理和检索大型数据集中的信息。它支持多模态输入；提供了丰富的查询接口帮助用户轻松访问所需内容；具备强大的索引和压缩能力，在处理大量文本时依然保持高性能表现。
+项目链接：https://github.com/topoteretes/cognee
+
+今日速报共 6 个项目：OpenMontage、palmier-pro、codebase-memory-mcp、turso、spiderfoot、cognee，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-21-mqnpdeom</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-21-lobster-21-mqnpdeom.mp3" length="6731948" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;OpenMontage&lt;/strong&gt;：OpenMontage 是一个用多种编程语言写的视频生产系统，主要用来制作和编辑高质量的视频内容。它支持从现有的视频中提取关键片段，并生成全新的视频作品；提供丰富的预设模板库让用户根据需求快速选择并应用；具备强大的自动化工作流管理功能，能够高效地完成多个项目的批量处理。&lt;br/&gt;项目链接：&lt;a href="https://github.com/calesthio/OpenMontage"&gt;https://github.com/calesthio/OpenMontage&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;palmier-pro&lt;/strong&gt;：palmier-pro 是一个用多种编程语言写的视频编辑工具，主要用来创建个性化的视频内容。它支持实时预览编辑效果；提供丰富的特效库让用户轻松添加视觉元素；具备智能剪辑功能，能够自动识别和优化视频的关键片段。&lt;br/&gt;项目链接：&lt;a href="https://github.com/palmier-io/palmier-pro"&gt;https://github.com/palmier-io/palmier-pro&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;codebase-memory-mcp&lt;/strong&gt;：codebase-memory-mcp 是一个用多种编程语言写的代码库管理工具，主要用来存储和检索程序开发过程中产生的数据。它支持自动备份代码版本；提供智能索引功能帮助用户快速定位关键信息；具备强大的搜索和过滤能力，能够高效地处理大规模的数据集。&lt;br/&gt;项目链接：&lt;a href="https://github.com/DeusData/codebase-memory-mcp"&gt;https://github.com/DeusData/codebase-memory-mcp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;turso&lt;/strong&gt;：turso 是一个用 Rust 语言写的 SQL 数据库存储引擎，主要用来提供轻量级且高性能的数据库服务。它支持嵌入式部署；提供了兼容 SQLite 的接口，方便已有项目集成使用；具备强大的事务处理能力，在多用户并发访问时仍能保证数据的一致性和完整性。&lt;br/&gt;项目链接：&lt;a href="https://github.com/tursodatabase/turso"&gt;https://github.com/tursodatabase/turso&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;spiderfoot&lt;/strong&gt;：spiderfoot 是一个用 Python 语言写的网络安全工具，主要用来进行网络资产发现与分析。它支持自动扫描目标域名及 IP 地址；提供了丰富的插件库以满足不同场景下的需求；具备强大的数据收集能力，并能生成详细的报告和统计信息。&lt;br/&gt;项目链接：&lt;a href="https://github.com/smicallef/spiderfoot"&gt;https://github.com/smicallef/spiderfoot&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cognee&lt;/strong&gt;：cognee 是一个用多种编程语言写的 AI 记忆平台工具，主要用来管理和检索大型数据集中的信息。它支持多模态输入；提供了丰富的查询接口帮助用户轻松访问所需内容；具备强大的索引和压缩能力，在处理大量文本时依然保持高性能表现。&lt;br/&gt;项目链接：&lt;a href="https://github.com/topoteretes/cognee"&gt;https://github.com/topoteretes/cognee&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：OpenMontage、palmier-pro、codebase-memory-mcp、turso、spiderfoot、cognee，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.19｜zvec、LibreTranslate、flue、insomnia、iroh、universal-android-debloater-next-generation：开源工具助力开发效率与用户体验优化</title>
       <description>zvec：zvec 是一个用 Rust 写的数据可视化库，主要用来将复杂数据集通过图表形式展现出来。它内置了多种图表类型和配置选项，使得用户可以根据不同的需求快速生成清晰直观的数据展示图。支持自定义样式及交互效果，方便在网页或桌面应用中集成使用。
 项目链接：https://github.com/alibaba/zvec
