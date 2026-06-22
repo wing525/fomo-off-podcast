@@ -16,6 +16,21 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.22｜biliTickerBuy：自动化工具提升在线购物效率体验</title>
+      <description>biliTickerBuy：biliTickerBuy 是一个用 JavaScript 写的自动化脚本，主要用来在哔哩哔哩抢购指定商品。
+项目链接：https://github.com/mikumifa/biliTickerBuy
+
+今日速报共 1 个项目：biliTickerBuy，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-22-mqp365c6</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-22-lobster-22-mqp365c6.mp3" length="1361708" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;biliTickerBuy&lt;/strong&gt;：biliTickerBuy 是一个用 JavaScript 写的自动化脚本，主要用来在哔哩哔哩抢购指定商品。&lt;br/&gt;项目链接：&lt;a href="https://github.com/mikumifa/biliTickerBuy"&gt;https://github.com/mikumifa/biliTickerBuy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 1 个项目：biliTickerBuy，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.21｜OpenMontage、palmier-pro、codebase-memory-mcp、turso、spiderfoot、cognee：多语言开发的智能化工具提升工作效率与质量</title>
       <description>OpenMontage：OpenMontage 是一个用多种编程语言写的视频生产系统，主要用来制作和编辑高质量的视频内容。它支持从现有的视频中提取关键片段，并生成全新的视频作品；提供丰富的预设模板库让用户根据需求快速选择并应用；具备强大的自动化工作流管理功能，能够高效地完成多个项目的批量处理。
 项目链接：https://github.com/calesthio/OpenMontage
