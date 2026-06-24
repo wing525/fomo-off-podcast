@@ -16,6 +16,21 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.24｜ai-website-cloner-template：自动化网页逆向工程提升开发效率</title>
+      <description>ai-website-cloner-template：ai-website-cloner-template 是一个用 JavaScript 写的网站克隆模板库，主要用来将任何网站反向工程成干净整洁的代码结构。
+项目链接：https://github.com/JCodesMore/ai-website-cloner-template
+
+今日速报共 1 个项目：ai-website-cloner-template，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-24-mqr9ypo9</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-24-lobster-24-mqr9ypo9.mp3" length="1513388" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;ai-website-cloner-template&lt;/strong&gt;：ai-website-cloner-template 是一个用 JavaScript 写的网站克隆模板库，主要用来将任何网站反向工程成干净整洁的代码结构。&lt;br/&gt;项目链接：&lt;a href="https://github.com/JCodesMore/ai-website-cloner-template"&gt;https://github.com/JCodesMore/ai-website-cloner-template&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 1 个项目：ai-website-cloner-template，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.22｜biliTickerBuy：自动化工具提升在线购物效率体验</title>
       <description>biliTickerBuy：biliTickerBuy 是一个用 JavaScript 写的自动化脚本，主要用来在哔哩哔哩抢购指定商品。
 项目链接：https://github.com/mikumifa/biliTickerBuy
