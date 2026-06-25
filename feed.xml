@@ -16,6 +16,33 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.25｜agent-toolkit-for-aws、page-agent、CasaOS、MediaCrawler、MinerU：多语言AI工具助力自动化数据处理与管理</title>
+      <description>agent-toolkit-for-aws：agent-toolkit-for-aws 是一个用多种编程语言写的工具库，主要用来帮助 AI 编程代理在 AWS 上构建、部署和管理应用。
+项目链接：https://github.com/aws/agent-toolkit-for-aws
+
+page-agent：page-agent 是一个用 TypeScript 写的浏览器自动化工具库，主要用来自动抓取网页内容并进行解析分析。
+项目链接：https://github.com/alibaba/page-agent
+
+CasaOS：CasaOS 是一个用多种编程语言写的个人云操作系统，主要用来构建私人的数据存储和管理平台。
+项目链接：https://github.com/IceWhaleTech/CasaOS
+
+MediaCrawler：MediaCrawler 是一个用多种编程语言写的爬虫工具库，主要用来抓取自媒体平台上的内容并进行存储与分析。
+项目链接：https://github.com/NanmiCoder/MediaCrawler
+
+MinerU：MinerU 是一个用多种编程语言写的智能数据挖掘工具库，主要用来自动化地提取和处理各类结构化与非结构化数据。
+项目链接：https://github.com/opendatalab/MinerU
+
+今日速报共 5 个项目：agent-toolkit-for-aws、page-agent、CasaOS、MediaCrawler、MinerU，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-25-mqteflak</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-25-lobster-25-mqteflak.mp3" length="4673324" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;agent-toolkit-for-aws&lt;/strong&gt;：agent-toolkit-for-aws 是一个用多种编程语言写的工具库，主要用来帮助 AI 编程代理在 AWS 上构建、部署和管理应用。&lt;br/&gt;项目链接：&lt;a href="https://github.com/aws/agent-toolkit-for-aws"&gt;https://github.com/aws/agent-toolkit-for-aws&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;page-agent&lt;/strong&gt;：page-agent 是一个用 TypeScript 写的浏览器自动化工具库，主要用来自动抓取网页内容并进行解析分析。&lt;br/&gt;项目链接：&lt;a href="https://github.com/alibaba/page-agent"&gt;https://github.com/alibaba/page-agent&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;CasaOS&lt;/strong&gt;：CasaOS 是一个用多种编程语言写的个人云操作系统，主要用来构建私人的数据存储和管理平台。&lt;br/&gt;项目链接：&lt;a href="https://github.com/IceWhaleTech/CasaOS"&gt;https://github.com/IceWhaleTech/CasaOS&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MediaCrawler&lt;/strong&gt;：MediaCrawler 是一个用多种编程语言写的爬虫工具库，主要用来抓取自媒体平台上的内容并进行存储与分析。&lt;br/&gt;项目链接：&lt;a href="https://github.com/NanmiCoder/MediaCrawler"&gt;https://github.com/NanmiCoder/MediaCrawler&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;MinerU&lt;/strong&gt;：MinerU 是一个用多种编程语言写的智能数据挖掘工具库，主要用来自动化地提取和处理各类结构化与非结构化数据。&lt;br/&gt;项目链接：&lt;a href="https://github.com/opendatalab/MinerU"&gt;https://github.com/opendatalab/MinerU&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 5 个项目：agent-toolkit-for-aws、page-agent、CasaOS、MediaCrawler、MinerU，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.24｜ai-website-cloner-template：自动化网页逆向工程提升开发效率</title>
       <description>ai-website-cloner-template：ai-website-cloner-template 是一个用 JavaScript 写的网站克隆模板库，主要用来将任何网站反向工程成干净整洁的代码结构。
 项目链接：https://github.com/JCodesMore/ai-website-cloner-template
