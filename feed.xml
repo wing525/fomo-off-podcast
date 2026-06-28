@@ -16,6 +16,33 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.28｜FluidVoice、cupy、strix、simplex-chat、openpilot：科技工具注重安全隐私与性能加速</title>
+      <description>FluidVoice：FluidVoice 是一个 macOS 的语音转文字软件，主要用来提供高质量的实时转录服务。它支持多种语音模型，并且可以在设备端运行，无需网络连接。
+项目链接：https://github.com/altic-dev/FluidVoice
+
+cupy：cupy 是一个用 Python 写的科学计算库，主要用来加速大规模数值计算任务。它提供 GPU 加速的 NumPy 和 SciPy 接口，可以显著提高数据处理和分析的速度。
+项目链接：https://github.com/cupy/cupy
+
+strix：strix 是一个用 JavaScript 写的安全检查工具，主要用来检测和修复应用中的漏洞。它通过模拟恶意攻击来发现潜在的风险点，并提供补救建议。
+项目链接：https://github.com/usestrix/strix
+
+simplex-chat：simplex-chat 是一个用 Python 写的消息传递应用，主要用来提供私密且安全的即时通讯服务。它注重用户隐私保护，支持多种平台间的无缝通信。
+项目链接：https://github.com/simplex-chat/simplex-chat
+
+openpilot：openpilot 是一个用 C++ 写的自动驾驶系统，主要用来提升车辆的安全辅助功能。它能够通过传感器数据实时分析驾驶环境，��驾驶员提供智能化的帮助。
+项目链接：https://github.com/commaai/openpilot
+
+今日速报共 5 个项目：FluidVoice、cupy、strix、simplex-chat、openpilot，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-28-mqxouvuo</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-28-lobster-28-mqxouvuo.mp3" length="5454380" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;FluidVoice&lt;/strong&gt;：FluidVoice 是一个 macOS 的语音转文字软件，主要用来提供高质量的实时转录服务。它支持多种语音模型，并且可以在设备端运行，无需网络连接。&lt;br/&gt;项目链接：&lt;a href="https://github.com/altic-dev/FluidVoice"&gt;https://github.com/altic-dev/FluidVoice&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cupy&lt;/strong&gt;：cupy 是一个用 Python 写的科学计算库，主要用来加速大规模数值计算任务。它提供 GPU 加速的 NumPy 和 SciPy 接口，可以显著提高数据处理和分析的速度。&lt;br/&gt;项目链接：&lt;a href="https://github.com/cupy/cupy"&gt;https://github.com/cupy/cupy&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;strix&lt;/strong&gt;：strix 是一个用 JavaScript 写的安全检查工具，主要用来检测和修复应用中的漏洞。它通过模拟恶意攻击来发现潜在的风险点，并提供补救建议。&lt;br/&gt;项目链接：&lt;a href="https://github.com/usestrix/strix"&gt;https://github.com/usestrix/strix&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;simplex-chat&lt;/strong&gt;：simplex-chat 是一个用 Python 写的消息传递应用，主要用来提供私密且安全的即时通讯服务。它注重用户隐私保护，支持多种平台间的无缝通信。&lt;br/&gt;项目链接：&lt;a href="https://github.com/simplex-chat/simplex-chat"&gt;https://github.com/simplex-chat/simplex-chat&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;openpilot&lt;/strong&gt;：openpilot 是一个用 C++ 写的自动驾驶系统，主要用来提升车辆的安全辅助功能。它能够通过传感器数据实时分析驾驶环境，��驾驶员提供智能化的帮助。&lt;br/&gt;项目链接：&lt;a href="https://github.com/commaai/openpilot"&gt;https://github.com/commaai/openpilot&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 5 个项目：FluidVoice、cupy、strix、simplex-chat、openpilot，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.25｜agent-toolkit-for-aws、page-agent、CasaOS、MediaCrawler、MinerU：多语言AI工具助力自动化数据处理与管理</title>
       <description>agent-toolkit-for-aws：agent-toolkit-for-aws 是一个用多种编程语言写的工具库，主要用来帮助 AI 编程代理在 AWS 上构建、部署和管理应用。
 项目链接：https://github.com/aws/agent-toolkit-for-aws
