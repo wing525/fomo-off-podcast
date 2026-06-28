@@ -16,6 +16,20 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.29｜龙虾AI工具速报</title>
+      <description>
+
+今日速报共 0 个项目：，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-29-mqyc7yop</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-29-lobster-29-mqyc7yop.mp3" length="575276" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;今日速报共 0 个项目：，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.28｜FluidVoice、cupy、strix、simplex-chat、openpilot：科技工具注重安全隐私与性能加速</title>
       <description>FluidVoice：FluidVoice 是一个 macOS 的语音转文字软件，主要用来提供高质量的实时转录服务。它支持多种语音模型，并且可以在设备端运行，无需网络连接。
 项目链接：https://github.com/altic-dev/FluidVoice
