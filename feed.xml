@@ -16,6 +16,44 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.06.30｜VulnClaw、council-of-high-intelligence、logto、VeraCrypt：开源工具助力安全与决策自动化提升效率</title>
+      <description>VulnClaw：VulnClaw 是一个用 Python 写的渗透测试 CLI 工具，主要用来自动化漏洞检测和利用流程。
+项目链接：https://github.com/Unclecheng-li/VulnClaw
+
+council-of-high-intelligence：council-of-high-intelligence 是一个用 Python 写的决策辅助工具，主要用来通过多个人工智能角色提供复杂的决策支持。
+项目链接：https://github.com/0xNyk/council-of-high-intelligence
+
+logto：logto 是一个用 JavaScript 写的身份验证平台，主要用来快速集成用户认证功能到各类应用中。
+项目链接：https://github.com/logto-io/logto
+
+VeraCrypt：VeraCrypt 是一个用 C++ 写的数据加密工具，主要用来保护敏感数据的安全性。
+项目链接：https://github.com/veracrypt/VeraCrypt
+
+今日速报共 4 个项目：VulnClaw、council-of-high-intelligence、logto、VeraCrypt，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-30-mqzut60s</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-30-lobster-30-mqzut60s.mp3" length="3571628" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;VulnClaw&lt;/strong&gt;：VulnClaw 是一个用 Python 写的渗透测试 CLI 工具，主要用来自动化漏洞检测和利用流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Unclecheng-li/VulnClaw"&gt;https://github.com/Unclecheng-li/VulnClaw&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;council-of-high-intelligence&lt;/strong&gt;：council-of-high-intelligence 是一个用 Python 写的决策辅助工具，主要用来通过多个人工智能角色提供复杂的决策支持。&lt;br/&gt;项目链接：&lt;a href="https://github.com/0xNyk/council-of-high-intelligence"&gt;https://github.com/0xNyk/council-of-high-intelligence&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;logto&lt;/strong&gt;：logto 是一个用 JavaScript 写的身份验证平台，主要用来快速集成用户认证功能到各类应用中。&lt;br/&gt;项目链接：&lt;a href="https://github.com/logto-io/logto"&gt;https://github.com/logto-io/logto&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;VeraCrypt&lt;/strong&gt;：VeraCrypt 是一个用 C++ 写的数据加密工具，主要用来保护敏感数据的安全性。&lt;br/&gt;项目链接：&lt;a href="https://github.com/veracrypt/VeraCrypt"&gt;https://github.com/veracrypt/VeraCrypt&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 4 个项目：VulnClaw、council-of-high-intelligence、logto、VeraCrypt，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2026.06.29｜龙虾AI工具速报</title>
+      <description>
+
+今日速报共 0 个项目：，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-06-29-mqyc7yop</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-06-29-lobster-29-mqyc7yop.mp3" length="575276" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;今日速报共 0 个项目：，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.28｜FluidVoice、cupy、strix、simplex-chat、openpilot：科技工具注重安全隐私与性能加速</title>
       <description>FluidVoice：FluidVoice 是一个 macOS 的语音转文字软件，主要用来提供高质量的实时转录服务。它支持多种语音模型，并且可以在设备端运行，无需网络连接。
 项目链接：https://github.com/altic-dev/FluidVoice
