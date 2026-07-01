@@ -16,6 +16,36 @@
     <itunes:image href="https://wing525.github.io/fomo-off-podcast/cover-lobster-v1.png" />
     <atom:link href="https://wing525.github.io/fomo-off-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026.07.01｜astryx、logto、OmniRoute、VulnClaw、herdr、cupp：现代开发注重自动化安全与集成效率提升</title>
+      <description>astryx：astryx 是一个用 React 写的设计系统，主要用来提供全面定制化和适应现代开发流程的解决方案。
+项目链接：https://github.com/facebook/astryx
+
+logto：logto 是一个用 JavaScript 写的身份验证平台，主要用来提供简单易用的用户认证服务。
+项目链接：https://github.com/logto-io/logto
+
+OmniRoute：OmniRoute 是一个用 JavaScript 写的 AI 代理网关工具，主要用来连接各种免费和付费的AI服务接口。
+项目链接：https://github.com/diegosouzapw/OmniRoute
+
+VulnClaw：VulnClaw 是一个用 Python 写的渗透测试 CLI 工具，主要用来驱动自动化漏洞扫描流程。
+项目链接：https://github.com/Unclecheng-li/VulnClaw
+
+herdr：herdr 是一个用 JavaScript 写的多代理终端集成工具，主要用来管理多个编程助手在同一终端内的协调工作。
+项目链接：https://github.com/ogulcancelik/herdr
+
+cupp：cupp 是一个用 Python 写的密码分析工具，主要用来识别常见的用户密码弱点。
+项目链接：https://github.com/Mebus/cupp
+
+今日速报共 6 个项目：astryx、logto、OmniRoute、VulnClaw、herdr、cupp，聚焦可直接上手的 AI 工具与开发库。</description>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <guid>lobster-2026-07-01-mr25q3o8</guid>
+      <enclosure url="https://wing525.github.io/fomo-off-podcast/episodes/2026-07-01-lobster-01-mr25q3o8.mp3" length="5554988" type="audio/mpeg" />
+      <itunes:author>龙虾AI工具速报</itunes:author>
+      <itunes:duration>00:05:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;astryx&lt;/strong&gt;：astryx 是一个用 React 写的设计系统，主要用来提供全面定制化和适应现代开发流程的解决方案。&lt;br/&gt;项目链接：&lt;a href="https://github.com/facebook/astryx"&gt;https://github.com/facebook/astryx&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;logto&lt;/strong&gt;：logto 是一个用 JavaScript 写的身份验证平台，主要用来提供简单易用的用户认证服务。&lt;br/&gt;项目链接：&lt;a href="https://github.com/logto-io/logto"&gt;https://github.com/logto-io/logto&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;OmniRoute&lt;/strong&gt;：OmniRoute 是一个用 JavaScript 写的 AI 代理网关工具，主要用来连接各种免费和付费的AI服务接口。&lt;br/&gt;项目链接：&lt;a href="https://github.com/diegosouzapw/OmniRoute"&gt;https://github.com/diegosouzapw/OmniRoute&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;VulnClaw&lt;/strong&gt;：VulnClaw 是一个用 Python 写的渗透测试 CLI 工具，主要用来驱动自动化漏洞扫描流程。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Unclecheng-li/VulnClaw"&gt;https://github.com/Unclecheng-li/VulnClaw&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;herdr&lt;/strong&gt;：herdr 是一个用 JavaScript 写的多代理终端集成工具，主要用来管理多个编程助手在同一终端内的协调工作。&lt;br/&gt;项目链接：&lt;a href="https://github.com/ogulcancelik/herdr"&gt;https://github.com/ogulcancelik/herdr&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;cupp&lt;/strong&gt;：cupp 是一个用 Python 写的密码分析工具，主要用来识别常见的用户密码弱点。&lt;br/&gt;项目链接：&lt;a href="https://github.com/Mebus/cupp"&gt;https://github.com/Mebus/cupp&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日速报共 6 个项目：astryx、logto、OmniRoute、VulnClaw、herdr、cupp，聚焦可直接上手的 AI 工具与开发库。&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>2026.06.30｜VulnClaw、council-of-high-intelligence、logto、VeraCrypt：开源工具助力安全与决策自动化提升效率</title>
       <description>VulnClaw：VulnClaw 是一个用 Python 写的渗透测试 CLI 工具，主要用来自动化漏洞检测和利用流程。
 项目链接：https://github.com/Unclecheng-li/VulnClaw
